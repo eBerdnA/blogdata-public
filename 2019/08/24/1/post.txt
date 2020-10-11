@@ -1,0 +1,15 @@
+---
+date: "2019-08-24 13:22:00"
+title: "Switch to Hugo"
+legacy: true
+slug: "/posts/2019-08-24-switch-to-hugo/"
+type: article
+content-type: html
+published: true
+properties:
+  tags: []
+  language: en
+...
+ <p>After starting to publish content on this domain I used a custom <a href="https://andre.bering.in/posts/2018-10-26-hello-world-statcoreblog/" target="_blank">static site generator</a> which I built using .NET core. Then after some time I switched to a custom static generator which I have built using python.</p>
+<p>Then after some time I came to the conclusion that building and maintaining my own site generator doesn&rsquo;t provide any real benefit to me. Therefore I decided to switch to <a href="https://gohugo.io" target="_blank">Hugo</a>. After preparing my theme and migrating the content this page is now running based on the output of Hugo.</p>
+<p>The content is now stored in a Github repository which triggers a webhook after commits. This receiving part for this webhook is running on my server. After receiving a webhook trigger from Github the script runs a git pull for the repository and starts processing with Hugo. After some seconds the new content is then visible on this page.</p>

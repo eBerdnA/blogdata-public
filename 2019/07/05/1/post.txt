@@ -1,0 +1,14 @@
+---
+date: "2019-07-05 19:05:00"
+title: "Azure Security Map"
+legacy: true
+slug: "/posts/2019-07-05-azure-security-map/"
+type: article
+content-type: html
+published: true
+properties:
+  tags: []
+  language: en
+...
+ <p><a href="/posts/2019-06-14-azure-architect-map">Recently</a> I posted about a great map which helps choosing the right component from Azure when designing a solution. <a href="https://twitter.com/stephaneeyskens" target="_blank">Stephane Eyskens</a> has published another great map. You can find his post here: <a href="https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091" target="_blank">Azure Security Map</a>.</p>
+<p>I&rsquo;m really looking forward to his other maps <strong>Azure Infrastructure Architect Map</strong> and <strong>Azure Application Architect Map</strong> which he mentioned he will be creating.</p>

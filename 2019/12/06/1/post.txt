@@ -1,0 +1,24 @@
+---
+title: "Weekly CW49-2019"
+date: "2019-12-06 07:00:00"
+slug: "posts/2019-12-06-weekly-cw49-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+lang: en
+properties:
+  tags: ["weekly"]
+...
+
+![Weekly CW49](weekly-cw49.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Today everyone in software development should be doing CI/CD or at least know what it is. [Three Common Pitfalls of CI/CD, and How to Avoid Them](https://dev.to/scahhht/three-common-pitfalls-of-ci-cd-and-how-to-avoid-them-2c9l) shows three pitfalls which you should not fall into when doing so.
+
+Maybe someone who is reading about Kubernetes has seen the term »Service Mesh«. [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/) explains what you need to know on this topic.
+
+To know patterns is always useful when working as a developer/software architect. [Options Pattern in .NET Core](https://codeburst.io/options-pattern-in-net-core-a50285aeb18d) shows how you can use the former mentioned pattern to register your dependencies in an ASP.NET Core application.
+
+If you liked what you read about dealing with the options pattern but don't have any experience in .NET [Learn .NET Core](https://dev.to/azure/learn-net-core-1jcn) is just the right article for you.
+
+<!--more-->

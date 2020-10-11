@@ -1,0 +1,27 @@
+---
+title: "Citizen Developer? - Just my two cents"
+date: 2019-12-10 09:00:00
+slug: "/posts/2019-12-10-citizen-developer-just-my-two-cents"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+lang: en
+properties:
+  tags: ["weekly"]
+...
+
+Since Microsoft Ignite took place this year I was thinking of how to explain the term **_Citizen Developer_** to someone. I think my colleague [Paul Heisterkamp](https://twitter.com/braul) wrote something ([Link](https://msdyn365fo.wordpress.com/2019/12/05/this-is-my-understanding-of-a-citizen-developer/)) which pretty much nailed it.
+
+![Citizen Developer/Every developer](citizen-developer.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+*Figure: Citizen Developer/Every developer*
+
+Nevertheless I have some additions to the beforementioned text. From my point of view Pro Developers/Enterprise Developers in this context should focus on delivering kind of Lego bricks (in a way of building blocks which can be stacked together) to the Citizen Developers so that they can create a solution for their specific problem.
+
+In addition Pro Developers/Enterprise Developers should also focus on building new skills which can't be automated in the future. But what are skills which can't be automated in the future? The article [Are You Developing Skills That Won’t Be Automated?](https://hbr.org/2019/09/are-you-developing-skills-that-wont-be-automated?_lrsc=4bba76ec-d222-4289-b307-b974ba7cbed0) pretty much sums it up from my point of view even though not especially for developers.
+
+After reading the article in my opinion Pro Developers/Enterprise Developers should always focus on creating solutions which add business value and moreover **understand** what problems people are trying to solve.<br/>
+Therefore they should aid their colleagues/customers which are Citizen Developers by understanding their needs and providing solution blocks so that they can then create solutions as mentioned before for their problems on their own.
+
+What do you think on this interpretation and outlook for the future of (Pro/Enterprise) developers?
+
