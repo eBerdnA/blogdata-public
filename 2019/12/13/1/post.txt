@@ -1,0 +1,25 @@
+---
+title: "Weekly CW50-2019"
+date: 2019-12-13 07:00:00
+slug: "/posts/2019-12-13-weekly-cw50-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+lang: en
+properties:
+  tags: ["weekly"]
+...
+
+![Weekly CW50](weekly-cw50.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Really interesting [topic list](https://twitter.com/ChrisO_Brien/status/1201772243304538113) from [Chris O'Brien](https://twitter.com/ChrisO_Brien/). A very broad spectrum of things which a Office 365 should be capable off to do. But I think you should have a very good understanding of all these topics even though you needn't have to implement them all by yourself.
+
+[Going faster with continuous delivery](https://aws.amazon.com/de/builders-library/going-faster-with-continuous-delivery/) is a very interesting article from Amazon. You get to know how they improved their speed of execution by adopting a continuous delivery approach.
+
+My money quote from [Kevin Mas Ruiz](https://twitter.com/skmruiz/) article is: "Teams should not share code, but a common platform.". His article "[To Domain Driven Design](https://dev.to/kmruiz/to-domain-driven-design-6ao)" is a longer read (dev.to says 7 minutes, which I doubt if you really would like to follow his argumentation) but a very useful one. Afterwards you might be starting to think whether it is still a good idea to share code in your specific context.
+
+[Emma Wedekind](https://twitter.com/EmmaWedekind/) describes "[How I Gained 65,000 Twitter Followers In One Year](https://dev.to/emmawedekind/how-i-gained-27000-twitter-followers-in-6-months-2hog)". One key fact which she mentions is to post content consistently. I think this a very good advise which I try to follow myself after getting back on track with blogging by simple posting these weekly sum ups of things I have read.
+
+From my point of view it is very important that you are willing to disagree with someone even though she or he is your supervisor if you can't follow their arguments or might think they have overlooked something. A good way to approach your way to this disagree is written by [Amy Gallo](https://twitter.com/amyegallo) in her article"[How to Disagree with Someone More Powerful than You](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you)". 
+

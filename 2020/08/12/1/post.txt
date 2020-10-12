@@ -1,0 +1,269 @@
+---
+title: "Application Lifecycle Management (ALM) and Power Apps"
+date: 2020-08-12 11:00:00
+slug: "/posts/2020-08-12-application-lifecycle-management-alm-and-power-apps"
+author: André Bering 
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["Power Apps", "ALM", "Azure DevOps"]
+  language: en
+toc: true
+...
+
+## Introduction
+
+This article will explain how to apply Application Lifecycle Management (ALM) in Azure DevOps for Power Apps. It will be shown how to set up the required Azure DevOps environment. Furthermore, it will be described how source code/Power Apps can be versioned, quality assurance can be performed and subsequently artifacts delivered to the production environment.
+
+The history of the article is longer. The first draft was already written by me in 2019. In the meantime I have worked on it again and again. What finally kept me from publishing it was, in my opinion, not yet "__finished__" tooling of the "[Microsoft Power Platform Build Tools for Azure DevOps - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)". The originally available tooling (Azure DevOps Extension) is still available now but has been marked as "DEPRECATED" since the jump to version 0.3.7. Already since the jump from version 0.1.16 to version 0.3.6 the original tooling has been fundamentally revised/improved. 
+
+In version 0.1.16, the access credentials (user name/password) had to be stored in plain text to set up the connection. Since version 0.3.6 this authentication can finally be setup using [Service Principals](https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals).
+
+![Authentication methods](devops-principal.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Authentication methods*
+
+The old (**<ins>not recommended</ins>**) method (yellow) is still available. So the transition to the new option (green) is seamless, even for users who have already used previous versions of BuildTools or have not yet set up Service Principals. **When changing to or starting with the current version of the Build Tools, you should always be using Service Principals**.
+
+Two versions are available in the Visual Studio Marketplace:
+1. **[Power Platform Build Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerPlatform-BuildTools&targetId=e326b11d-3605-4a6e-903e-4bff6ccc155d&utm_source=vstsproduct&utm_medium=ExtHubManageList)**  
+2. (**DEPRECATED**) [PowerApps BuildTools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools&targetId=e326b11d-3605-4a6e-903e-4bff6ccc155d&utm_source=vstsproduct&utm_medium=ExtHubManageList)
+
+As described above, this extension [2] is now marked as "**DEPRECATED**", so only [1] should be used.  
+The tools currently available for Azure DevOps are basically a wrapper around the SolutionPackager for D365 Customer Engagement (CRM).
+
+The final architecture, for the integration of Azure DevOps and Power Platform, will look like the following on an abstract level.
+
+![Architecture overview](architecture.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Architecture overview*
+
+Microsoft itself suggests two different approaches for ALM in conjunction with the Power Platform. [^1] In this article the first variant is described, where only the source code is versioned, but not the packed solutions. In the context of classical software development this is also the _normal_ way, because usually only source code and not compiled binaries are versioned.
+
+<!-- more -->
+
+## Requirements
+
+Basically, a few things are needed to be able to follow the steps. The following components are required.
+
+* 3 Power Apps Environments (e.g. [Microsoft 365-Entwicklerabonnements](https://docs.microsoft.com/en-us/office/developer-program/office-365-developer-program-get-started) with three accounts inside the tenant each connected to [Power Apps-Communityplan](https://powerapps.microsoft.com/en-us/communityplan/))
+* 1 Azure DevOps project
+  * installed [Microsoft Power Platform Build Tools for Azure DevOps - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools)
+  * 1 Git Repository
+* 1 Service Principal
+
+<aside class="article-alert article-alert-warning">
+	<div class="alert-warning-icon">
+		<img src="/img/exclamation.svg" />
+	</div>
+    <div class="alert-warning-content">        
+        If a Microsoft 365 developer subscription is used, it must be clear that it expires after 90 days if no M365 development has been performed. For the extension it is sufficient that, for example, a <a href="https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part">SharePoint Web Part</a> is created/developed.
+    </div>
+</aside>
+
+## Getting started {#getting-started}
+
+As mentioned above, three environments are required to follow this guide. For the following steps the following environments with the corresponding definitions are used.
+
+{:.bordered-table}
+| Name | Function | 
+| ------------- | :-----:|
+| André Bering's Environment | DEV |
+| Johanna Lorenz's Environment | BUILD/QA |
+| Alex Wilber's Environment | PROD |
+
+As you can see, these three environments are visible in the [Power Platform Admin Center](http://aka.ms/ppac).
+
+![Environment overview](environment-overview.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Environment overview*
+
+Having a background as a developer, the first question that might arise is how to version control your work in the Power Platform. At the moment there is no easy way to do this. The only way is to manually download the solution, unzip it and then version the content.
+
+This process can be mapped into Azure DevOps using ALM, even with a kind of CI/CD approach.  
+The article is mainly based on the Microsoft tutorial for the Power Apps Build Tools, which can be found [here](https://github.com/microsoft/PowerApps-Samples/tree/master/build-tools).
+
+For the tutorial and the further steps the URL of the respective environment is required. The URL can be found in the [Admin Center](https://aka.ms/ppac).
+
+![Admin Center - Environment URL](environment-url.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Admin Center - Environment URL*
+
+If any form of ALM is to be used with Power Apps, it is first necessary to understand how solutions work in this context. To understand these basics you can read this Microsoft Docs article: [Solutions in Power Apps - Power Apps | Microsoft Docs](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/solutions-overview)
+
+In this article there is another introduction linked, which should be read: [Introduction to solutions - Power Apps | Microsoft Docs](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/introduction-solutions)
+
+## Service connections / Service Principals {#service-principal}
+
+To be able to set up the connection in Azure DevOps, the corresponding Service Principal must be set up or stored in Azure DevOps. The corresponding menu item is located below "_**Project Settings - Pipelines - Service connection - New service connection**_".
+
+![Azure DevOps Service - Create new service connection](create-new-sc.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps Service - Create new service connection*
+
+![Azure DevOps Service connections](create-serviceconnection.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps Service connections*
+
+In the dialogue, reference is made to two places which should help to create the corresponding access or to store it in the correct place. The first link refers to instructions in Microsoft Docs. There it is recommended to create the access using a linked PowerShell script. However, the script can only be executed under Windows because the PowerShell modules used require "System.Forms" and these are only available under Windows. Therefore I recommend that the Service Principal is created directly in the Azure Portal. The corresponding documentation is linked in the continuous text of the manual.
+
+<aside class="article-alert article-alert-warning">
+	<div class="alert-warning-icon">
+		<img src="/img/exclamation.svg" />
+	</div>
+    <div class="alert-warning-content">        
+        The Service Principal must be created in the Tenant in which the Power Apps environments are located.
+    </div>
+</aside>
+
+[Use Single-Tenant server-to-server authentication (Common Data Service) - Power Apps | Microsoft Docs](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#azure-application-registration)
+
+After the Service Principal(s) have been created in Azure in, the setup can be continued.
+
+The crucial point is that there is **not** the item "**Settings**" as in the manual, but the item "**Advanced Settings**". This item can be used to call up the corresponding interface. 
+
+![Settings - Advanced Settings](01-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Settings - Advanced Settings*
+
+At this point, you might be surprised when the Dynamics 365 interface appears. The two platforms are very closely intertwined, so that certain settings are currently only (still) found in the _old_ interface. The changeover to an end-to-end management interface is an ongoing process. Therefore it can be assumed that in the future the points will also be integrated into the power platform interface or a uniform look and feel.
+
+There is another stumbling block in the Microsoft documentation, namely the creation of the user. However, the behavior regarding this stumbling block was not consistent.  
+For this reason, the following are the individual dialogs that must be processed to make the Service Principal known within the power platform environment. 
+
+![D365 Settings](02-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: D365 Settings*
+
+![D365 Security](03-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: D365 Security*
+
+In the user list view, filter to "Application Users" and then click "+ NEW".
+
+![Filter user list](04-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Filter user list*
+
+Before entering the data, the dialog must be switched to the correct mode by selecting "Application User".
+
+![Select 'Application User'](05-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Select 'Application User'*
+
+When entering the data, the information that was previously defined when the Service Principal was created in the Azure Portal must be used. The user also needs (because it is a mandatory field of the form) an e-mail address, even if it is only a technical user account. Here, for example, addresses of so-called example domains ([example domains - Wikipedia](https://de.wikipedia.org/wiki/Beispieldomains)) can be used, as can be seen in the following screenshot However, the address is not used for sending e-mails.  
+After creating the user by clicking the "SAVE" button, do not close the **not** dialog.
+
+![Enter user information](06-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Enter user information*
+
+Using the button "MANAGE ROLES" the necessary role must be assigned to the user account.
+
+![Open 'MANAGE ROLES'](07-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Open 'MANAGE ROLES'*
+
+To be able to perform all necessary actions with this user account, the role "System Administrator" must be assigned. Otherwise, errors will occur later in the context of using this accountby the Azure DevOps Pipelines.
+
+![User role selection](08-create-sp.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: User role selection*
+
+After this step the account is set up and can now be stored in Azure DevOps. For this purpose the dialog which is shown/described at the beginning of this section ("[Service connections / Service Principals]({{< ref "#service-principal" >}})") must be used.
+
+An individual Service Connection must be created for each power platform environment. In total, the setup described above must be carried out three times, whereby the Service Principal does not have to be created three times. The Service Principal can be stored as a user account in each environment.  
+Alternatively, a separate Service Principal can be created for each environment.
+
+![Azure DevOps Service connections list](devops-service-connections-list.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps Service connections list*
+
+Then create all required connections with the respective information/access data per environment.
+
+![Azure DevOps Service connection properties](devops-service-connections-properties.png){.lb .lb-img-noborder lb-cust-margin width="50%" noborder="yes"}
+*Figure: Azure DevOps Service connection properties*
+
+As described in the section "[Getting Started]({{< ref "#getting-started" >}})", the URL of the environment is required and this value is stored as "_**Server URL**_" in Service Connection properties.
+
+## Azure DevOps Pipelines
+
+### Introduction
+
+Once the Service Connections have been created, the pipelines and releases must now be set up. These are used to extract the source code from "DEV", create a Managed Solution in "QA/Build" and then roll out this Solution in "PROD".
+
+One pipeline is required for each of the first two steps.
+
+![Azure DevOps Pipelines list](pipelines-list.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps Pipelines list*
+
+An Azure DevOps release is then used for the final deployment towards PROD.
+
+![Azure DevOps Releases list](releases-list.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps Releases list*
+
+### Repository permissions
+
+Below "_**Project Settings - Repos - Repositories User**_" the account "_**\<Azure DevOps Project Name\> Build service \(\<Organization name\>\)**_" must be granted the "_**Contribute**_" permission. Otherwise, the build pipeline cannot push the source code into the repository.
+
+!['Build Service' permissions](build-service-permission.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: 'Build Service' permissions*
+
+### Solution export
+
+There are four steps in the pipeline for exporting the solution and one more for adding the code to the repository.
+
+![Azure DevOps pipeline tasks](export-from-dev.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps pipeline tasks*
+
+To add the source code to the repository, a few command-line commands are required to have Git run automatically in the context of the pipeline.
+
+![Azure DevOps pipeline command line task](task-add-source-code.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps pipeline command line task*
+
+The variable should be emphasized here. This must / can be set when the queue is started. This means that the respective commit comment can always be set dynamically during the respective run. The code for this task can be found in the following section.
+
+#### Source code in repository
+
+The commands are used in the final step "Commit solution to repo" to add the code to the repository.
+
+    echo commit all changes
+    git config user.email "<E-Mail address of commit user""
+    git config user.name "Automatic Build"
+    git checkout master
+    git add --all
+    git commit -m "$(CommitMessage)"
+    echo push code to new repo
+    git -c http.extraheader="AUTHORIZATION: bearer $(System.AccessToken)" push origin master
+
+### Create managed solution
+
+After the solution has been extracted from the DEV environment, it must be transferred to the BULD/QA environment where the managed solution is created.
+
+{{< figure2 src="export-from-build.png" caption="Azure DevOps pipeline tasks" class="lb-cust-margin" lang="en">}}
+
+For this purpose, the two tasks "Power Platform Import Solution" and "Power Platform Export Solution" are used in the context of the pipeline. For the latter task it is important that the option "Export as Managed Solution" is activated.
+
+{{< figure2 src="export-from-build-managed.png" caption="Option »Export as Managed Solution«" class="lb-cust-margin" lang="en">}}
+
+In the last step of the pipeline, the exported solution is published as pipeline artifact. This step is important so that the solution created in the context of the release can then be rolled out in the production environment.
+
+### Deployment to PROD
+
+With a release, the solution is rolled out into the "PROD" environment. In this case, the artifact previously created must first be linked to the Release in the "Artifacts".
+
+{{< figure2 src="deploy-to-prod.png" caption="Release pipeline - artifact properties" class="lb-cust-margin" lang="en">}}
+
+This way the artifact can be used in the tasks of the release. It is important that the "alias" of the artifact is part of the path specification in the task for the actual deployment. There is no variable within Azure DevOps for this variable part. The reason for this is that more than one artifact can be used in a release and therefore a unique relationship between variable and artifact would not be possible.
+
+{{< figure2 src="deploy-to-prod-alias.png" caption="Release Pipeline - artifact alias«" class="lb-cust-margin" lang="en">}}
+
+## Tools
+
+As mentioned in the beginning, the Power Platform Build Tools are basically just a wrapper around the tooling for customer engagement. They can be installed and used as in the following instructions.
+
+[Use the SolutionPackager tool to compress and extract a solution file](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/compress-extract-solution-file-solutionpackager)
+
+Afterwards, all tools are installed in order to be able to perform the previously described steps manually locally. At this point, however, it is recommended to choose the ALM path using Azure DevOps for the sake of cooperation.
+
+## Conclusion
+
+A developer may be used to a different approach when it comes to versioning source code. However, development on the Power Platform brings with it special peculiarities, which include a different approach to this process.
+
+## Sources
+
+1. [Application lifecycle management (ALM) with Microsoft Power Platform - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/)
+2. [Application lifecycle management (ALM) basics with Microsoft Power Platform - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/basics-alm)
+3. [Configure service connections using a service principal - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/devops-build-tools#configure-service-connections-using-a-service-principal)
+4. [Configure user security in an environment - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/admin/database-security)
+5. [Use Single-Tenant server-to-server authentication (Common Data Service) - Power Apps | Microsoft Docs](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#azure-application-registration)
+
+[^1]: "There are two main paths you can use when working with solutions in a source control system:..." - [ALM for developers - Power Platform | Microsoft Docs](https://docs.microsoft.com/en-us/power-platform/alm/alm-for-developers), Retrieval: 24.06.2020
+
+

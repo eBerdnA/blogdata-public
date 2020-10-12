@@ -1,0 +1,22 @@
+---
+title: "Weekly CW010-2020"
+date: 2020-03-06 07:00:00
+slug: "/posts/2020-03-06-weekly-cw010-2020"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly", "Git", "PowerPlatform", "Observability"]
+  language: en
+...
+
+![Weekly CW10](weekly-cw10.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Talking about monitoring or observability? Have a look at »[Observability is a Many-Splendored Definition](https://charity.wtf/2020/03/03/observability-is-a-many-splendored-thing/)«. You should no longer be talking about monitoring but instead about observability.
+
+Trying to understand how you need to do authentication using Power Platform's CDS? Then have a look at »[How to authenticate your code with Azure Active Directory and Common Data Service](https://www.powerappsguy.com/blog/how-to-authenticate-code-with-azure-active-directory-and-power-platform-common-data-service-cds/)« by [Jens Christian Schrøder](https://www.linkedin.com/in/jensschroder?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdmFjU200RsqLgCC4rnI36g%3D%3D). 
+
+»[How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)« was a huge time saver for me last week because I needed to merge two different Git repositories. As I had done this never before this article was a big time saver for me.
+
+[Dona Sarkar](https://twitter.com/donasarkar) who is a always recommendation to follow on twitter, if you are interested in #PowerPlatform, [tweeted](https://twitter.com/donasarkar/status/1235295971455709185) about a great demo by [Chris Huntingford](https://twitter.com/TATTOOEDCRMGUY). He [demoes](https://twitter.com/TATTOOEDCRMGUY/status/1235262659404214272) end to end how to built a complete application using #PowerPlatform in 45 minutes.

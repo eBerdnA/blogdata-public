@@ -1,0 +1,33 @@
+---
+title: "Announcement from Microsoft: Introducing Microsoft 365 Personal and Family subscriptions"
+date: 2020-03-30 21:00:00
+slug: "/posts/2020-03-30-announcement-from-microsoft-introducing-microsoft-365-personal-and-family-subscriptions"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["Office365", "Microsoft365"]
+  language: en
+...
+
+![Microsoft Teams](teams.jpg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Today Microsoft announced that Office 365 will become Microsoft 365 and therefore announced new Microsoft 365 Personal and Family subscriptions which will be available on April 21st. But this announcement is bigger than just a simple rebranding of a product.
+
+Apart from renaming Microsoft announced that two new Microsoft 365 experiences will roll out as a preview in the coming months - a new Microsoft Family Safety app and new features in Teams.
+
+But Microsoft even announced more today. Microsoft Edge (Chromium based) will get new features. You can find all the details about this [here](https://blogs.windows.com/windowsexperience/2020/03/30/the-top-10-reasons-to-switch-to-the-new-microsoft-edge/).
+
+In addition Microsoft unveiled a new editor - Microsoft Editor - which is an AI powered service available in 20 languages. All the details can be found [here](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-microsoft-editor-bring-out-your-best-writer-wherever/ba-p/1247931). This editor can be used on its own as standalone browser extension for Microsoft Edge and Google Chrome, or in Word and Outlook.com.
+
+For PowerPoint Microsoft introduced an AI assistant which should assist you in becoming a better presenter by observing your presentation style which I think is a great new feature.
+
+But this is not the end of new features. But instead of rephrasing all of the new announcements I recommend that you simply go the first source of this post and have a look at all the details of Microsoft's announcement.
+
+#### Sources
+
+1. [Introducing the new Microsoft 365 Personal and Family subscriptions](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/30/introducing-new-microsoft-365-personal-family-subscriptions/)
+2. [Extending the power of Azure AI to Microsoft 365 users](https://azure.microsoft.com/en-us/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/?utm_source=dlvr.it&utm_medium=twitter)
+3. [The top 10 reasons to switch to the new Microsoft Edge](https://blogs.windows.com/windowsexperience/2020/03/30/the-top-10-reasons-to-switch-to-the-new-microsoft-edge/)
+4. [Introducing Microsoft Editor – Bring out your best writer wherever you write](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-microsoft-editor-bring-out-your-best-writer-wherever/ba-p/1247931)

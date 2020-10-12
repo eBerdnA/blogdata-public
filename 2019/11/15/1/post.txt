@@ -1,0 +1,29 @@
+---
+title: "Weekly CW46-2019"
+date: 2019-11-15 07:00:00
+slug: "/posts/2019-11-15-weekly-cw46-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+As mentioned last week I still attended more sessions at Microsoft Ignite. So following the remaining sessions which I attended and I would recommend to anyone interested in latest Microsoft technology.
+
+* In [A Vault for your CI/CD Pipeline](https://myignite.techcommunity.microsoft.com/sessions/87564) [Joey Lorich](https://github.com/jlorich) explains how Terraform KeyVault can be integrated in your CI/CD pipeline to keep your secrets secret.
+* Pretty amazing to see that testing tools will be available for Power Apps in the upcoming weeks. [Optimize your apps with quality tools for Power Apps](https://myignite.techcommunity.microsoft.com/sessions/83519) demonstrates all the upcoming possibilities.
+* Very interesting to see how Azure Functions can even be run on-premises using Docker/Kubernetes. [Serverless Kubernetes with Azure Functions and Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/83959) demonstrates how even the tooling for scaling up/down is available when running Azure Functions in Kubernetes.
+
+I attended more session but from my point of view these sessions would be only interesting for people who currently want to dive deeper into the Power Platform.
+
+Nevertheless here are some more interesting things which I found this week.
+
+It is always good if you can name things when trying to improve them. This is even more important when you are trying to refactor code. [Refactoring - What problem on your code do you want to fix?](https://dev.to/rachc/refactoring-what-problem-on-your-code-do-you-want-to-fix-487f) explains which common patterns can often be found before starting to refactor.
+
+[The one mistake I made as a developer I wished I learned sooner](https://medium.com/@PurpleGreenLemon/the-one-mistake-i-made-as-a-developer-i-wished-i-learned-sooner-140d37214999) goes in detail why it is important to protect your time and how you can achieve this.
+
+I think that the characteristics mentioned in [Seven Common Characteristics of Creative Thinkers](https://dev.to/jamiepo/seven-common-characteristics-of-creative-thinking-3i94) are very useful especially for developers. I think so because from my point of view developing software is kind of a creative skill because often you need to find a solution for something which hasn't been done before.
+
+Having a basic understanding of how a server works is a invaluable thing for a developer at least from my point of view. [The introduction to servers I wish I'd had](https://dev.to/harri_etty/the-introduction-to-servers-i-wish-i-d-had-44jl) is a great introduction how you can get a better understanding of servers.

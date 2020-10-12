@@ -2,15 +2,18 @@
 date: "2019-08-30 07:00:00"
 title: "Weekly CW35"
 legacy: true
-slug: "/posts/2019-08-30-weekly-cw35/"
+slug: "/posts/2019-08-30-weekly-cw35"
 type: article
-content-type: html
+content-type: markdown
 published: true
 properties:
   tags: []
   language: en
 ...
- <p>Having done this in the past time for some time I would like to get traction in this again. So I will try to post a weekly collection of links which are interesting from my point of view. Sometimes including a personal comment. Most of the content will be tech related.</p>
-<p>So this is the first edition of this for calendar week 35. The upcoming weeks this post will be always published Friday morning. Due to the fact that I only started to gather content for this post in the middle of the week there are only to recommendations for this week.</p>
-<p><a href="http://danielbachler.de/2019/08/11/the-state-of-software-engineering.html" target="_blank">The state of software engineering</a> - Especially interesting because of the comparison to other professions which do exist quite longer than software engineering.</p>
-<p><a href="http://dontcodetired.com/blog/post/Understanding-Azure-Durable-Functions-Part-1-Overview" target="_blank">Understanding Azure Durable Functions - Part 1: Overview</a> - Very good introduction to <a href="https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview" target="_blank">Durable Azure Functions</a>. Til today the tenth part of this series has been published by <a href="https://twitter.com/robertsjason" target="_blank">Jason Roberts</a>.</p>
+Having done this in the past time for some time I would like to get traction in this again. So I will try to post a weekly collection of links which are interesting from my point of view. Sometimes including a personal comment. Most of the content will be tech related.
+
+So this is the first edition of this for calendar week 35. The upcoming weeks this post will be always published Friday morning. Due to the fact that I only started to gather content for this post in the middle of the week there are only to recommendations for this week.
+
+[The state of software engineering](http://danielbachler.de/2019/08/11/the-state-of-software-engineering.html) - Especially interesting because of the comparison to other professions which do exist quite longer than software engineering.
+
+[Understanding Azure Durable Functions - Part 1: Overview](http://dontcodetired.com/blog/post/Understanding-Azure-Durable-Functions-Part-1-Overview) - Very good introduction to [Durable Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview). Til today the tenth part of this series has been published by [Jason Roberts](https://twitter.com/robertsjason).

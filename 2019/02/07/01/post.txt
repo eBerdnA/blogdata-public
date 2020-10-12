@@ -1,53 +1,57 @@
 ---
 date: "2019-02-07 20:20:00"
 title: "Using glob.glob in python"
-legacy: true
 slug: "/posts/2019-02-07-using-glob.glob-in-python/"
 type: article
-content-type: html
+content-type: markdown
 published: true
 properties:
-  tags: [python, ]
+  tags: ["python"]
   language: en
 ...
- <p>When using <a href="https://docs.python.org/3/library/glob.html#glob.glob" target="_blank">&lt;code&gt;glob.glob&lt;/code&gt;</a> in Python you might experience some unexpected results. Lets say you have the following directory content.</p>
-<pre><code>andre@Users-MBP:~/dev/globdemo% ls -gnGl
-total 0
--rw-r--r--  1 20  0 Feb  7 21:51 2019-02-05-demo1.md
--rw-r--r--  1 20  0 Feb  7 21:51 2019-02-06-demo2.md
--rw-r--r--  1 20  0 Feb  7 21:51 2019-02-07-demo3.md
-</code></pre>
-<p>Using the following simple program will create some unexpected output at least at a first glance.</p>
-<pre><code>import os, glob
+When using [`glob.glob`](https://docs.python.org/3/library/glob.html#glob.glob) in Python you might experience some unexpected results. Lets say you have the following directory content.
 
-path = '/Users/Andre/dev/globdemo'
-for file in glob.glob( os.path.join(path, '*.*')):
-    print(file)
-</code></pre>
-<p>This will print the following:</p>
-<pre><code>/Users/Andre/dev/globdemo/2019-02-06-demo2.md
-/Users/Andre/dev/globdemo/2019-02-07-demo3.md
-/Users/Andre/dev/globdemo/2019-02-05-demo1.md
-</code></pre>
-<p>As you can see the order of files is different from the one using <code>ls</code>. This is because <a href="https://docs.python.org/3/library/glob.html#glob.glob" target="_blank">&lt;code&gt;glob.glob&lt;/code&gt;</a> is basically just a wrapper for <a href="https://docs.python.org/3/library/os.html#os.listdir" target="_blank">&lt;code&gt;os.listdir&lt;/code&gt;</a> which returns the directory contents in arbitrary order. On MacOS you will get the same order for your output when using <code>-f</code>.</p>
-<pre><code>andre@Users-MBP:~/dev/globdemo% ls -gnGfl
-total 0
-drwxr-xr-x   5 20  160 Feb  7 21:51 .
-drwxr-xr-x  21 20  672 Feb  7 21:58 ..
--rw-r--r--   1 20    0 Feb  7 21:51 2019-02-06-demo2.md
--rw-r--r--   1 20    0 Feb  7 21:51 2019-02-07-demo3.md
--rw-r--r--   1 20    0 Feb  7 21:51 2019-02-05-demo1.md
-</code></pre>
-<p>If you need your files sorted in python you can simply solve this by using <a href="https://docs.python.org/3/library/functions.html#sorted" target="_blank">&lt;code&gt;sorted&lt;/code&gt;</a> in your program.</p>
-<pre><code>import os, glob
+    andre@Users-MBP:~/dev/globdemo% ls -gnGl
+    total 0
+    -rw-r--r--  1 20  0 Feb  7 21:51 2019-02-05-demo1.md
+    -rw-r--r--  1 20  0 Feb  7 21:51 2019-02-06-demo2.md
+    -rw-r--r--  1 20  0 Feb  7 21:51 2019-02-07-demo3.md
 
-path = '/Users/Andre/dev/globdemo'
-for file in sorted(glob.glob( os.path.join(path, '*.*'))):
-    print(file)
-</code></pre>
-<p>Running this slightly modified program will create the following output:</p>
-<pre><code>andre@Users-MBP:~/dev% python3 globdemosorted.py
-/Users/Andre/dev/globdemo/2019-02-05-demo1.md
-/Users/Andre/dev/globdemo/2019-02-06-demo2.md
-/Users/Andre/dev/globdemo/2019-02-07-demo3.md
-</code></pre>
+Using the following simple program will create some unexpected output at least at a first glance.
+
+    import os, glob
+
+    path = '/Users/Andre/dev/globdemo'
+    for file in glob.glob( os.path.join(path, '*.*')):
+        print(file)
+
+This will print the following:
+
+    /Users/Andre/dev/globdemo/2019-02-06-demo2.md
+    /Users/Andre/dev/globdemo/2019-02-07-demo3.md
+    /Users/Andre/dev/globdemo/2019-02-05-demo1.md
+
+As you can see the order of files is different from the one using `ls`. This is because [`glob.glob`](https://docs.python.org/3/library/glob.html#glob.glob) is basically just a wrapper for [`os.listdir`](https://docs.python.org/3/library/os.html#os.listdir) which returns the directory contents in arbitrary order. On MacOS you will get the same order for your output when using `-f`.
+
+    andre@Users-MBP:~/dev/globdemo% ls -gnGfl
+    total 0
+    drwxr-xr-x   5 20  160 Feb  7 21:51 .
+    drwxr-xr-x  21 20  672 Feb  7 21:58 ..
+    -rw-r--r--   1 20    0 Feb  7 21:51 2019-02-06-demo2.md
+    -rw-r--r--   1 20    0 Feb  7 21:51 2019-02-07-demo3.md
+    -rw-r--r--   1 20    0 Feb  7 21:51 2019-02-05-demo1.md
+
+If you need your files sorted in python you can simply solve this by using [`sorted`](https://docs.python.org/3/library/functions.html#sorted) in your program.
+
+    import os, glob
+
+    path = '/Users/Andre/dev/globdemo'
+    for file in sorted(glob.glob( os.path.join(path, '*.*'))):
+        print(file)
+
+Running this slightly modified program will create the following output:
+
+    andre@Users-MBP:~/dev% python3 globdemosorted.py
+    /Users/Andre/dev/globdemo/2019-02-05-demo1.md
+    /Users/Andre/dev/globdemo/2019-02-06-demo2.md
+    /Users/Andre/dev/globdemo/2019-02-07-demo3.md

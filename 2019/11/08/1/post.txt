@@ -1,0 +1,31 @@
+---
+title: "Weekly CW45-2019"
+date: 2019-11-08 07:00:00
+slug: "/posts/2019-11-08-weekly-cw45-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+
+Spending this week at Microsoft Ignite in Orlando I will provide links to some sessions which I attended and I think could be interesting for other people.
+
+* [Being a social developer](https://myignite.techcommunity.microsoft.com/sessions/84134) - Even though this was a non-technical session it is my highlight from this Ignite. [Scott Hanselman](https://twitter.com/shanselman) talked about what should be important in your life and professional career. If you have only have time to watch one video go for this one.
+* [Unleashing your organization’s creativity and innovation with a deep dive into the Microsoft Power Platform](https://myignite.techcommunity.microsoft.com/sessions/79783) - This is the key note kicking of a track of sessions dealing with the Power platform and the possibilities resulting from this platform.
+* [Empower everyone in your organization to drive digital transformation with the Microsoft Power Platform](https://myignite.techcommunity.microsoft.com/sessions/81272?source=sessions) - After the keynote this was a session going in detail how the Power platform can enable users creating their solutions for business problems. It is great to see how a different mindset enables everyone to create solutions. I guess we will see a big shift in the next years towards end users even not working in IT creating their own solutions.
+* [Managing and supporting Power Apps and Microsoft Flow at scale](https://myignite.techcommunity.microsoft.com/sessions/82865) - Very interesting to see how the company Schlumberger transformed the way how their internal governance is setting the boundaries for their users to create solutions themselves.
+* [Continuous Infrastructure - leveraging Terraform with Azure Pipelines](https://myignite.techcommunity.microsoft.com/sessions/87563) - Great introduction by [Joey Lorich](https://twitter.com/joeylorich) on how Terraform together with Azure Pipelines can be used to define your infrastructure as code. There will be also a new extension for Azure DevOps which integrates Terraform even better. This extension is right now in preview and you can register for this preview [here](aka.ms/TerraformPipelinesPreview).
+* [Professional Power Apps development patterns: Error handling, logging, and telemetry](https://myignite.techcommunity.microsoft.com/sessions/78935) - [Todd Baginski](https://twitter.com/toddbaginski) showed how logging can implemented in Power Apps even though the platform has no native way of doing this yet.
+* [Building serverless web applications in Azure](https://myignite.techcommunity.microsoft.com/sessions/81606) - Very entertaining and informative session by [Daria Grigoriu](https://twitter.com/DariaGrigoriu) and [Burke Holland](https://twitter.com/burkeholland) on how you can leverage serverless design patterns to create a web application.
+* [Exporting CDS data to Azure Data Lake – enable modern analytics and gain insights on your data](https://myignite.techcommunity.microsoft.com/sessions/83511) - [Sabin Nair](https://myignite.techcommunity.microsoft.com/speaker/591544) and [Mudit Mittal](https://myignite.techcommunity.microsoft.com/speaker/591554) demonstrated the way to export data from CDS (Common Data Service) to Azure Data Lake. This is right now in public preview and they are asking for feedback so they can make sure their solution meets customer demand.
+
+More links for sessions will follow in the next week as the Ignite only ends on Friday and this is only content from the first two days.
+
+In addition there are some other findings for this week.
+
+[Adam Marczak](https://twitter.com/MarczakIO) created a very interesting way on how to manage billing information for Azure. [Automating Enterprise Azure billing using Logic Apps for 0.03$/month](https://marczak.io/posts/2019/10/ea-consumption-automation-with-logic-apps/).
+
+There will be a big change in licensing options for the Power Platform coming up in November. [Microsoft to enable end users to buy Power Platform licenses without administrative approval](https://www.zdnet.com/article/microsoft-to-enable-end-users-to-buy-power-platform-licenses-without-administrative-approval/) - This will change a lot for many companies how governance must be handled for this platform even though it opens the platform for solving business problems more easily from a users perspective.

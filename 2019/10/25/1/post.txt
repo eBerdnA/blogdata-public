@@ -1,0 +1,20 @@
+---
+title: "Weekly CW43-2019"
+date: 2019-10-25 07:00:00
+slug: "/posts/2019-10-25-weekly-cw43-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+
+Even though there is still stuff in my pile from my vacation I hadn't had enough time this week to read a lot. Therefore the weekly this week is a little bit shorter than it should be.
+
+I often do see people struggle to get started with Git and get a grip of the basics. [Simon Waight](https://twitter.com/simonwaight) wrote a got introductory text for Git: [Make working with Git an easier commitment](https://dev.to/simonwaight/make-working-with-git-an-easier-commitment-5d82).
+
+Great tips from [Haseeb Elahi](https://haseebelahi.dev) for people who just start their career in tech/coding. 
+<br>[What Not to Do as a Programmer - My List After 2 Years of Working In Teams](https://dev.to/haseebelaahi/what-not-to-do-as-a-programmer-my-list-after-2-years-of-working-with-teams-1b23)
+Especially on number one and five I couldn't agree more. You don't write code just to be art. You write code to solve problems. This provides value from your code. Moreover getting feedback on your code is important to improve your skills.

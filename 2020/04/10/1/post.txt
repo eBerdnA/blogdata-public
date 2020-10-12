@@ -1,0 +1,23 @@
+---
+title: "Weekly CW015-2020"
+date: 2020-04-10 10:00:00
+slug: "/posts/2020-04-10-weekly-cw015-2020"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly", "IoT", "CQRS", "Event Sourcing", "SharePoint", "Teams", "Azure Function"]
+  language: en
+...
+
+![Weekly CW15](weekly-cw15.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Personally the biggest announcement this week was that Microsoft [announced](https://www.theverge.com/2020/4/7/21211721/microsoft-events-build-2021-digital-only-coronavirus-plans) that all of their events will be digital-only until July 2021. For me personally this could be an indicator on when we could expect things to become normal again after the current pandemic.
+
+Are you interested in IoT and looking to get a »[AZ-220: Azure #MSIoT Developer certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)«? Then you can get start your preparation with 
+»[Set up an IoT Edge Gateway](https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/)«.
+
+If you ever wondered on how to create a solution using CQRS and Event Sourcing using C# then you definitely should have a look at »[A Fast and Lightweight Solution for CQRS and Event Sourcing](https://www.codeproject.com/Articles/5264244/A-Fast-and-Lightweight-Solution-for-CQRS-and-Event)«. A very comprehensive article which explains this end-to-end.
+
+Are you a SharePoint or Teams developer and ever asked yourself why you should care about Azure Functions? Then you should have a look at »[Microsoft 365 & SharePoint PnP Weekly – Episode 74](https://developer.microsoft.com/en-us/microsoft-365/blogs/microsoft-365-sharepoint-pnp-weekly-episode-74/)«.

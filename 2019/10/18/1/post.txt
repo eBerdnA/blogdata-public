@@ -1,0 +1,27 @@
+---
+title: "Weekly CW42-2019"
+date: 2019-10-18 07:00:00
+slug: "/posts/2019-10-18-weekly-cw42-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+Following a [discussion](https://dev.to/azure/what-are-your-favorite-vs-code-extensions-and-why-mn) on dev.to Jeff Holland [tweeted](https://twitter.com/jeffhollan/status/1174349865289224192) about a very nice and helpful extension for VS Code. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) which allows you to send HTTP request and view the response in Visual Studio Code directly. 
+
+[14 VSCode Extensions That Will Improve Your Productivity](https://dev.to/x-team/14-vscode-extensions-that-will-improve-your-productivity-27ah) provides another 14 useful extensions for VS Code. From this list [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) is my personal favourite.
+
+In addition I want to provide another favorite of mine which I recently discovered. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) enables you to see a nice graph of the commit history directly from VS Code.
+
+[Coding practices your future self will love you for](https://dev.to/mohanarpit/coding-practices-your-future-self-will-love-you-for-ohe) - Most of this should be common knowledge when developing applications but especially for beginners it is very useful to read this summed up in one article.
+
+From my point of view it is important that developers even when they are working with some kind of [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping) have a basic understanding of how a database is working internally. [SQLskills.com](https://www.sqlskills.com/) published an [article](https://www.sqlskills.com/help/sql101/) which links to all their SQL101 articles. Even though these articles cover topics which are mainly useful when doing database administration there are gems like [SQLskills SQL101: Indexing Basics](https://www.sqlskills.com/blogs/kimberly/sqlskills-sql101-indexing/) which can be very useful when dealing with performance issues in your application.
+
+I guess there are three types of discussions between developers which will never come to an end. Using [tabs or spaces](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/), [Vim or Emacs](https://en.wikipedia.org/wiki/Editor_war) and which font to use in your editor of choice. Microsoft has added another font ([Cascadia Code](https://devblogs.microsoft.com/commandline/cascadia-code/)) to the latter discussion. For a font it has some nice features like programming ligatures, it is monospaced and more importantly it is open source.
+
+[There Is No "Right" Way: Git Rebase vs Merge](https://dev.to/molly_struve/there-is-no-right-way-git-rebase-vs-merge-2hc5) sums up that there is most of the time no right or wrong way to do something. It all depends on your workflow and the environment you are working in.
+
+If you are interested in distributed transaction architecture you should definitely look at the [Webinar: Comparing Distributed Transaction Architectures for the Cloud Era](https://www.youtube.com/watch?time_continue=2&v=w_zYYF3-iSo). [Florian Haas](https://twitter.com/xahteiwi/status/1175035083641827328) tweeted this.

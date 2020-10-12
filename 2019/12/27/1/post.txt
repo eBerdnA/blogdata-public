@@ -1,0 +1,25 @@
+---
+title: "Weekly CW52-2019"
+date: 2019-12-27 07:00:00
+slug: ""
+author: André Bering
+type: article
+content-type: markdown
+published: true
+lang: en
+properties:
+  tags: ["weekly"]
+...
+
+![Weekly CW52](weekly-cw52.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Last weekly edition for this year as next week will already be New Year's Eve.
+
+Recently I've read more and more things about OKRs. OKR has a long history that can be traced back to 1954. Lately OKR got more and more attention because big companies like IBM, Google, LinkedIn, Twitter, Dropbox, Spotify, Disney, and BMW are using them. "[[Workflow Guide] Transform the Way You Set and Track Goals with OKRs](https://doist.com/blog/okrs/)" explains how you can facilitate OKRs for setting personal goals.
+
+[DHH](https://twitter.com/dhh) wrote an interesting article on using Ruby on Rails at Basecamp. Being the inventor of Ruby on Rails he might be a little bit biased on using Ruby but his point in "[Only 15% of the Basecamp operations budget is spent on Ruby](https://m.signalvnoise.com/only-15-of-the-basecamp-operations-budget-is-spent-on-ruby/)" is not advocating for Ruby on Rails in general. Instead he explains why it wouldn't be a good idea for Basecamp to switch to another software stack even though it might provide a performance advantage.
+
+[SSH keys explained](https://dev.to/rmoff/ssh-keys-explained-2e2l) is a good introduction to what SSH keys are in general and what they can be used for. And why you should use them.
+
+If someone has some spare-time during the holiday season and wants to deep dive in B-tree techniques the >200 pages document "[Modern B-Tree Techniques](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=77EB0987D34F57F0072387D283D4904A?doi=10.1.1.219.7269&rep=rep1&type=pdf)" by [Goetz Graefe](https://dblp.uni-trier.de/pers/hd/g/Graefe:Goetz) might be a good starting point. Thanks at [Jaromir Hamala](https://twitter.com/jerrinot) for [pointing](https://twitter.com/jerrinot/status/1204372209638236160) at this gem.
+

@@ -1,0 +1,21 @@
+---
+title: "New research reveals a surprising link between the workplace and business success"
+directlink: "https://news.microsoft.com/europe/features/new-research-reveals-a-surprising-link-between-the-workplace-and-business-success/"
+date: 2019-12-17 09:00:00
+slug: "/posts/2019-12-17-new-research-reveals-a-surprising-link-between-the-workplace-and-business-success"
+author: André Bering
+type: note
+content-type: markdown
+published: true
+properties:
+  tags: []
+  language: en
+...
+
+> In quick summary: the business leaders that will succeed tomorrow are not thinking about how they can make their workforce more productive – they are focused on helping their people be more innovative.
+
+{{< source link="https://news.microsoft.com/europe/features/new-research-reveals-a-surprising-link-between-the-workplace-and-business-success/" caption="New research reveals a surprising link between the workplace and business success" >}}
+
+Pretty interesting to read from Microsoft that in the future it should be more relevant to increase innovation instead of improving productivity. Conclusion from my point of view is that productivity can't be increased that much more in the future and to differentiate from your market companions you need to be more innovative.
+
+What do you think of this?

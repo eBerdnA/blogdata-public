@@ -1,0 +1,34 @@
+---
+title: 'Umbenennen der Azure "Root Management Group" nicht möglich'
+date: "2020-04-07 10:00:00"
+slug: "/de/posts/2020-04-07-umbenennen-der-azure-root-management-group-nicht-m%C3%B6glich"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["Azure", "Management Groups"]
+  language: de
+...
+
+Wenn man damit beginnt sich mit Management Groups in Azure zu beschäftigen, wird man unter Umständen an den Punkt gelangen an dem man die ["Root" management group](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview#root-management-group-for-each-directory) umbenennen möchte. Aber schon die einfache Abfrage der Gruppe wird zu einem Problem führen.
+
+![Management Group query error](mg-query-error.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Damit Modifikationen/Abfragen für diese Management Group möglich sind, muss man zunächst die Zugriffsrechte für die eigenen Account erhöhen, auch wenn man bereits Verzeichnis Administrator ist. Eine entsprechende Meldung wird auch im Azure Portal angezeigt.
+
+![Azure Portal hint](azure-portal-hint.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Das gesamte Vorgehen hierfür ist im Artikel »[Erhöhen der Zugriffsrechte zum Verwalten aller Azure-Abonnements und Verwaltungsgruppen](https://docs.microsoft.com/de-de/azure/role-based-access-control/elevate-access-global-admin)« beschrieben. Hat man die eigenen Zugriffsrechte wie hier beschrieben angepasst bzw. anpassen lassen, kann man die entsprechenden Änderungen vornehmen oder auch nur die Management Group abfragen.
+
+![Management Group query success](mg-query-success.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+{{< warning >}}
+Nachdem man die notwendigen Änderungen mit den erhöhten Zugriffsrechten durchgeführt hat, sollte man die Zugriffsrechte im Nachgang wieder herabsetzen.
+{{< /warning >}}
+
+Die "Tenant Root Group" lässt sich leider nicht über den Namen in der Azure CLI abfragen bzw. der Name dieser Gruppe ist nicht sprechend. Man kann allerdings mit erhöhten Zugriffsrechten sich alle Management Groups ausgeben lassen und so den Namen dieser speziellen Gruppe in Erfahrung bringen.
+
+    az account management-group list
+
+![List Management Group](list-mg.png){.lb .lb-img-noborder width="100%" noborder="yes"}

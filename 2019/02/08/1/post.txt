@@ -1,18 +1,18 @@
 ---
 date: "2019-02-08 20:50:00"
 title: "last service restart"
-legacy: true
 slug: "/posts/2019-02-08-last-service-restart/"
 type: article
-content-type: html
+content-type: markdown
 published: true
 properties:
-  tags: [linux, ]
+  tags: ["linux" ]
   language: en
 ...
- <p>For reasons it could be possible that you need to get the information when a service was restarted. First of all you need to find the process id.</p>
-<pre><code>ps | grep &quot;uwsgi&quot;
-</code></pre>
-<p>Using the so found process id you can now get the information of the last restart.</p>
-<pre><code>ps -p &lt;processId&gt; -o lstart
-</code></pre>
+For reasons it could be possible that you need to get the information when a service was restarted. First of all you need to find the process id.
+
+    ps | grep "uwsgi"
+
+Using the so found process id you can now get the information of the last restart.
+
+    ps -p <processId> -o lstart

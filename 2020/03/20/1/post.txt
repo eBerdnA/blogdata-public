@@ -1,0 +1,26 @@
+---
+title: "Weekly CW012-2020"
+date: 2020-03-20 10:00:00
+slug: "/posts/2020-03-20-weekly-cw012-2020"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly", "Kubernetes", "KEDA", "Linux", "WSL2"]
+  language: en
+...
+
+![Weekly CW12](weekly-cw12.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+This edition of my weekly is a little bit late not because of Corona but instead I simply forgot it because I'm on holiday (at home).
+
+Year after year since I'm working in IT I keep on reading stories about how awesome VIM is. Nevertheless I never got into it mostly I guess because I have been a Windows user most of the time. But I'm still curious to get into it even more lately because of [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index) which makes all Linux tooling available for Windows users. Interesting to read why and how others are using VIM: »[Confession: I'm a Vim user](https://dev.to/atsmith813/confession-i-m-a-vim-user-2nel)«
+
+The combination of Kubernetes and [KEDA](https://keda.sh) as an extension is really powerful. Even more impressive it is to see a demo like »[KubeView & Keda Demo](https://www.youtube.com/watch?v=sRpCDx1rK00)« by [Ben Coleman](https://twitter.com/BenCodeGeek).
+
+I guess almost everyone knows WD-40. Therefore I think it is quite interesting to read »[The History Of WD-40 Is Stranger Than You Think And No This Isn't Sponsored Content I Just Thought It Was Weird«](https://jalopnik.com/the-history-of-wd-40-is-stranger-than-you-think-and-no-1841585147).
+
+Trying to get started with Power Platform? Then [Tracy van der Schyff](https://twitter.com/tracyvds/) wrote something for you. »[Power Platform: What How When & Why](https://tracyvanderschyff.com/2020/03/18/power-platform-what-how-when-why/amp/)« is a really good high level introduction on the platform.
+
+But most importantly for this weeks edition is: [#StayTheFHome](https://twitter.com/hashtag/staythefhome)

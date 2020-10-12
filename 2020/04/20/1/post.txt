@@ -1,0 +1,15 @@
+---
+date: "2020-04-20 10:00:00"
+title: "Datenschutz mit Windows 10 und Microsoft 365: So schützt Microsoft die Privatsphäre seiner Nutzerinnen und Nutzer"
+slug: "/de/posts/2020-04-20-datenschutz-mit-windows-10-und-microsoft-365-so-sch%C3%BCtzt-microsoft-die-privatsph%C3%A4re-seiner-nutzerinnen-und-nutzer"
+type: note
+content-type: markdown
+published: true
+properties:
+  tags: ["M365", "Datenschutz"]
+  language: de
+...
+
+> Bei Microsoft haben wir in den vergangenen Monaten und Jahren umfassende Neuerungen für Privatanwenderinnen und -anwender wie für Unternehmen vorgestellt, die die Transparenz für unsere Kundinnen und Kunden erhöhen – darunter auch Tools für mehr Nutzungskontrolle bei der Sammlung von Daten in Windows 10 Enterprise und Microsoft 365 Apps for Enterprise.
+
+Schön zu sehen, dass Microsoft jetzt auch immer mehr beginnt, in diesen Bereichen nachzuschärfen.

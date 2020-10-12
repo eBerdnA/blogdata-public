@@ -2,20 +2,22 @@
 date: "2019-07-23 11:31:00"
 title: "Setting Git proxy"
 legacy: true
-slug: "/posts/2019-07-23-setting-git-proxy/"
+slug: "/posts/2019-07-23-setting-git-proxy"
 type: article
-content-type: html
+content-type: markdown
 published: true
 properties:
   tags: []
   language: en
 ...
- <p>Because I simply always keep forgetting how to un-/set proxy settings for Git this is my reminder for the future.</p>
-<p><strong>Set proxy</strong></p>
-<pre><code>git config --global http.proxy http://&lt;username&gt;:&lt;password&gt;@&lt;proxy-server-url&gt;:&lt;port&gt;
-git config --global https.proxy http://&lt;username&gt;:&lt;password&gt;@&lt;proxy-server-url&gt;:&lt;port&gt;
-</code></pre>
-<p><strong>Unset proxy</strong></p>
-<pre><code>git config --global --unset-all http.proxy # to remove it from the global config
-git config --unset-all http.proxy  # to remove it from the local repo config file
-</code></pre>
+Because I simply always keep forgetting how to un-/set proxy settings for Git this is my reminder for the future.
+
+**Set proxy**
+
+	git config --global http.proxy http://<username>:<password>@<proxy-server-url>:<port>
+	git config --global https.proxy http://<username>:<password>@<proxy-server-url>:<port>
+	
+**Unset proxy**
+	
+	git config --global --unset-all http.proxy # to remove it from the global config
+	git config --unset-all http.proxy  # to remove it from the local repo config file

@@ -1,0 +1,20 @@
+---
+title: "Weekly CW36"
+date: 2019-09-06 07:00:00
+slug: "/posts/2019-09-06-weekly-cw36"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+
+[One simple action you can take to prevent 99.9 percent of attacks on your accounts](https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/) - I couldn't agree more. Start using [MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) wherever it is possible.
+
+[Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - I couldn't agree more to the improvement suggestions for composing better emails.
+
+[Leveraging the Dependency Injection support in Azure Functions](https://channel9.msdn.com/Shows/On-NET/Leveraging-the-Dependency-Injection-support-in-Azure-Functions) - Great introduction to using Dependency Injection in Azure Function and why you should do this
+
+[microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys) - The good old PowerToys are coming back to Windows. Especially FancyZones is really looking very promising.

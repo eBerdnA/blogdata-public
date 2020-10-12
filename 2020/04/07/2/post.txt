@@ -1,0 +1,34 @@
+---
+title: 'Renaming Azure "Root" management group not possible'
+date: 2020-04-07 10:00:00
+slug: "/posts/2020-04-07-renaming-azure-root-management-group-not-possible"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["Azure", "Management Groups"]
+  language: en
+...
+
+When you start dealing with management groups in Azure, you may get to the point where you want to rename the ["Root" management group](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview#root-management-group-for-each-directory). But even the simple query of the group will cause a problem.
+
+![Management Group query error](mg-query-error.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+In order for modifications/queries to be possible for this management group, you must first elevate the access rights for your own account, even if you are already a directory administrator. A corresponding message is also displayed in the Azure Portal.
+
+![Azure Portal hint](azure-portal-hint.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+The entire process is explained in the article "[Elevate access to manage all Azure subscriptions and management Groups](https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin)". Once you have altered your own access rights as described here or had them altered, you can make the appropriate changes or simply query the management group.
+
+![Management Group query success](mg-query-success.png){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+{{< warning >}}
+After you have made the necessary changes with the elevated access rights, you should remove the access rights afterwards.
+{{< /warning >}}
+
+Unfortunately, the "Tenant Root Group" cannot be queried by name in the Azure CLI resp. the name of this group is not meaningful. However, with elevated access rights you can query all management groups and thus find out the name of this particular group.
+
+    az account management-group list
+
+![List Management Group](list-mg.png){.lb .lb-img-noborder width="100%" noborder="yes"}

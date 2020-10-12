@@ -1,0 +1,22 @@
+---
+title: "Weekly CW16-2020"
+slug: "/posts/2020-04-17-weekly-cw016-2020"
+date: 2020-04-17 07:00:00
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly", "Entity Framework Core", "Container", "Messaging", "ASP.NET"]
+  language: en
+...
+
+![Weekly CW16](weekly-cw16.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Julie Lerman wrote a very detailed article about the Entity Framework Core 3.0 with »[Entity Framework Core 3.0: A Foundation for the Future](https://www.codemag.com/article/1911062)«. Very interesting to read why the Entity Framework team has laid the foundation for further innovations with this version.
+
+Uncertain which asynchronous messaging solution in Azure is the right one for a specific requirement? Then you should read the documentation »[Asynchronous messaging options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging)« from Microsoft to get a good overview of all available options.
+
+If you want to start running an ASP.NET Core application in a container then you will often have basic questions about how to start it. [Greg Roe](https://www.linkedin.com/in/greg-roe-3a7b66b/) has published a two-part article that explains exactly that.
+* »[Hosting and ASP.NET Core API in a Container Part 1 of 2 - Building the Container](https://devblogs.microsoft.com/premier-developer/hosting-and-asp-net-core-api-in-a-container-part-1-of-2-building-the-container/)«
+* »[Push to ASP.NET Core API Container to Azure Container Registry Part 2 of 2](https://devblogs.microsoft.com/premier-developer/push-an-asp-net-core-api-container-to-azure-containter-registry-part-2-of-2/)«

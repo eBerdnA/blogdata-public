@@ -1,0 +1,26 @@
+---
+title: "Weekly CW09-2020"
+date: 2020-02-28 07:00:00
+slug: "/posts/2020-02-28-weekly-cw09-2020"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+
+![Weekly CW09](weekly-cw09.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+[Matthew Devaney](https://twitter.com/mattbdevaney) [tweeted](https://twitter.com/mattbdevaney/status/1215278121416454146) some highlights from [Michał Guzowski](https://twitter.com/michaelguzowski).
+
+1. [10 tips I wish to know before I’ve started with PowerApps](https://michalguzowski.pl/10-tips-i-wish-to-know-before-i-start-with-powerapps/)
+2. [How to overcome 500 items limit in PowerApps](https://michalguzowski.pl/how-to-overcome-500-items-limit-in-powerapps/)
+3. [PowerApps components patterns](https://michalguzowski.pl/powerapps-components-handbook/)
+
+But in general you should keep an eye on the [blog](https://michalguzowski.pl/blog/) of Michał if you are interested in Power Platform/Apps topics.
+
+Microsoft lately publishes more and more documents which in the past you would only have access to if you attended a training. [Manuela](https://twitter.com/ManuelaPichler_) [tweeted](https://twitter.com/ManuelaPichler_/status/1214625921166172160) about the materials for the ['Admin in a day'](https://github.com/microsoft/powerapps-tools/tree/master/Administration/AdminInADay) training which are available on Github.
+
+Last thing for this week is a [tweet](https://twitter.com/KeithWhatling/status/1220636676621504512) by [Keith Whatling](https://twitter.com/KeithWhatling) which shows a nice way to use the [`WITH`](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-with) function in Power Apps.

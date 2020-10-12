@@ -1,14 +1,14 @@
 ---
 date: "2019-08-06 20:27:00"
 title: "Azure Infrastructure Architect Map"
-legacy: true
-slug: "/posts/2019-08-06-azure-infrastructure-architect-map/"
+slug: "/posts/2019-08-06-azure-infrastructure-architect-map"
 type: article
-content-type: html
+content-type: markdown
 published: true
 properties:
   tags: []
   language: en
 ...
- <p><a href="https://twitter.com/stephaneeyskens" target="_blank">Stephane Eyskens</a> has published his third architect map.</p>
-<p>You can find his new map here: <a href="https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Infrastructure-Architect-Map/ba-p/766268" target="_blank">The Azure Infrastructure Architect Map</a></p>
+[Stephane Eyskens](https://twitter.com/stephaneeyskens) has published his third architect map.
+
+You can find his new map here: [The Azure Infrastructure Architect Map](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Infrastructure-Architect-Map/ba-p/766268)

@@ -1,0 +1,19 @@
+---
+title: "Weekly CW47-2019"
+date: 2019-11-22 07:00:00
+slug: "/posts/2019-11-22-weekly-cw47-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+When getting started with Kubernetes most people wonder how Kubernetes relates to Docker. [Kubernetes vs. Docker: A Primer](https://containerjournal.com/topics/container-ecosystems/kubernetes-vs-docker-a-primer/) explains how these two relate to each other.
+
+Most of the time nowadays it is not important to know everything off the top of your head but know how to the find the relevant information quickly. [How to Get Smarter Without Knowing Anything](https://dev.to/taillogs/how-to-get-smarter-without-knowing-anything-34f6) shows some basic concepts which you can follow to find relevant information more easily.
+
+[Dona Sarkar](https://twitter.com/donasarkar) provided a pretty impressive amount of resources which you can use to get started/get deeper into Power Apps on the Power Platform. [Dona Sarkar @ LinkedIn](https://www.linkedin.com/posts/donasarkar_profile-activity-6602937760468873216-UaYJ/)
+
+That's it for this week. A little bit lesser than the former weeks but this week was kind of intensive so I haven't had the time to study more material in detail.

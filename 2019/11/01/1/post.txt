@@ -1,0 +1,22 @@
+---
+title: "Weekly CW44-2019"
+date: 2019-11-01 07:00:00
+slug: "/posts/2019-11-01-weekly-cw44-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+
+[Mastering Git From Beginner to Advanced Step by Step With Graphical Animation Commands](https://www.youtube.com/watch?v=ZgCCnv9LxzA) is a good entry point for people who would like to get started with git or improve their basic knowledge.
+
+After getting the basics from the former introduction you can dive deep into git with a talk given by [Mark Erikson](https://twitter.com/acemarke) about git internals. The blog post [Git Under the Hood: Internals, Techniques, and Rewriting History](https://blog.isquaredsoftware.com/2019/10/presentation-git-internals-rewrite/) points to his [slides](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite).
+
+Writing commit messages is not that hard even though most projects with more than one person struggle to keep these messages consistent. [Darkø Tasevski](https://twitter.com/puritanicdev) has written an article on this topic. [How are you writing a commit message?](https://dev.to/puritanic/how-are-you-writing-a-commit-message-1ih7)
+
+Remote work seems for many people very easy to handle. But my from point of view you need to take care of specific aspects to get the most out of it for you personally and for your team. [Krzysztof Peksa](https://twitter.com/peksapro) has written about this topic in his article [Deep remote work](https://dev.to/peksapro/deep-remote-work-k9n). I personally think that the communication aspect is most important for anyone working remotely.
+
+What should a Product Owner (PO) do? It depends most of the time on the specific environment where the PO is working. One main task for a PO is indubitable ordering the backlog. The article [Balancing Dev & Ops: What is a Product Owner to do?](https://dev.to/cascade-energy/balancing-dev-ops-what-is-a-product-owner-to-do-4ejb) by [Ben Flath](https://dev.to/benflath) provides some strategies on how to tackle this challenge.

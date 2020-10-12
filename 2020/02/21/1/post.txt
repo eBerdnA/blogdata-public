@@ -1,0 +1,22 @@
+---
+title: "Weekly CW08-2020"
+date: 2020-02-21 07:00:00
+slug: ""
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  lang: en
+...
+
+![Weekly CW08](weekly-cw08.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Interested in Durable Functions? Have a look at »[Durable Functions #9: Raise Events / Human Interaction Pattern](https://www.youtube.com/watch?v=bJLuyzcTT78)« by [Marc Duiker](https://twitter.com/marcduiker).
+
+Ever wondered whether everyone has an internal monologue? Doesn't look like it but a have a look at »[Today I Learned That Not Everyone Has An Internal Monologue And It Has Ruined My Day](https://insidemymind.me/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)« for further details.
+
+This is one I still need to watch myself but I sounds very interesting. »[Build Serverless Apps with Blazor](https://www.youtube.com/watch?v=5GglGbfqGqw)« explains how to build serverless apps using Azure Functions together with Blazor.
+
+[Jeff Hollan](https://twitter.com/jeffhollan) tweeted about about [Buccaneer](https://github.com/WillEastbury/Buccaneer) which is generator for OpenAPI definitions out of .NET Core 3.1 projects.

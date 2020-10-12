@@ -1,0 +1,20 @@
+---
+title: "Weekly CW41-2019"
+date: 2019-10-11 07:00:00
+slug: "/posts/2019-10-11-weekly-cw41-2019"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly"]
+  language: en
+...
+Being on holiday for two weeks I had to skip publishing a weekly in CW 39 & 40. But unfortuately due to my vacation the stack of things to read simply piled up. Having almost no free time I couldn't read all articles in my pile. Need to do this in the next week.
+
+[API Testing Guide for Automation Success](https://testguild.com/api-testing/) - Great introduction to API testing. The article describes how and why API testing should be done.
+
+Recently I discovered the content platform [dev.to](https://dev.to). In contrast to other platforms like [medium.com](https://medium.com) the goal of dev.to is not centralizing all the content but providing a platform where individual content can even be cross-posting from your personal blog is welcome. Due to the huge amount of content which is published for me personally it is hard to find the real treasures buried there.
+Nevertheless I found a series of articles which tries to explain how, where and when application developers can start to improve security in their applications in the context of SDLC (software development life cycle).
+
+[Pushing Left, Like a Boss: Part 1](https://dev.to/azure/pushing-left-like-a-boss-part-1-4d9i)

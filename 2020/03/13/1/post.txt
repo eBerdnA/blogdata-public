@@ -1,0 +1,25 @@
+---
+title: "Weekly CW011-2020"
+date: 2020-03-13 07:00:00
+slug: "/posts/2020-03-13-weekly-cw011-2020"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weekly", "Azure", "ASP.NET"]
+  language: en
+...
+
+![Weekly CW11](weekly-cw11.svg){.lb .lb-img-noborder width="100%" noborder="yes"}
+
+Looking for great input on .NET architecture? Then have a look at this [tweet](https://twitter.com/nishanil/status/1237757616337457164) by [Nish Anil](https://twitter.com/nishanil). Microsoft made four new e-books available. These are in detail:
+
+* [Architecting Cloud-Native .NET Apps for Azure](https://dotnet.microsoft.com/learn/azure/architecture#ebook-cloud-native-azure-swimlane)
+* [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/learn/aspnet/architecture#ebook-blazor-for-web-forms-devs-swimlane)
+* [gRPC for WCF developers e-book](https://dotnet.microsoft.com/learn/aspnet/architecture#ebook-grpc-for-wcf-devs-swimlane)
+* [Modernizing Desktop Apps on Windows 10 with .NET Core 3.0](https://dotnet.microsoft.com/learn/desktop/architecture#ebook-modernizing-existing-desktop-apps-swimlane)
+
+Are you an ASP.NET developer who is interested in Kubernetes? Have a look at this introduction: »[ASP.NET Community Standup - Feb 25, 2020 - Intro to Kubernetes for ASP.NET Core devs](https://www.youtube.com/watch?list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&t=1240s&v=V_EszvGJ8O8&app=desktop)«
+
+If you are using Git you've probably heard of Git Flow. George Stocker has an interesting point in »[Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/)«.
