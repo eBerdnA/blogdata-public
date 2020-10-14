@@ -1,7 +1,7 @@
 ---
 date: "2019-02-07 20:20:00"
 title: "Using glob.glob in python"
-slug: "/posts/2019-02-07-using-glob.glob-in-python/"
+slug: "/posts/2019-02-07-using-glob.glob-in-python"
 type: article
 content-type: markdown
 published: true

@@ -1,7 +1,7 @@
 ---
 date: "2019-02-08 20:50:00"
 title: "last service restart"
-slug: "/posts/2019-02-08-last-service-restart/"
+slug: "/posts/2019-02-08-last-service-restart"
 type: article
 content-type: markdown
 published: true

@@ -1,0 +1,25 @@
+---
+title: "Weekly CW48-2019"
+date: 2019-11-29 07:00:00
+slug: "/posts/2019-11-29-weekly-cw48-2019"
+type: article
+content-type: markdown
+published: true
+properties:
+  tags: ["weeekly" ]
+  language: en
+...
+
+From my point view anyone working in a field where one needs to keep their knowledge up to date needs to embrace lifelong learning. [Upgrade your learning + an example study plan for data structures and algorithms](https://dev.to/codebalance/upgrade-your-learning-an-example-study-plan-for-data-structures-and-algorithms-5he) shows a great strategy how you can improve your learning game. \#AlwaysBeLearning
+
+Azure Functions got some new features. [Jeremy Likness](https://twitter.com/jeremylikness/) shows how you can facilitate all these features in his blog post [Serverless HTTP With Durable Functions](https://blog.jeremylikness.com/blog/serverless-http-with-durable-functions/).
+
+Very interesting read on the top 10 areas of app development which are being reshaped by Power Apps. [Power Apps Top 10: innovation areas that are reshaping app development](https://powerapps.microsoft.com/en-us/blog/power-apps-top-10-innovation-areas-that-are-reshaping-app-development/).
+
+Just a month after [Hacktoberfest](https://hacktoberfest.digitalocean.com/details) Microsoft Azure Functions announces its #25DaysOfServerless challenge. You can find all the details here: [Introducing #25DaysOfServerless, an Azure Functions Challenge](https://dev.to/azure/introducing-25daysofserverless-an-azure-functions-challenge-6b5)
+
+Baseline of [The epistemology of software quality](https://increment.com/teams/the-epistemology-of-software-quality/) is the following quote:
+
+> You could make people feel like they’re important, because people are important. No method, tool, or language matters nearly as much as our own minds.
+
+Interested in knowing what happens inside your brain when you feel stressed? [Valentin Sawadski](https://twitter.com/_vsaw) has written a nice sum up and some more effects in his article [Brain Chemistry For Developers - What exactly is happening in your brain that makes you feel stressed, happy and tired at work?](https://dev.to/_vsaw/brain-chemistry-for-developers-154)

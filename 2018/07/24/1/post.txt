@@ -1,7 +1,7 @@
 ---
 date: "2018-07-24 20:00:00"
 title: "Repair corrupt DJI video files"
-slug: "/posts/2018-07-24-repair-corrupt-dji-video-files/"
+slug: "/posts/2018-07-24-repair-corrupt-dji-video-files"
 type: article
 content-type: markdown
 published: true

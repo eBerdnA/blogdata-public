@@ -1,7 +1,7 @@
 ---
 title: "Weekly CW52-2019"
 date: 2019-12-27 07:00:00
-slug: ""
+slug: "/posts/2019-12-27-weekly-cw52-2019"
 author: André Bering
 type: article
 content-type: markdown

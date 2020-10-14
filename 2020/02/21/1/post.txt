@@ -1,7 +1,7 @@
 ---
 title: "Weekly CW08-2020"
 date: 2020-02-21 07:00:00
-slug: ""
+slug: "/posts/2020-02-21-weekly-cw08-2020"
 author: André Bering
 type: article
 content-type: markdown

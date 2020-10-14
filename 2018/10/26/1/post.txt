@@ -2,7 +2,7 @@
 date: "2018-10-26 21:00:00"
 title: "Hello World - StatCoreBlog"
 legacy: true
-slug: "/posts/2018-10-26-hello-world-statcoreblog/"
+slug: "/posts/2018-10-26-hello-world-statcoreblog"
 type: article
 content-type: markdown
 published: true
