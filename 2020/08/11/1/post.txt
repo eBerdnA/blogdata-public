@@ -10,7 +10,7 @@ properties:
   tags: ["Power Apps", "ALM", "Azure DevOps"]
   language: de
 toc: true
----
+...
 
 ## Einführung
 
@@ -20,7 +20,8 @@ Die Entstehungsgeschichte des Artikels ist länger. Der erste Entwurf wurde von 
 
 In Version 0.1.16 mussten noch zum Einrichten der Verbindung die Zugangsdaten (Benutzername/Passwort) im Klartext hinterlegt werden. Seit der Version 0.3.6 kann diese Authentifizierung endlich mittels [Service Principals](https://docs.microsoft.com/de-de/azure/active-directory/develop/app-objects-and-service-principals) abgebildet werden.
 
-{{< figure2 src="devops-principal.png" caption="Authentifizierungsmethoden" class="lb-cust-margin" lang="de">}}
+![Authentifizierungsmethoden](devops-principal.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Abbildung: Authentifizierungsmethoden*
 
 Die alte (**<ins>nicht zu empfehlende</ins>**) Methode (gelb) steht weiter zur Verfügung. Somit ist der Übergang auf die neue Option (grün) nahtlos möglich, auch für Nutzer die bereits vorherige Versionen der BuildTools verwendet haben oder noch keine Service Principals eingerichtet haben. **Beim Umstieg auf die oder Beginn mit der aktuellen Version der Build Tools sollte auf jeden Fall der Wechsel auf die Service Principals erfolgen**.
 
@@ -33,7 +34,8 @@ Die Werkzeuge, die aktuell für Azure DevOps verfügbar sind, sind grundlegend e
 
 Die finale Architektur, für die Integration von Azure DevOps und Power Plattform, wird auf abstrakter Ebene wie folgt aussehen.
 
-{{< figure2 src="architecture.png" caption="Architektur Übersicht" class="lb-cust-margin" lang="de">}}
+![Architektur Übersicht](architecture.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Abbildung: Architektur Übersicht*
 
 Microsoft selbst schlägt zwei verschiedene Vorgehensweisen für ALM in Verbindung mit der Power Plattform vor. [^1] In dieser Anleitung wird die erste Variante beschrieben, bei der nur der Quellcode versioniert wird, aber nicht die gepackten Solutions. Im Kontext klassischer Softwareentwicklung ist dies auch der _normale_ Weg, weil sonst auch nur Quellcode und nicht kompilierte Binaries versioniert werden.
 
@@ -48,10 +50,6 @@ Grundlegend werden einige Dinge benötigt, um die Schritte nachvollziehen zu kö
   * installierte [Power Apps build tools Azure DevOps Erweiterung](https://docs.microsoft.com/de-de/powerapps/developer/common-data-service/build-tools-overview)
   * 1 Git Repository
 * 1 Service Principal
-
-{{< warning >}}
-
-{{< /warning >}}
 
 <aside class="article-alert article-alert-warning">
 	<div class="alert-warning-icon">
