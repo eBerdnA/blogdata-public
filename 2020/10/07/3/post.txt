@@ -1,0 +1,13 @@
+---
+date: '2020-10-07 21:39:52'
+posttype: note
+language: de
+properties:
+    tags: []
+published: true
+...
+Man merkt das [Kristian Köhntopp (@isotopp) / Twitter](https://twitter.com/isotopp) schon sehr lange mit Informationstechnologie zu tun hat. Auch merkt man aber, dass er aktuelle Themen versteht und aus verschiedenen Blickwinkeln betrachtet. Ein sehr gutes Beispiel ist einer seiner aktuellen Texte.
+
+[IT modernisieren und konsolidieren | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/10/05/it-modernisieren-und-konsolidieren.html)
+
+Im Grunde kann ich mich allen Aussagen anschließen. Nicht nur den Vorteilen sondern auch den Problemen die für Firmen aus der Nutzung von Cloud-Services entstehen können.

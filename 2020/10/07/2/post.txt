@@ -1,0 +1,19 @@
+---
+date: '2020-10-07 14:13:50'
+language: en
+posttype: note
+properties:
+    tags: ["TIL", "SQL Server"]
+published: true
+...
+TIL that `timestamp` of Microsoft SQL Server is not a date or time data type but only a deprecated synonym for `rowversion`.
+
+> The Transact-SQL rowversion data type is not a date or time data type. timestamp is a deprecated synonym for rowversion.
+
+Source: [Date and Time Data Types and Functions - SQL Server (Transact-SQL) | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql?view=sql-server-ver15)
+
+But `rowversion` doesn't preserve date or time either.
+
+> Is a data type that exposes automatically generated, unique binary numbers within a database. rowversion is generally used as a mechanism for version-stamping table rows. The storage size is 8 bytes. The rowversion data type is just an incrementing number and does not preserve a date or a time.
+
+Source: [rowversion (Transact-SQL) - SQL Server | Microsoft Docs](https://docs.microsoft.com/en-us/sql/t-sql/data-types/rowversion-transact-sql?view=sql-server-ver15)

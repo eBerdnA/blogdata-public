@@ -1,0 +1,12 @@
+---
+date: "2020-09-16 14:18:00"
+title: ""
+type: note
+content-type: markdown
+properties:
+  category: microsoft
+  language: en
+...
+Nice overview/comparison of all Office/Microsoft 365 licensing options
+
+[The Complete Office 365 and Microsoft 365 Licensing Comparison](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)

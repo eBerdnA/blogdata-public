@@ -1,0 +1,13 @@
+---
+date: '2020-09-25 11:46:27'
+language: en
+posttype: note
+properties:
+    tags: ["lifehack"]
+published: true
+...
+Don't microwave your sponges!
+
+> Then, they will reproduce and occupy the vacant real estate of the dead. And your sponge will just be stinkier and nastier and you may come to regret having not just tossed it, suggests a study published last month in Scientific Reports.
+
+Source: [Cleaning a Dirty Sponge Only Helps Its Worst Bacteria, Study Says - The New York Times](https://www.nytimes.com/2017/08/04/science/sponges-bacteria-microwaving-cleaning.html)

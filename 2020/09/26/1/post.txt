@@ -1,0 +1,13 @@
+---
+date: '2020-09-26 08:59:29'
+posttype: note
+language: en
+properties:
+    tags: ["xbox", "windows 10"]
+published: true
+...
+If you're using your Windows 10 PC for non gaming purposes you probably don't want to have the XBox apps on your device. The following gist provides instructions on how to remove them.
+
+[How to Remove the Xbox Game Bar with Powershell on Windows 10](https://gist.github.com/joshschmelzle/04c57d957c5bb92e85ae9180021b26dc)
+
+**Only the manual steps and a following reboot removed the apps finally**.

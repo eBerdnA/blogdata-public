@@ -1,5 +1,5 @@
 ---
-title: "Back to Wordpress"
+title: "Back to Wordpress" 
 date: 2020-09-14 12:53:21
 slug: "/posts/2020-09-14-back-to-wordpress"
 author: André Bering 
@@ -7,7 +7,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: [""]
+  tags: ["blogging", "self-hosted"]
   language: en
 ...
 

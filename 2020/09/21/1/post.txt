@@ -1,0 +1,27 @@
+---
+date: '2020-09-21 08:47:03'
+updated: '2020-09-24 08:47:03'
+title: Power Platform connection references
+language: de
+type: article
+properties:
+  tags: ["power platform", "microsoft"]
+  category: power platform
+published: 0 
+...
+Ein Hauptkritikpunkt bei der Nutzung von ALM und der Microsoft Power Platform war immer, dass man die Verbindungen (Connections) immer manuell aktualisieren musste nachdem man eine Lösung in eine andere Umgebung ausgerollt hat.
+
+Microsoft war sich dieser Kritik durchaus bewusst. Auf der Ignite 2019 wurde auf Nachfrage schon gesagt, dass an diesem Thema gearbeitet wird, man dafür aber noch Zeit brauchen wird. Diese Zeit scheint jetzt vorbei zu sein, zumindest für Flows in Power Automate.
+
+![Connection No Ref](ConnectionNoRefHighlight.png "Logo Title Text 1")
+
+
+Seit dem 15. September steht das sogenannte "Connection References" Feature in der Publich Preview zur Verfügung. Details können dem Blog-Eintrag von Microsoft entnommen werden.
+
+[Move flows across environments without resetting connections! | Power Automate Blog](https://flow.microsoft.com/en-us/blog/move-flows-across-environments-without-resetting-connections/)
+
+<!-- more -->
+
+Ein kleiner Showstopper ist aktuell noch vorhanden. In der Public Preview können eine Verbindung nur in maximal 16 Flows verwendet werden. Diese Limitierung soll aber entfernt werden, sobald das Feature den Preview Status verlassen hat.
+
+[Announcing the new solution import experience with connections and environment variables | Microsoft Power Apps](https://powerapps.microsoft.com/en-us/blog/announcing-the-new-solution-import-experience-with-connections-and-environment-variables/)

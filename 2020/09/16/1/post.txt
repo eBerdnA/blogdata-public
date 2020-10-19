@@ -1,0 +1,11 @@
+---
+date: "2020-09-16 13:43:00"
+type: note
+content-type: markdown
+properties:
+  category: arbeitsrecht
+  language: de
+...
+Immer gut bestimmte Formulierungen im Arbeitszeugnis zu kennen.
+
+[Arbeitszeugnis - Formulierungen für Zuverlässigkeit](https://www.arbeitszeugnis-check.org/zuverlaessigkeit)

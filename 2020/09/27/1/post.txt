@@ -1,0 +1,11 @@
+---
+date: '2020-09-27 16:03:48'
+posttype: note
+language: en
+properties:
+    tags: []
+published: true
+...
+Definitely need to look at this for two reasons. 1) I tried to setup this for my personal use some time ago and did not get a grip on and 2) almost everything that [Kristian Köhntopp (@isotopp) / Twitter](https://twitter.com/isotopp) writes is a good read.
+
+[Importing account statements and building a data warehouse | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/09/26/my-private-data-warehouse.html)
