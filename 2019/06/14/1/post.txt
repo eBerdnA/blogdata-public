@@ -5,9 +5,9 @@ slug: "/posts/2019-06-14-azure-architect-map"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 Being an active reader of the [The Morning Brew](http://blog.cwa.me.uk/) today I found something interesting. [Stephane Eyskens](https://twitter.com/stephaneeyskens) created an Azure Architect Map which helps you choosing the right Azure service when designing a solution. 
 You can find his post here: [The Azure Architect Map - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Architect-Map/ba-p/689700). Stephane created a mind map which helps you differentiate the Azure services. From my point of view very useful.

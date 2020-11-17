@@ -2,9 +2,10 @@
 date: "2020-09-16 13:43:00"
 type: note
 content-type: markdown
+language: de
 properties:
-  category: arbeitsrecht
-  language: de
+  tags: ["arbeitsrecht"]
+  
 ...
 Immer gut bestimmte Formulierungen im Arbeitszeugnis zu kennen.
 

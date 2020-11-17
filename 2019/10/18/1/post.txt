@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 Following a [discussion](https://dev.to/azure/what-are-your-favorite-vs-code-extensions-and-why-mn) on dev.to Jeff Holland [tweeted](https://twitter.com/jeffhollan/status/1174349865289224192) about a very nice and helpful extension for VS Code. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) which allows you to send HTTP request and view the response in Visual Studio Code directly. 
 

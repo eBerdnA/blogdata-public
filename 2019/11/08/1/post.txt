@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 
 Spending this week at Microsoft Ignite in Orlando I will provide links to some sessions which I attended and I think could be interesting for other people.

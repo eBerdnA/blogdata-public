@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 After working for quite some time in IT I didn't know the true origin of "Agile". Great to hear something about how Agile came up back in the days.
 In this episode of [The Changelog](https://changelog.com/podcast) Uncle Bob [Robert C. Martin](https://twitter.com/unclebobmartin) brings the some light into this.

@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["Office365", "Microsoft365"]
-  language: en
 ...
 
 ![Microsoft Teams](teams.jpg){.lb .lb-img-noborder width="100%" noborder="yes"}

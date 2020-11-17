@@ -7,9 +7,10 @@ author: André Bering
 type: note
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
+  
 ...
 
 > In quick summary: the business leaders that will succeed tomorrow are not thinking about how they can make their workforce more productive – they are focused on helping their people be more innovative.

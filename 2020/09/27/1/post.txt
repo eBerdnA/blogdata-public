@@ -1,6 +1,6 @@
 ---
 date: '2020-09-27 16:03:48'
-posttype: note
+type: note
 language: en
 properties:
     tags: []

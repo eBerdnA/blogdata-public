@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly", "Kubernetes", "KEDA", "Linux", "WSL2"]
-  language: en
 ...
 
 ![Weekly CW12](weekly-cw12.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

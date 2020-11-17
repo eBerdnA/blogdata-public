@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly", "Git", "PowerPlatform", "Observability"]
-  language: en
+  tags: ["weekly", "Git", "PowerPlatform", "Observability"]  
 ...
 
 ![Weekly CW10](weekly-cw10.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

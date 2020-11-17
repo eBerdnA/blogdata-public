@@ -6,7 +6,7 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
-lang: en
+language: en
 properties:
   tags: ["weekly"]
 ...

@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly", "Entity Framework Core", "Container", "Messaging", "ASP.NET"]
-  language: en
+  tags: ["weekly", "Entity Framework Core", "Container", "Messaging", "ASP.NET"]  
 ...
 
 ![Weekly CW16](weekly-cw16.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

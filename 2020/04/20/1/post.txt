@@ -5,9 +5,9 @@ slug: "/de/posts/2020-04-20-datenschutz-mit-windows-10-und-microsoft-365-so-sch%
 type: note
 content-type: markdown
 published: true
+language: de
 properties:
-  tags: ["M365", "Datenschutz"]
-  language: de
+  tags: ["M365", "Datenschutz"]  
 ...
 
 > Bei Microsoft haben wir in den vergangenen Monaten und Jahren umfassende Neuerungen für Privatanwenderinnen und -anwender wie für Unternehmen vorgestellt, die die Transparenz für unsere Kundinnen und Kunden erhöhen – darunter auch Tools für mehr Nutzungskontrolle bei der Sammlung von Daten in Windows 10 Enterprise und Microsoft 365 Apps for Enterprise.

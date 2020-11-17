@@ -5,9 +5,9 @@ slug: "/posts/2019-02-08-last-service-restart"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["linux" ]
-  language: en
 ...
 For reasons it could be possible that you need to get the information when a service was restarted. First of all you need to find the process id.
 

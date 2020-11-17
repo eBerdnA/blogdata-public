@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: de
 properties:
-  tags: ["Azure", "Azure Governance"]
-  language: de
+  tags: ["Azure", "Azure Governance"]  
 toc: true
 ...
 

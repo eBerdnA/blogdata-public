@@ -6,10 +6,10 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: de
 properties:
   tags: []
-  language: de
----
+...
 
 Bisher waren Inhalte auf dieser Seite rein in Englisch verfügbar. Dies wird für den Großteil der Inhalte auch so bleiben. Allerdings habe ich in der Vergangenheit gemerkt, dass ich manche technischen und auch nicht technischen Inhalte in Deutsch veröffentlichen würde. Häufig weil diese nur einen Bezug zu Deutschland haben oder weil die technischen Texte, die ich referenzieren möchte, nur auf Deutsch verfügbar sind.
 

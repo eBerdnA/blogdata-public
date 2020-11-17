@@ -5,9 +5,9 @@ slug: "/posts/2019-03-31-microsoft-365-licensing"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 Ever wondered which capability is included in which Microsoft 365 plan? To get a good overview you should start with this post of Aaron Dinnage.
 

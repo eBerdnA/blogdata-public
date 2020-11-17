@@ -5,9 +5,9 @@ slug: "/posts/2019-02-07-using-glob.glob-in-python"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["python"]
-  language: en
 ...
 When using [`glob.glob`](https://docs.python.org/3/library/glob.html#glob.glob) in Python you might experience some unexpected results. Lets say you have the following directory content.
 

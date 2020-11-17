@@ -6,9 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 
 Even though there is still stuff in my pile from my vacation I hadn't had enough time this week to read a lot. Therefore the weekly this week is a little bit shorter than it should be.

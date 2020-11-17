@@ -3,9 +3,10 @@ date: "2020-09-16 14:18:00"
 title: ""
 type: note
 content-type: markdown
+language: en
 properties:
-  category: microsoft
-  language: en
+  tags: ["microsoft"]
+  
 ...
 Nice overview/comparison of all Office/Microsoft 365 licensing options
 
