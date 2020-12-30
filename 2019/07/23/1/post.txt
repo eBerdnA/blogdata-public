@@ -1,14 +1,14 @@
 ---
 date: "2019-07-23 11:31:00"
 title: "Setting Git proxy"
+language: en  
 legacy: true
 slug: "/posts/2019-07-23-setting-git-proxy"
 type: article
 content-type: markdown
 published: true
 properties:
-  tags: []
-  language: en
+  tags: []  
 ...
 Because I simply always keep forgetting how to un-/set proxy settings for Git this is my reminder for the future.
 

@@ -1,11 +1,12 @@
 ---
 date: "2020-09-17 07:33:00"
 title: ""
+language: en
 type: note
 content-type: markdown
+published: true
 properties:
-  category: linux
-  language: en
+  category: linux  
   tags: bash
 ...
 There is no command available for creating a file and the parent directories in one step. Nevertheless you can help yourself with a simple bash script. Just add the following snippet to your `~/.bashrc`.

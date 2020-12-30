@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW011-2020"
+language: en
 date: 2020-03-13 07:00:00
 slug: "/posts/2020-03-13-weekly-cw011-2020"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly", "Azure", "ASP.NET"]
-  language: en
+  tags: ["weekly", "Azure", "ASP.NET"]  
 ...
 
 ![Weekly CW11](weekly-cw11.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

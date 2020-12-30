@@ -1,5 +1,6 @@
 ---
-title: "Back to Wordpress" 
+title: "Back to Wordpress"
+language: en 
 date: 2020-09-14 12:53:21
 slug: "/posts/2020-09-14-back-to-wordpress"
 author: André Bering 
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["blogging", "self-hosted"]
-  language: en
+  tags: ["blogging", "self-hosted"]  
 ...
 
 After I switched to Hugo as the generator for this page before some time ago, I often asked myself if a comment function could lead to a higher degree of interaction. Of course, this question is difficult or even impossible to answer afterwards. Anyway, the page is now run by WordPress again.

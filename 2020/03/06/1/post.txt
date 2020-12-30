@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW010-2020"
+language: en
 date: 2020-03-06 07:00:00
 slug: "/posts/2020-03-06-weekly-cw010-2020"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly", "Git", "PowerPlatform", "Observability"]
-  language: en
+  tags: ["weekly", "Git", "PowerPlatform", "Observability"]  
 ...
 
 ![Weekly CW10](weekly-cw10.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

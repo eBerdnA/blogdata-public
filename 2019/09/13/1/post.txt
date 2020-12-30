@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW37"
+language: en
 date: 2019-09-13 07:00:00
 slug: "/posts/2019-09-13-weekly-cw37"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly"]
-  language: en
+  tags: ["weekly"]  
 ...
 
 [Azure Cloud Shell Tips for SysAdmins Part III - Using Azure CLI](https://dev.to/azure/azure-cloud-shell-tips-for-sysadmins-part-iii-using-azure-cli-for-server-details-9dd) - Using [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest) is a great way to manage your resources in Azure.

@@ -1,10 +1,12 @@
+---
 date: "2020-09-17 07:17:00"
 title: ""
+language: en
 type: note
 content-type: markdown
+published: true
 properties:
-  category: microsoft
-  language: en
+  category: microsoft  
   tags: MicrosoftTeams
 ...
 Nice overview/guide of how to start using Microsoft Teams. Especially because the everyday etiquette of using it which makes it for every person involved more pleasant.

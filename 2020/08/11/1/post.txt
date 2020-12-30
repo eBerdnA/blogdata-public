@@ -1,5 +1,6 @@
 ---
 title: "Application Lifecycle Management (ALM) und Power Apps"
+language: de
 date: 2020-08-11 10:00:00
 slug: "/de/posts/2020-08-11-application-lifecycle-management-alm-und-power-apps"
 author: André Bering 
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["Power Apps", "ALM", "Azure DevOps"]
-  language: de
+  tags: ["Power Apps", "ALM", "Azure DevOps"]  
 toc: true
 ...
 

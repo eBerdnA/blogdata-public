@@ -1,14 +1,14 @@
 ---
 title: "Weekly CW46-2019"
 date: 2019-11-15 07:00:00
+language: en
 slug: "/posts/2019-11-15-weekly-cw46-2019"
 author: André Bering
 type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly"]
-  language: en
+  tags: ["weekly"]  
 ...
 As mentioned last week I still attended more sessions at Microsoft Ignite. So following the remaining sessions which I attended and I would recommend to anyone interested in latest Microsoft technology.
 

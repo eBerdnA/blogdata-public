@@ -6,7 +6,7 @@ author: Andre Bering
 type: article
 content-type: markdown
 published: true
-lang: en
+language: en
 properties:
   tags: ["GCP", "Database", "Microsoft Graph", "Power Apps"]
 ...

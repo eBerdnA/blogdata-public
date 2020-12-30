@@ -1,12 +1,12 @@
 ---
 title: "Weekly CW51-2019"
 date: 2019-12-20 07:00:00
+language: en
 slug: "/posts/2019-12-20-weekly-cw51-2019"
 author: André Bering
 type: article
 content-type: markdown
 published: true
-lang: en
 properties:
   tags: ["weekly"]
 ...

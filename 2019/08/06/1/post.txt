@@ -1,13 +1,13 @@
 ---
-date: "2019-08-06 20:27:00"
 title: "Azure Infrastructure Architect Map"
+language: en
+date: "2019-08-06 20:27:00"
 slug: "/posts/2019-08-06-azure-infrastructure-architect-map"
 type: article
 content-type: markdown
 published: true
 properties:
-  tags: []
-  language: en
+  tags: []  
 ...
 [Stephane Eyskens](https://twitter.com/stephaneeyskens) has published his third architect map.
 

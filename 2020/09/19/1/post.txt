@@ -3,7 +3,8 @@ category:
     - web
     - 'image compression'
 date: '2020-09-19 12:25:03'
-posttype: note
+language: en
+type: note
 properties: {  }
 published: true
 ...

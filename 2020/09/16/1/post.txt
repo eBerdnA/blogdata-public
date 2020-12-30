@@ -1,10 +1,11 @@
 ---
 date: "2020-09-16 13:43:00"
+language: de
 type: note
 content-type: markdown
+published: true
 properties:
-  category: arbeitsrecht
-  language: de
+  category: arbeitsrecht  
 ...
 Immer gut bestimmte Formulierungen im Arbeitszeugnis zu kennen.
 

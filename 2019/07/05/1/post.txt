@@ -1,13 +1,13 @@
 ---
 date: "2019-07-05 19:05:00"
 title: "Azure Security Map"
+language: en
 slug: "/posts/2019-07-05-azure-security-map"
 type: article
 content-type: markdown
 published: true
 properties:
-  tags: []
-  language: en
+  tags: []  
 ...
 [Recently](/posts/2019-06-14-azure-architect-map) I posted about a great map which helps choosing the right component from Azure when designing a solution. [Stephane Eyskens](https://twitter.com/stephaneeyskens) has published another great map. You can find his post here: [Azure Security Map](https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091).
 

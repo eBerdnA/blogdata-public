@@ -1,13 +1,13 @@
 ---
 date: "2019-02-08 20:50:00"
 title: "last service restart"
+language: en
 slug: "/posts/2019-02-08-last-service-restart"
 type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["linux" ]
-  language: en
+  tags: ["linux" ]  
 ...
 For reasons it could be possible that you need to get the information when a service was restarted. First of all you need to find the process id.
 

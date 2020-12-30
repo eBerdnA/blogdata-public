@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW38"
+language: en
 date: 2019-09-20 07:00:00
 slug: "/posts/2019-09-20-weekly-cw38"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly"]
-  language: en
+  tags: ["weekly"]  
 ...
 
 Having done some work around PowerApps recently I found the following two links very useful.

@@ -1,12 +1,12 @@
 ---
 title: "Citizen Developer? - Just my two cents"
+language: en
 date: 2019-12-10 09:00:00
 slug: "/posts/2019-12-10-citizen-developer-just-my-two-cents"
 author: André Bering
 type: article
 content-type: markdown
 published: true
-lang: en
 properties:
   tags: ["weekly"]
 ...

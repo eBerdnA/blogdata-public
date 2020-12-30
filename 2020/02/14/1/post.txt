@@ -1,12 +1,12 @@
 ---
 title: "Weekly CW07-2020"
+language: en
 date: 2020-02-14 07:00:00
 slug: "/posts/2020-02-14-weekly-cw07-2020"
 author: André Bering
 type: article
 content-type: markdown
 published: true
-lang: en
 properties:
   tags: ["weekly"]
 ...

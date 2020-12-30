@@ -1,5 +1,6 @@
 ---
 title: "Announcement from Microsoft: Introducing Microsoft 365 Personal and Family subscriptions"
+language: en
 date: 2020-03-30 21:00:00
 slug: "/posts/2020-03-30-announcement-from-microsoft-introducing-microsoft-365-personal-and-family-subscriptions"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["Office365", "Microsoft365"]
-  language: en
+  tags: ["Office365", "Microsoft365"]  
 ...
 
 ![Microsoft Teams](teams.jpg){.lb .lb-img-noborder width="100%" noborder="yes"}

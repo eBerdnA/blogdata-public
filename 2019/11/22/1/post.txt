@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW47-2019"
+language: en
 date: 2019-11-22 07:00:00
 slug: "/posts/2019-11-22-weekly-cw47-2019"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly"]
-  language: en
+  tags: ["weekly"]  
 ...
 When getting started with Kubernetes most people wonder how Kubernetes relates to Docker. [Kubernetes vs. Docker: A Primer](https://containerjournal.com/topics/container-ecosystems/kubernetes-vs-docker-a-primer/) explains how these two relate to each other.
 

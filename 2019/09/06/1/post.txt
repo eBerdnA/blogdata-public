@@ -1,5 +1,6 @@
 ---
 title: "Weekly CW36"
+language: en
 date: 2019-09-06 07:00:00
 slug: "/posts/2019-09-06-weekly-cw36"
 author: André Bering
@@ -7,8 +8,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: ["weekly"]
-  language: en
+  tags: ["weekly"]  
 ...
 
 [One simple action you can take to prevent 99.9 percent of attacks on your accounts](https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/) - I couldn't agree more. Start using [MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication) wherever it is possible.
