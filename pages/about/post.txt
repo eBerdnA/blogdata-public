@@ -1,0 +1,29 @@
+---
+date: '2020-10-07 21:39:52'
+title: "About"
+type: page
+slug: /about/
+language: en
+properties:
+    tags: []
+published: true
+...
+<div style=width:100%;display:table>
+	<div style=display:table-row>
+		<div style=display:table-cell;vertical-align:top>
+			<div>Hi,<br>my name is André Bering. I'm a software developer/Azure solution architect with more than 15 years professional experience.</div>
+			<div>&nbsp;</div>
+			<div style="width:100%; display:table;">You can contact me in any of the following ways.</div>
+			<div>
+				<ul>
+					<li><a href=https://twitter.com/eBerdnA rel="me">Twitter</a></li>
+					<li><a href=https://www.linkedin.com/in/andrebering/ rel="me">LinkedIn</a></li>
+					<li><a href=https://github.com/eBerdnA rel="me">GitHub</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="about-pic">
+			<img src=/img/profilepic.png />
+		</div>
+	</div>
+</div>

@@ -6,7 +6,7 @@ language: de
 type: article
 properties:
   tags: ["power platform", "microsoft"]
-published: true 
+published: false 
 ...
 Ein Hauptkritikpunkt bei der Nutzung von ALM und der Microsoft Power Platform war immer, dass man die Verbindungen (Connections) immer manuell aktualisieren musste nachdem man eine Lösung in eine andere Umgebung ausgerollt hat.
 
