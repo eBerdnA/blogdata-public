@@ -7,7 +7,7 @@ type: article
 content-type: markdown
 published: true
 properties:
-  tags: []  
+  tags: ["DJI", "video"]
 ...
 Having my new drone for some days now I was facing a corrupt video file today. I guess it got corrupted when I turned off the drone before ending the recording. According to some information from the DJI forum this seems to be a known issue for some (maybe all) DJI drones.
 

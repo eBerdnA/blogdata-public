@@ -7,7 +7,7 @@ content-type: markdown
 published: true
 properties:
   category: microsoft  
-  tags: MicrosoftTeams
+  tags: ["MicrosoftTeams"]
 ...
 Nice overview/guide of how to start using Microsoft Teams. Especially because the everyday etiquette of using it which makes it for every person involved more pleasant.
 
