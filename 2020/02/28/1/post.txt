@@ -7,8 +7,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly"]  
+  tags: ["weekly"]
 ...
 
 ![Weekly CW09](weekly-cw09.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

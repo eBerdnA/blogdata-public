@@ -7,8 +7,10 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: de
 properties:
-  tags: ["Power Apps", "ALM", "Azure DevOps"]  
+  tags: ["Power Apps", "ALM", "Azure DevOps"]
+  
 toc: true
 ...
 

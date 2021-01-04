@@ -7,8 +7,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly"]  
+  tags: ["weekly"]
 ...
 Being on holiday for two weeks I had to skip publishing a weekly in CW 39 & 40. But unfortuately due to my vacation the stack of things to read simply piled up. Having almost no free time I couldn't read all articles in my pile. Need to do this in the next week.
 

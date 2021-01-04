@@ -1,10 +1,10 @@
 ---
-date: 2020-10-07 21:39:52
+date: '2020-10-07 21:39:52'
 type: note
 language: de
 properties:
-    tags: []
-published: true 
+    tags: ["infrastructure"]
+published: true
 ...
 Man merkt das [Kristian Köhntopp (@isotopp) / Twitter](https://twitter.com/isotopp) schon sehr lange mit Informationstechnologie zu tun hat. Auch merkt man aber, dass er aktuelle Themen versteht und aus verschiedenen Blickwinkeln betrachtet. Ein sehr gutes Beispiel ist einer seiner aktuellen Texte.
 

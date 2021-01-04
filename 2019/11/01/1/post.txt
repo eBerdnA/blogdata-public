@@ -7,8 +7,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly"]  
+  tags: ["weekly"]
 ...
 
 [Mastering Git From Beginner to Advanced Step by Step With Graphical Animation Commands](https://www.youtube.com/watch?v=ZgCCnv9LxzA) is a good entry point for people who would like to get started with git or improve their basic knowledge.

@@ -7,8 +7,9 @@ slug: "/posts/2019-07-23-setting-git-proxy"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: []  
+  tags: []
 ...
 Because I simply always keep forgetting how to un-/set proxy settings for Git this is my reminder for the future.
 

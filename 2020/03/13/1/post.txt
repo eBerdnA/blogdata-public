@@ -7,8 +7,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly", "Azure", "ASP.NET"]  
+  tags: ["weekly", "Azure", "ASP.NET"]
 ...
 
 ![Weekly CW11](weekly-cw11.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

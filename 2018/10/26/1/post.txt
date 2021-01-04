@@ -7,8 +7,9 @@ slug: "/posts/2018-10-26-hello-world-statcoreblog"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: []  
+  tags: []
 ...
 For reasons I just wanted to have my own static site generator because there are not enough available right now. [/s](https://www.urbandictionary.com/define.php?term=%2Fs)
 

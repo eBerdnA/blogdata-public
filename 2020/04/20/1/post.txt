@@ -6,6 +6,7 @@ slug: "/de/posts/2020-04-20-datenschutz-mit-windows-10-und-microsoft-365-so-sch%
 type: note
 content-type: markdown
 published: true
+language: de
 properties:
   tags: ["M365", "Datenschutz"]  
 ...

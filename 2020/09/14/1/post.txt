@@ -7,8 +7,10 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["blogging", "self-hosted"]  
+  tags: ["blogging", "self-hosted"]
+  
 ...
 
 After I switched to Hugo as the generator for this page before some time ago, I often asked myself if a comment function could lead to a higher degree of interaction. Of course, this question is difficult or even impossible to answer afterwards. Anyway, the page is now run by WordPress again.

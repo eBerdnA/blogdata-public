@@ -7,6 +7,7 @@ slug: "/posts/2019-08-30-weekly-cw35"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
 ...

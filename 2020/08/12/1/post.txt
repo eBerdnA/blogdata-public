@@ -7,12 +7,13 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["Power Apps", "ALM", "Azure DevOps"]  
+  tags: ["Power Apps", "ALM", "Azure DevOps"]
 toc: true
 ...
 
-## Introduction
+## Introduction 
 
 This article will explain how to apply Application Lifecycle Management (ALM) in Azure DevOps for Power Apps. It will be shown how to set up the required Azure DevOps environment. Furthermore, it will be described how source code/Power Apps can be versioned, quality assurance can be performed and subsequently artifacts delivered to the production environment.
 
@@ -226,11 +227,13 @@ The commands are used in the final step "Commit solution to repo" to add the cod
 
 After the solution has been extracted from the DEV environment, it must be transferred to the BULD/QA environment where the managed solution is created.
 
-{{< figure2 src="export-from-build.png" caption="Azure DevOps pipeline tasks" class="lb-cust-margin" lang="en">}}
+![Azure DevOps pipeline tasks](export-from-build.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Azure DevOps pipeline tasks*
 
 For this purpose, the two tasks "Power Platform Import Solution" and "Power Platform Export Solution" are used in the context of the pipeline. For the latter task it is important that the option "Export as Managed Solution" is activated.
 
-{{< figure2 src="export-from-build-managed.png" caption="Option »Export as Managed Solution«" class="lb-cust-margin" lang="en">}}
+![Option »Export as Managed Solution«](export-from-build-managed.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Option »Export as Managed Solution«*
 
 In the last step of the pipeline, the exported solution is published as pipeline artifact. This step is important so that the solution created in the context of the release can then be rolled out in the production environment.
 
@@ -238,11 +241,13 @@ In the last step of the pipeline, the exported solution is published as pipeline
 
 With a release, the solution is rolled out into the "PROD" environment. In this case, the artifact previously created must first be linked to the Release in the "Artifacts".
 
-{{< figure2 src="deploy-to-prod.png" caption="Release pipeline - artifact properties" class="lb-cust-margin" lang="en">}}
+![Release pipeline - artifact properties](deploy-to-prod.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Release pipeline - artifact properties*
 
 This way the artifact can be used in the tasks of the release. It is important that the "alias" of the artifact is part of the path specification in the task for the actual deployment. There is no variable within Azure DevOps for this variable part. The reason for this is that more than one artifact can be used in a release and therefore a unique relationship between variable and artifact would not be possible.
 
-{{< figure2 src="deploy-to-prod-alias.png" caption="Release Pipeline - artifact alias«" class="lb-cust-margin" lang="en">}}
+![Release Pipeline - artifact alias](deploy-to-prod-alias.png){.lb .lb-img-noborder lb-cust-margin width="100%" noborder="yes"}
+*Figure: Release Pipeline - artifact alias*
 
 ## Tools
 

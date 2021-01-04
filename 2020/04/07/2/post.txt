@@ -7,8 +7,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["Azure", "Management Groups"]  
+  tags: ["Azure", "Management Groups"]
 ...
 
 When you start dealing with management groups in Azure, you may get to the point where you want to rename the ["Root" management group](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview#root-management-group-for-each-directory). But even the simple query of the group will cause a problem.

@@ -4,9 +4,11 @@ date: "2020-09-16 14:18:00"
 language: en
 type: note
 content-type: markdown
+language: en
 published: true
 properties:
-  category: microsoft  
+  tags: ["microsoft"]
+  
 ...
 Nice overview/comparison of all Office/Microsoft 365 licensing options
 

@@ -6,8 +6,9 @@ slug: "/posts/2019-08-24-switch-to-hugo"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: []  
+  tags: []
 ...
 After starting to publish content on this domain I used a custom [static site generator](https://andre.bering.in/posts/2018-10-26-hello-world-statcoreblog/) which I built using .NET core. Then after some time I switched to a custom static generator which I have built using python.
 

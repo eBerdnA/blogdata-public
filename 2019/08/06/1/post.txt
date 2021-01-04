@@ -6,8 +6,9 @@ slug: "/posts/2019-08-06-azure-infrastructure-architect-map"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: []  
+  tags: []
 ...
 [Stephane Eyskens](https://twitter.com/stephaneeyskens) has published his third architect map.
 

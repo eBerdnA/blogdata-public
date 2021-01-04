@@ -1,11 +1,10 @@
 ---
-category:
-    - web
-    - 'image compression'
 date: '2020-09-19 12:25:03'
+title: ""
 language: en
 type: note
-properties: {  }
+properties:
+    tags: ["web", "image compression"]
 published: true
 ...
 There is a new kid in town. AVIF seems to been a worthy successor for JPEG. Chome as of version 85 does support it of the box and FireFox also supports but requires some fiddling in the about-settings. More details can be found here:

@@ -6,8 +6,9 @@ slug: "/posts/2019-11-29-weekly-cw48-2019"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weeekly" ]  
+  tags: ["weeekly" ]
 ...
 
 From my point view anyone working in a field where one needs to keep their knowledge up to date needs to embrace lifelong learning. [Upgrade your learning + an example study plan for data structures and algorithms](https://dev.to/codebalance/upgrade-your-learning-an-example-study-plan-for-data-structures-and-algorithms-5he) shows a great strategy how you can improve your learning game. \#AlwaysBeLearning
