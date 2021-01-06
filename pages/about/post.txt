@@ -2,7 +2,7 @@
 date: '2020-10-07 21:39:52'
 title: "About"
 type: page
-slug: /about/
+slug: /about
 language: en
 properties:
     tags: []

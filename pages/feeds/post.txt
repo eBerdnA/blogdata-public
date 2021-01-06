@@ -2,7 +2,7 @@
 date: '2020-10-07 21:39:52'
 title: "Feeds"
 type: page
-slug: /feeds/
+slug: /feeds
 language: en
 properties:
     tags: []
