@@ -1,0 +1,14 @@
+---
+title: "Back to Wordpress"
+language: en
+date: 2021-01-09 23:00:00
+author: André Bering
+type: article
+content-type: markdown
+published: true
+language: en
+properties:
+  tags: ["blogging", "self-hosted"]
+...
+As you might have noticed I haven't published anything since the last [entry](/posts/2020-09-14-back-to-wordpress) where I mentioned that I switched back to WordPress.
+
