@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW45-2019"
+language: en
 date: 2019-11-08 07:00:00
 slug: "/posts/2019-11-08-weekly-cw45-2019"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 
 Spending this week at Microsoft Ignite in Orlando I will provide links to some sessions which I attended and I think could be interesting for other people.

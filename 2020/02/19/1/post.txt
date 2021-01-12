@@ -6,10 +6,9 @@ author: André Bering
 type: article
 content-type: markdown
 published: true
-lang: de
+language: de
 properties:
   tags: ["docker", "Azure Function"]
-  language: de
 toc: true
 ...
 

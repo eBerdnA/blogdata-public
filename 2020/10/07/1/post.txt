@@ -1,6 +1,6 @@
 ---
 date: '2020-10-07 07:55:03'
-posttype: note
+type: note
 language: de
 properties:
     tags: ["firefox"]

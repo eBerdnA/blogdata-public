@@ -1,5 +1,6 @@
 ---
 title: "New research reveals a surprising link between the workplace and business success"
+language: en
 directlink: "https://news.microsoft.com/europe/features/new-research-reveals-a-surprising-link-between-the-workplace-and-business-success/"
 date: 2019-12-17 09:00:00
 slug: "/posts/2019-12-17-new-research-reveals-a-surprising-link-between-the-workplace-and-business-success"
@@ -7,9 +8,10 @@ author: André Bering
 type: note
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
+  
 ...
 
 > In quick summary: the business leaders that will succeed tomorrow are not thinking about how they can make their workforce more productive – they are focused on helping their people be more innovative.

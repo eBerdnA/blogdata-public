@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW43-2019"
+language: en
 date: 2019-10-25 07:00:00
 slug: "/posts/2019-10-25-weekly-cw43-2019"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 
 Even though there is still stuff in my pile from my vacation I hadn't had enough time this week to read a lot. Therefore the weekly this week is a little bit shorter than it should be.

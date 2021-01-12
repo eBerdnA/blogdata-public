@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW015-2020"
+language: en
 date: 2020-04-10 10:00:00
 slug: "/posts/2020-04-10-weekly-cw015-2020"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly", "IoT", "CQRS", "Event Sourcing", "SharePoint", "Teams", "Azure Function"]
-  language: en
 ...
 
 ![Weekly CW15](weekly-cw15.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

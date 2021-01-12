@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW08-2020"
+language: en
 date: 2020-02-21 07:00:00
 slug: "/posts/2020-02-21-weekly-cw08-2020"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
-  tags: ["weekly"]
-  lang: en
+  tags: ["weekly"]  
 ...
 
 ![Weekly CW08](weekly-cw08.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

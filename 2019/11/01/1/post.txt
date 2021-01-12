@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW44-2019"
+language: en
 date: 2019-11-01 07:00:00
 slug: "/posts/2019-11-01-weekly-cw44-2019"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly"]
-  language: en
 ...
 
 [Mastering Git From Beginner to Advanced Step by Step With Graphical Animation Commands](https://www.youtube.com/watch?v=ZgCCnv9LxzA) is a good entry point for people who would like to get started with git or improve their basic knowledge.

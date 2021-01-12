@@ -1,14 +1,15 @@
 ---
 date: "2018-10-26 21:00:00"
 title: "Hello World - StatCoreBlog"
+language: en
 legacy: true
 slug: "/posts/2018-10-26-hello-world-statcoreblog"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 For reasons I just wanted to have my own static site generator because there are not enough available right now. [/s](https://www.urbandictionary.com/define.php?term=%2Fs)
 

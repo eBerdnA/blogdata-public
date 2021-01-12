@@ -1,14 +1,15 @@
 ---
 title: "Weekly CW012-2020"
+language: en
 date: 2020-03-20 10:00:00
 slug: "/posts/2020-03-20-weekly-cw012-2020"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["weekly", "Kubernetes", "KEDA", "Linux", "WSL2"]
-  language: en
 ...
 
 ![Weekly CW12](weekly-cw12.svg){.lb .lb-img-noborder width="100%" noborder="yes"}

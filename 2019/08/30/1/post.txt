@@ -1,14 +1,15 @@
 ---
 date: "2019-08-30 07:00:00"
 title: "Weekly CW35"
+language: en
 legacy: true
 slug: "/posts/2019-08-30-weekly-cw35"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 Having done this in the past time for some time I would like to get traction in this again. So I will try to post a weekly collection of links which are interesting from my point of view. Sometimes including a personal comment. Most of the content will be tech related.
 

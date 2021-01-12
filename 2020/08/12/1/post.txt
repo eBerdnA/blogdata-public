@@ -1,18 +1,19 @@
 ---
 title: "Application Lifecycle Management (ALM) and Power Apps"
+language: en
 date: 2020-08-12 11:00:00
 slug: "/posts/2020-08-12-application-lifecycle-management-alm-and-power-apps"
 author: André Bering 
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: ["Power Apps", "ALM", "Azure DevOps"]
-  language: en
 toc: true
 ...
 
-## Introduction
+## Introduction 
 
 This article will explain how to apply Application Lifecycle Management (ALM) in Azure DevOps for Power Apps. It will be shown how to set up the required Azure DevOps environment. Furthermore, it will be described how source code/Power Apps can be versioned, quality assurance can be performed and subsequently artifacts delivered to the production environment.
 

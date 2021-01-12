@@ -1,14 +1,15 @@
 ---
 title: "Meetings - you're doing them (probably) wrong"
+language: en
 date: 2019-10-19 07:00:00
 slug: "/posts/2019-10-19-meetings-youre-doing-them-probably-wrong"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 Even though I do listen to many podcasts because of my daily commute I never really felt the urge to post something about one specific episode. But on this episode of [You Are Not So Smart](https://youarenotsosmart.com/podcast/) I couldn't agree more with the following punchline: "Meetings are only bad if we make them bad, and since they are crucial to the cohesion of any institution..."
 

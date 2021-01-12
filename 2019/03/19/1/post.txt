@@ -1,13 +1,14 @@
 ---
 date: "2019-03-19 16:07:00"
 title: "SRE introduction"
+language: en
 slug: "/posts/2019-03-19-sre-introduction"
 type: article
 content-type: markdown
 published: true
+language: en
 properties:
   tags: []
-  language: en
 ...
 Even though I've heard [SRE](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) or Site Reliability Engineering many times in the past and had a rough understanding of what it means I never really got into the fundamentals of it.
 

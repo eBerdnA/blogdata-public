@@ -1,14 +1,15 @@
 ---
 title: "virtuelle Maschinen in Azure - Regionen und Kosten"
+language: de
 date: 2020-05-05 08:30:00
 slug: "/de/posts/2020-05-05-virtuelle-maschinen-in-azure-regionen-und-kosten"
 author: André Bering
 type: article
 content-type: markdown
 published: true
+language: de
 properties:
-  tags: ["Azure", "Azure Governance"]
-  language: de
+  tags: ["Azure", "Azure Governance"]  
 toc: true
 ...
 
