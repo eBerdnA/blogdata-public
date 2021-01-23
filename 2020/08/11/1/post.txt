@@ -66,12 +66,11 @@ Grundlegend werden einige Dinge benötigt, um die Schritte nachvollziehen zu kö
 
 Wie zuvor erwähnt werden drei Umgebungen benötigt, um dieser Anleitung folgen zu können. Für die nachfolgenden Schritte werden die folgenden Umgebungen mit der entsprechenden Bedeutung verwendet.
 
-{:.bordered-table}
-| Name | Function |
-| ------------- | :-----:|
-| André Bering's Environment | DEV |
+| Name                         | Function | 
+| ---------------------------- | :-----:  |
+| André Bering's Environment   | DEV      |
 | Johanna Lorenz's Environment | BUILD/QA |
-| Alex Wilber's Environment | PROD |
+| Alex Wilber's Environment    | PROD     |
 
 Wie zu sehen ist, sind diese drei Umgebungen im [Power Platform Admin Center](http://aka.ms/ppac) sichtbar.
 

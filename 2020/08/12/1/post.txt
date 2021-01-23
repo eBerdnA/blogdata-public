@@ -65,12 +65,11 @@ Basically, a few things are needed to be able to follow the steps. The following
 
 As mentioned above, three environments are required to follow this guide. For the following steps the following environments with the corresponding definitions are used.
 
-{:.bordered-table}
-| Name | Function | 
-| ------------- | :-----:|
-| André Bering's Environment | DEV |
+| Name                         | Function | 
+| ---------------------------- | :-----:  |
+| André Bering's Environment   | DEV      |
 | Johanna Lorenz's Environment | BUILD/QA |
-| Alex Wilber's Environment | PROD |
+| Alex Wilber's Environment    | PROD     |
 
 As you can see, these three environments are visible in the [Power Platform Admin Center](http://aka.ms/ppac).
 
