@@ -1,5 +1,5 @@
 ---
-date: '2021-02-15 19:00:00'
+date: '2021-02-15 09:00:00'
 title: "Cloud computing 'sticker shock' is on the rise, and containing it may be a new career path"
 directlink: https://www.zdnet.com/article/cloud-computing-sticker-shock-is-on-the-rise-and-containing-it-may-be-a-new-career-path/
 language: en
