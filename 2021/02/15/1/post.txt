@@ -1,0 +1,14 @@
+---
+date: '2021-02-15 09:00:00'
+title: "Cloud computing 'sticker shock' is on the rise, and containing it may be a new career path"
+directlink: https://www.zdnet.com/article/cloud-computing-sticker-shock-is-on-the-rise-and-containing-it-may-be-a-new-career-path/
+language: en
+type: note
+properties:
+    tags: ["cloud", "cost management", "opex", "capex"]
+published: true
+...
+
+> As cloud adoption rises, so does cloud "sticker shock." That tremendous savings seen from the switch to up-front CapEx investments in information technology to subscription mode soon gets soured as the rising monthly bills come in for services nobody knows where and when they are being used.
+
+Although many cloud providers advertise that cost savings can be achieved, the reality then looks different in many places. Especially the distinction between (CapEx)[https://en.wikipedia.org/wiki/Capital_expenditure] and (OpEx)[https://en.wikipedia.org/wiki/Operating_expense] looks tempting at first glance, but in practice it often fails to meet the high expectations.
