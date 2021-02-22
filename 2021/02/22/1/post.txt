@@ -13,4 +13,4 @@ published: true
 > 
 > But it’s not an absolute principle. Obviously sometimes it does make sense to add new technology to your stack. And it can even make sense to use a weird new thing.
 
-It is always good to stick to/use technology which has a proven trackrecord and is known well by you. But as always your may vary and as always the answer in technology is: "It depends".
+It is always good to stick to/use technology which has a proven trackrecord and is known well by you. But as always your mileage may vary and as always the answer in technology is: "It depends".
