@@ -1,5 +1,5 @@
 ---
-date: '2021-02-29 10:30:00'
+date: '2021-02-28 10:30:00'
 title: "Why Is Facebook Launching An All-Out War On Apple's Upcoming iPhone Update?"
 directlink: https://www.npr.org/2021/02/26/971367875/why-is-facebook-launching-an-all-out-war-on-apples-upcoming-iphone-update
 language: en
