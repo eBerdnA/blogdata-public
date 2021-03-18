@@ -1,5 +1,5 @@
 ---
-date: '2021-03-18 23:00:00'
+date: '2021-03-18 12:15:00'
 title: "Azure SQL Import (bacpac) does not finish"
 language: en
 type: article
