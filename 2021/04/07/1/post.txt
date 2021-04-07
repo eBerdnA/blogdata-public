@@ -1,0 +1,16 @@
+
+---
+title: "The Azure Data Architecture Map"
+language: en
+date: "2021-04-07 16:00:00"
+type: article
+published: true
+language: en
+properties:
+  tags: ["azure", "azure architecture"]
+...
+I've written about the maps of [Stephane Eyskens](https://twitter.com/stephaneeyskens) [before](/posts/2019-08-06-azure-infrastructure-architect-map/). I must admit that I did not follow up on the following publishing's by him. Today I just noticed that he added another map to his portfolio.
+
+[The Azure Data Architecture Map - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-data-architecture-map/ba-p/2251943)
+
+It is pretty neat that he simply put a link to all of his maps in his most recent post so that one has all information in one place.
