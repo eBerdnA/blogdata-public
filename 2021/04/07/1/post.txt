@@ -1,4 +1,3 @@
-
 ---
 title: "The Azure Data Architecture Map"
 language: en
