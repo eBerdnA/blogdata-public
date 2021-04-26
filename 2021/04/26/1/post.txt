@@ -1,0 +1,17 @@
+---
+date: '2021-04-26 08:00:00'
+title: "Has UML died without anyone noticing?"
+directlink: https://garba.org/posts/2021/uml/
+wayback: https://web.archive.org/web/20210426064233/https://garba.org/posts/2021/uml/
+language: en
+type: note
+properties:
+    tags: ["uml", "diagrams", "architecture']
+published: true
+...
+
+> Whilst some people employ lightweight modelling techniques such as C4, most diagrams in use today, are what I call, somewhat derogatorily, masala diagrams. No hard feelings, I call my own diagrams like this. Why masala? Because they are informal; they cover multiple dimensions at once, they may be both structural and behavioural, logical and physical. They are often a mishmash of the 4+1 architectural model’s views.
+
+I must admit that I never liked UML for describing systems architecture. I can't name any special reason for this. However, I really like the term `masala diagrams` for diagrams illustrated in the linked article. From my point of view these kinds of diagrams feed the needs of the separate roles in a business context. And somehow everybody looking at these kind of diagrams gets a grasp of how the system is architected and what its intension is.
+
+Even though I still see why UML has been appealing in the first place to describe business models.
