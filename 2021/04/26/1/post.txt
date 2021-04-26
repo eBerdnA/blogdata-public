@@ -6,7 +6,7 @@ wayback: https://web.archive.org/web/20210426064233/https://garba.org/posts/2021
 language: en
 type: note
 properties:
-    tags: ["uml", "diagrams", "architecture']
+    tags: ["uml", "diagrams", "architecture"]
 published: true
 ...
 
