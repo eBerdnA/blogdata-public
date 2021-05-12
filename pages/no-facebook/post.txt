@@ -9,42 +9,47 @@ properties:
 published: true
 ...
 
-Wer diese Seite liest, ist entweder über meine »Über«-Meldung hier hin gelangt, dann bitte einfach per Signal ([iOS](https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669))/([Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=de&gl=US)) melden, oder mittels Google hier her gelangt.
-Nachfolgend eine Sammlung von Artikel, die erklären warum es einfach keine gute Idee ist, weiterhin Produkte von Facebook zu benutzen.
+Wer diese Seite liest, ist entweder über meine »Über«-Meldung in WhatsApp hier hin gelangt, dann bitte einfach per Signal ([iOS](https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669))/([Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=de&gl=US)) melden, oder mittels Google hier her gelangt.
+Nachfolgend eine Sammlung von Artikel, die erklären warum es einfach keine gute Idee ist, weiterhin Services/Produkte von Facebook zu benutzen.
+Besonders deutlich wird wer das Produkt und wer das Objekt ist, wenn man sich [DE 9.] durchliest.
 Die Artikel sind in zwei Abschnitte unterteilt, Deutsch und Englisch.
-Falls Artikel eingerückt sind, so ist dies ein weiterführender Artikel auf den der ursprünglicher verweist.
+Falls Artikel eingerückt sind, so ist dies ein weiterführender Artikel, auf den der ursprünglicher verweist.
 
-Whoever is reading this page either got here via my "About" message, in which case please just signal ([iOS](https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669))/([Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=de&gl=US)), or got here via Google.
-Below is a collection of articles that explain why it is simply not a good idea to continue using Facebook products.
+Whoever is reading this page either got here via my "About" message in WhatsApp, in which case please just signal ([iOS](https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669))/([Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=de&gl=US)), or got here via Google.
+Below is a collection of articles that explain why it is simply not a good idea to continue using Facebook services/products.
+It becomes especially clear who is the product and who is the object when you read through [EN 14.]
 The articles are divided into two sections, English and German.
 If articles are indented, this is a continuative article to which the original one refers.
 
 ## DE
 
-* [WhatsApp ändert Nutzungsbedingungen: Daten werden mit Facebook geteilt | heise online](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html), veröffentlicht am 07.01.2021
-* [Neue Whatsapp-AGB erlauben Datenteilen mit Facebook - FAZ](https://www.faz.net/aktuell/wirtschaft/digitec/neue-whatsapp-agb-erlauben-datenteilen-mit-facebook-17133680.html), veröffentlicht am 08.02.2020
-* [Datenaustausch mit Facebook: Whatsapp erzwingt neue AGB](https://t3n.de/news/datenaustausch-facebook-whatsapp-1348412/), veröffentlicht am 06.01.2021
-* [Neue Nutzungsbedingungen: WhatsApp schickt Daten an Facebook | BR24](https://www.br.de/nachrichten/netzwelt/neue-nutzungsbedingungen-whatsapp-schickt-daten-an-facebook,SLQ1C9X), veröffentlicht am 08.01.2021
-* [WhatsApps neue AGBs: Soll ich zustimmen? - ZDFheute](https://www.zdf.de/nachrichten/digitales/whatsapp-neue-agbs-dsgvo-100.html), veröffentlicht am 10.01.2021
-* [Wie ich von Whatsapp zu Signal wechselte (Nützes Gedöns VI.) | heise online](https://www.heise.de/hintergrund/Wie-ich-von-Whatsapp-zu-Signal-wechselte-Nuetzes-Gedoens-VI-5020955.html), veröffentlicht am 12.01.2021
-* [Nase voll? WhatsApp-Konto löschen (Android) - mobilsicher.de](https://mobilsicher.de/ratgeber/nase-voll-whatsapp-konto-loeschen), veröffentlicht am 27.09.2016, aktualisiert am 26.01.2021
-* [Facebook komplett löschen - so geht's](https://www.heise.de/tipps-tricks/Facebook-komplett-loeschen-so-geht-s-4061586.html), veröffentlicht am 03.11.2020
+1. [WhatsApp ändert Nutzungsbedingungen: Daten werden mit Facebook geteilt | heise online](https://www.heise.de/news/WhatsApp-aendert-Nutzungsbedingungen-Daten-werden-mit-Facebook-geteilt-5005893.html), veröffentlicht am 07.01.2021
+2. [Neue Whatsapp-AGB erlauben Datenteilen mit Facebook - FAZ](https://www.faz.net/aktuell/wirtschaft/digitec/neue-whatsapp-agb-erlauben-datenteilen-mit-facebook-17133680.html), veröffentlicht am 08.02.2020
+3. [Datenaustausch mit Facebook: Whatsapp erzwingt neue AGB](https://t3n.de/news/datenaustausch-facebook-whatsapp-1348412/), veröffentlicht am 06.01.2021
+4. [Neue Nutzungsbedingungen: WhatsApp schickt Daten an Facebook | BR24](https://www.br.de/nachrichten/netzwelt/neue-nutzungsbedingungen-whatsapp-schickt-daten-an-facebook,SLQ1C9X), veröffentlicht am 08.01.2021
+5. [WhatsApps neue AGBs: Soll ich zustimmen? - ZDFheute](https://www.zdf.de/nachrichten/digitales/whatsapp-neue-agbs-dsgvo-100.html), veröffentlicht am 10.01.2021
+6. [Wie ich von Whatsapp zu Signal wechselte (Nützes Gedöns VI.) | heise online](https://www.heise.de/hintergrund/Wie-ich-von-Whatsapp-zu-Signal-wechselte-Nuetzes-Gedoens-VI-5020955.html), veröffentlicht am 12.01.2021
+7. [Nase voll? WhatsApp-Konto löschen (Android) - mobilsicher.de](https://mobilsicher.de/ratgeber/nase-voll-whatsapp-konto-loeschen), veröffentlicht am 27.09.2016, aktualisiert am 26.01.2021
+8. [Facebook komplett löschen - so geht's](https://www.heise.de/tipps-tricks/Facebook-komplett-loeschen-so-geht-s-4061586.html), veröffentlicht am 03.11.2020
+9. [Facebook- und Instagram-Einblendungen in iOS schüren Angst um Kostenfreiheit der Apps](https://t3n.de/news/facebook-instagram-ios-apple-kostenlos-tracking-1376271/), veröffentlicht 03.05.2021 - [WayBack](https://web.archive.org/web/20210503113337/https://t3n.de/news/facebook-instagram-ios-apple-kostenlos-tracking-1376271/)
 
 ## EN
 
-* [vowe dot net :: This is not what Facebook knows about you](https://vowe.net/archives/017018.html), published 25.03.2018
-* [Stephen Diehl on Twitter: "Stephen, why are you so critical of Facebook and not the other big tech companies?A 🧵 for well-intentioned engineers about how to navigate the complexities of big tech." / Twitter](https://twitter.com/smdiehl/status/1345677279322636293), published 03.01.2021, 11:23 - [WayBack](https://web.archive.org/web/20210502151301/https://threadreaderapp.com/thread/1345677279322636293.html)
-* [vowe dot net :: Techcrunch :: #deletefacebook](https://vowe.net/archives/016989.html), published 19.03.2018
+1. [vowe dot net :: This is not what Facebook knows about you](https://vowe.net/archives/017018.html), published 25.03.2018
+2. [Stephen Diehl on Twitter: "Stephen, why are you so critical of Facebook and not the other big tech companies?A 🧵 for well-intentioned engineers about how to navigate the complexities of big tech." / Twitter](https://twitter.com/smdiehl/status/1345677279322636293), published 03.01.2021, 11:23 - [WayBack](https://web.archive.org/web/20210502151301/https://threadreaderapp.com/thread/1345677279322636293.html)
+3. [vowe dot net :: Techcrunch :: #deletefacebook](https://vowe.net/archives/016989.html), published 19.03.2018
   * [#deletefacebook | TechCrunch](https://techcrunch.com/2018/03/19/deletefacebook/), published 19.03.2018
-* [Facebook Forced Its Employees To Stop Discussing Trump's DC Riot](https://www.buzzfeednews.com/article/ryanmac/facebook-trump-coup), published 06.01.2021
-* [Facebook’s Unknowable Megascale](https://daringfireball.net/2020/12/facebook_unknowable_megascale), published 30.12.2020
-* [vowe dot net :: What Facebook Fed the Baby Boomers :: The New York Times](https://vowe.net/archives/018874.html), published 26.11.2020 
+4. [Facebook Forced Its Employees To Stop Discussing Trump's DC Riot](https://www.buzzfeednews.com/article/ryanmac/facebook-trump-coup), published 06.01.2021
+5. [Facebook’s Unknowable Megascale](https://daringfireball.net/2020/12/facebook_unknowable_megascale), published 30.12.2020
+6. [vowe dot net :: What Facebook Fed the Baby Boomers :: The New York Times](https://vowe.net/archives/018874.html), published 26.11.2020 
   * [Opinion | What Facebook Fed the Baby Boomers - The New York Times](https://www.nytimes.com/2020/11/24/opinion/facebook-disinformation-boomers.html), published 24.11.2020
-* [vowe dot net :: Facebook in a nutshell](https://vowe.net/archives/017074.html), published 12.04.2018
-* [vowe dot net :: Zucked :: Waking up to the Facebook Catastrophe](https://vowe.net/archives/017729.html), published 30.01.2019 
+7. [vowe dot net :: Facebook in a nutshell](https://vowe.net/archives/017074.html), published 12.04.2018
+8. [vowe dot net :: Zucked :: Waking up to the Facebook Catastrophe](https://vowe.net/archives/017729.html), published 30.01.2019 
   * [An Anti-Facebook Manifesto, by an Early Facebook Investor - The New York Times](https://www.nytimes.com/2019/01/29/books/review/roger-mcnamee-zucked.html), published 29.01.2019
-* [Tim Cook May Have Just Ended Facebook | Inc.com](https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html), published 30.01.2021
-* [WhatsApp Delays Privacy Changes Amid User Backlash - The New York Times](https://www.nytimes.com/2021/01/15/technology/whatsapp-privacy-changes-delayed.html), published 15.01.2021, updated 26.01.2021
-* [Ceterum censeo Facebook esse delendam](https://pluspora.com/posts/5477709), published 14.02.201 - [WayBack](https://web.archive.org/web/20210216093049/https://pluspora.com/posts/5477709)
-* [He got Facebook hooked on AI. Now he can't fix its misinformation addiction | MIT Technology Review](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/), published 11.03.2021 - [WayBack](https://web.archive.org/web/20210324073412/https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/)
-* [Facebook and the Normalization of Deviance | The New Yorker](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance), published 02.05.2021 - [WayBack](https://web.archive.org/web/20210503062309/https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+9. [Tim Cook May Have Just Ended Facebook | Inc.com](https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html), published 30.01.2021
+10. [WhatsApp Delays Privacy Changes Amid User Backlash - The New York Times](https://www.nytimes.com/2021/01/15/technology/whatsapp-privacy-changes-delayed.html), published 15.01.2021, updated 26.01.2021
+11. [Ceterum censeo Facebook esse delendam](https://pluspora.com/posts/5477709), published 14.02.201 - [WayBack](https://web.archive.org/web/20210216093049/https://pluspora.com/posts/5477709)
+12. [He got Facebook hooked on AI. Now he can't fix its misinformation addiction | MIT Technology Review](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/), published 11.03.2021 - [WayBack](https://web.archive.org/web/20210324073412/https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/)
+13. [Facebook and the Normalization of Deviance | The New Yorker](https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance), published 02.05.2021 - [WayBack](https://web.archive.org/web/20210503062309/https://www.newyorker.com/news/daily-comment/facebook-and-the-normalization-of-deviance)
+14. [Facebook and Instagram notices in iOS apps tell users tracking helps keep them ‘free of charge’ - The Verge](https://www.theverge.com/2021/5/2/22415824/facebook-instagram-notice-ios-apps-free-privacy-tracking), published 02.05.2021 - [WayBack](https://web.archive.org/web/20210503112621/https://www.theverge.com/2021/5/2/22415824/facebook-instagram-notice-ios-apps-free-privacy-tracking)
+15. [Facebook says it will ignore emergency data collection ban issued in Germany over WhatsApp rules | TechSpot](https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html#commentsOffset), published 11.05.2021 - [WayBack](https://web.archive.org/web/20210512093847/https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html)
