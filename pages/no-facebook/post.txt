@@ -1,5 +1,5 @@
 ---
-date: '2021-04-26 08:30:00'
+date: '2021-05-12 10:00:00'
 title: "Stop using Facebook, Instagram & WhatsApp"
 type: page
 slug: /no-facebook
