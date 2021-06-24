@@ -1,0 +1,17 @@
+---
+date: '2021-06-24 13:00:00'
+title: "No, We Won’t Have a Video Call for That!"
+directlink: https://www.deimeke.net/dirk/blog/index.php?/archives/4093-Audio-Setup.html
+language: de
+type: note
+properties:
+    tags: ["communication", "audio"]
+published: true
+...
+> Gute Audioqualität ist der Schlüssel zu akzeptierten Audio- und Videokonferenzen über das Internet.
+> 
+> Etwas Aufwand in das Setup zu investieren, ist auch eine Form von Respekt, den man seiner Gesprächspartnerin oder seinem Gesprächspartner entgegenbringt.
+
+Das hier!
+
+Ich kann nur sagen, dass schlechte Audioqualität anderer Teilnehmer eine Audio- oder Videokonferenz für mich persönlich, um ein vielfaches anstrengender macht.
