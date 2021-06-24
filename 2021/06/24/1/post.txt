@@ -1,6 +1,6 @@
 ---
 date: '2021-06-24 13:00:00'
-title: "No, We Won’t Have a Video Call for That!"
+title: "Audio-Setup"
 directlink: https://www.deimeke.net/dirk/blog/index.php?/archives/4093-Audio-Setup.html
 language: de
 type: note
