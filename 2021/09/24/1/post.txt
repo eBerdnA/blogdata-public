@@ -11,6 +11,6 @@ published: true
 
 > I experience a lot of random errors on Azure. Code Functions will randomly fail to trigger until redeployed, builds pushed into Oryx will not always successfully complete. There isn’t the feeling of robustness with it that you get elsewhere. 
 
-I also see things described in this post from time to time. Especially random error messages and inconsistent behaviour si something which really can drive you nuts.
+I also see things described in this post from time to time. Especially random error messages and inconsistent behaviour is something which really can drive you nuts.
 
 Therefore, I agree with the conclusion the Microsoft should spent some time serious engineering on both security and availability. 
