@@ -10,6 +10,8 @@ properties:
 published: true
 ...
 
+![Gartner quadrant](quadrant.png)
+
 > Azure Integration Services (AIS), comprising of Logic Apps, API Management, Service Bus, Event Grid, and Data Factory, helps customers connect applications, data, and services, on-premises and in the cloud. Azure Integration Services helps businesses boost productivity and increase agility with highly secure automated workflows and create new revenue opportunities with an API driven partner and developer ecosystem.
 
 Being an Azure Solutions Architect myself and especially interested in data flows between systems, I can totally see why Microsoft has been put into this quadrant. But what really amazes me is that AWS doesn't appear in this classification at all.
