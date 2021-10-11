@@ -1,0 +1,19 @@
+---
+title: "Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Integration Platform as a Service"
+language: en
+directlink: https://azure.microsoft.com/en-us/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-enterprise-integration-platform-as-a-service/
+wayback: https://web.archive.org/web/20211011065014/https://azure.microsoft.com/en-us/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-enterprise-integration-platform-as-a-service/
+date: '2021-10-11 08:00:00'
+type: note
+properties:
+    tags: ["azure", "integration", "paas"]
+published: true
+...
+
+> Azure Integration Services (AIS), comprising of Logic Apps, API Management, Service Bus, Event Grid, and Data Factory, helps customers connect applications, data, and services, on-premises and in the cloud. Azure Integration Services helps businesses boost productivity and increase agility with highly secure automated workflows and create new revenue opportunities with an API driven partner and developer ecosystem.
+
+Being an Azure Solutions Architect myself and especially interested in data flows between systems, I can totally see why Microsoft has been put into this quadrant. But what really amazes me is that AWS doesn't appear in this classification at all.
+
+Of course, AWS does not have this deep integration with numerous services as is possible with Microsoft's connectors, e.g. M365. Nevertheless, I personally see that AWS is also strong in this segment (integration based on PaaS) and should therefore also be represented in this classification.
+
+What are your thoughts on this? Please feel free to [get in touch](/about/) to share your thoughts.
