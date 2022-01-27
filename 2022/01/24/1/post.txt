@@ -7,8 +7,8 @@ type: article
 content-type: markdown
 published: true
 language: en
-tags: ["consulting", "software development", "software architecture", "test"]
-categories: ["consulting", "software development", "software architecture", "test2"]
+tags: ["consulting", "software development", "software architecture"]
+categories: ["consulting", "software development", "software architecture"]
 card: true
 ---
 
