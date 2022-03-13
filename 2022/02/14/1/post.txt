@@ -35,9 +35,9 @@ More often people try to come up with the fanciest solution for a problem. Even 
 ## Accept things for what they are
 
 Often you will find situations where you need to use some third part tooling. And sometimes things are not useable in a way which you might prefer. I've caught myself more than once trying to then change something about it or build around it to have a way that I personally like.
-In the end, though, it was always easier to accept and use things the way someone else built them. Simply not wasting time on something that doesn't add value in the end. 
+In the end, though, it was always easier to accept and use things the way someone else built them, especially when they provide a fit at around 80 percent. Simply don't waste time on something that doesn't add value in the end.  
 
 ## Frugality
 
-Frugality is something that often comes to people's minds when they think about not buying a coffee at their favourite café. But from my point of view, it is also something when trying to create a solution. Most of the time it can be done more inexpensively. For this, you need to talk with your customer and see where you agree on a compromise.
+Frugality is something that often comes to people's minds when they think about not buying a coffee at their favorite café. But from my point of view, it is also something when trying to create a solution. Most of the time it can be done more inexpensively. For this, you need to talk with your customer and see where you agree on a compromise.
 You simply don't need to create the fanciest solution just to pamper your ego. It is the outcome for the customer which counts.
