@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andre.bering.in/sitemap.xml
