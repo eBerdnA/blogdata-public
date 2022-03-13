@@ -1,7 +1,7 @@
 ---
 title: "Create solutions - but get your ego out of the way"
 language: en
-date: "2022-02-14T07:00:00Z"
+date: "2022-03-14T07:00:00Z"
 author: André Bering
 type: article
 content-type: markdown
