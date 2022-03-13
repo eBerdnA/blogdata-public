@@ -1,0 +1,43 @@
+---
+title: "Create solutions - but get your ego out of the way"
+language: en
+date: "2022-03-14T07:00:00Z"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+language: en
+tags: ["consulting", "software development", "software architecture"]
+categories: ["consulting", "software development", "software architecture"]
+card: true
+---
+
+If you are working as a consultant, software engineer, or software architect you're often given the task to find a solution for a problem. Most of the time it is a business process/problem from a customer. The customer can be your own employer or a client who asked for your support.
+
+From my point of view, one if not the most important aspect of this is to get your own ego out of the way for finding a solution. But there are also other topics that are also important in this context and go hand in hand with getting your ego out of the way.
+
+## Have customer obsession
+
+In the end, it is the customer who will pay your bills. So always keep your customer in mind when trying to find a solution. With this knowledge, it may make more sense to implement a solution that generates less revenue as a first step. However, from the resulting customer satisfaction, it can then become a more satisfied long-term relationship with the customer.
+
+## Many roads lead to Rome
+
+There is more than one acceptable solution to solve a problem. It is totally fine when the preferred one was not brought up by you. As already mentioned, get your ego out of the way. It is not a question of being right or wrong, but always of finding the best possible solution.
+
+## Agree to disagree
+
+In the end, someone must decide which solution will be implemented. Sometimes it can happen that not all people involved are of the same opinion. In this case, someone must recognize when disagreement is needed to proceed. But also, in this case, you should be sensible to acknowledge when it is not your solution which is the best one for the specific problem.
+
+## KISS
+
+More often people try to come up with the fanciest solution for a problem. Even though the fancy one might solve the problem it also might be unnecessarily complex. Habitually keep in mind that a solution should be [KISS](https://en.wikipedia.org/wiki/KISS_principle).
+
+## Accept things for what they are
+
+Often you will find situations where you need to use some third part tooling. And sometimes things are not useable in a way which you might prefer. I've caught myself more than once trying to then change something about it or build around it to have a way that I personally like.
+In the end, though, it was always easier to accept and use things the way someone else built them, especially when they provide a fit at around 80 percent. Simply don't waste time on something that doesn't add value in the end.  
+
+## Frugality
+
+Frugality is something that often comes to people's minds when they think about not buying a coffee at their favorite café. But from my point of view, it is also something when trying to create a solution. Most of the time it can be done more inexpensively. For this, you need to talk with your customer and see where you agree on a compromise.
+You simply don't need to create the fanciest solution just to pamper your ego. It is the outcome for the customer which counts.
