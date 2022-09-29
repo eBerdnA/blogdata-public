@@ -13,4 +13,6 @@ categories: []
 
 This is the first post of hopefully long term series. "WIRLW" stands for "What I've read last week" and will be a loose collection of things I've read in the last week (which you've might have already guessed). This won't be just another collection of links but I will also provide some notes for each link.
 
-[Elderblog Sutra: 13](https://www.ribbonfarm.com/2022/04/28/elderblog-sutra-13/)
+- [Elderblog Sutra: 13](https://www.ribbonfarm.com/2022/04/28/elderblog-sutra-13/), published 2022-04-28  
+This article is little bit older but [Venkatesh Rao](https://twitter.com/vgr) philosophizes about what it would mean to the blogging ecosystem if Elon Musk is buying Twitter (as we now know won't happen). 
+
