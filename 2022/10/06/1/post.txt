@@ -15,4 +15,10 @@ This is the first post of hopefully long term series. "WIRLW" stands for "What I
 
 - [Elderblog Sutra: 13](https://www.ribbonfarm.com/2022/04/28/elderblog-sutra-13/), published 2022-04-28  
 This article is little bit older but [Venkatesh Rao](https://twitter.com/vgr) philosophizes about what it would mean to the blogging ecosystem if Elon Musk is buying Twitter (as we now know won't happen). 
-
+- [Thread by @iximiuz](https://threadreaderapp.com/thread/1563851156417298434.html), published 2022-08-28  
+Pretty interesting read, seeing many myths about Containers (not the transport ones) being debunked. Key takeways are:
+    - Containers need not have a full Operating System inside them
+    - it's possible to run a Container without an image but you propably shouldn't
+    - you need containers to build images
+    - Containers are not just a linux but instead a standardized execution environments
+    - You can create a bootable linux from an image. Even though it's possible you shouldn't do it except for your own entertainment.
