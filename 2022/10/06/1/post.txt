@@ -22,3 +22,5 @@ Pretty interesting read, seeing many myths about Containers (not the transport o
     - you need containers to build images
     - Containers are not just a linux but instead a standardized execution environments
     - You can create a bootable linux from an image. Even though it's possible you shouldn't do it except for your own entertainment.
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/), published 2022-02-21  
+This one is reread which just came to my mind the other night. I think it's interesting to see how highly efficient and successful people organize their daily workflow.
