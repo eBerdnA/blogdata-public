@@ -26,3 +26,7 @@ Pretty interesting read, seeing many myths about Containers (not the transport o
 This one is reread which just came to my mind the other night. I think it's interesting to see how highly efficient and successful people organize their daily workflow.
 - [xahteiwi.eu – Uncertainty, industrious compliance, and the illusion of control](https://xahteiwi.eu/blog/2022/09/29/industrious-compliance/), published 2022-09-29  
 Florian describes why long term planning almost never makes sense due to the huge amount of external influences which will overthrow your planning. Furthermore he explains why business planning might be flawed just because the education people received in the past. Pretty interesting approach articulated in this article and why originality might be the solution to the described issue. 
+- [Google finds culture, not tech, is the biggest predictor of DevOps security outcomes - SiliconANGLE](https://siliconangle.com/2022/09/28/google-finds-culture-not-tech-biggest-predictor-devsec-outcomes/)  
+Nothing to add here from my side except the following quote:
+> While delving deeper, the researchers, to their surprise, found that the most significant predictor of an organization’s software security practices was cultural, not technical. High-trust, low-blame cultures focused on performance were significantly more likely to adopt emerging security practices than low-trust, high-blame cultures focused on power or rules.  
+- 
