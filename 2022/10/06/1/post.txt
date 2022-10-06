@@ -1,24 +1,24 @@
 ---
-title: "WIRLW - CW39"
+title: "WIRLW - CW39 | what I read last week"
 language: en
-date: "2022-10-06T20:00:00Z"
+date: "2022-10-06T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
 published: true
-language: en
 tags: ["reading", "thoughts"]
-categories: []
+categories: ["reading", "thoughts"]
+card: true
 ---
 
-This is the first post of hopefully a long term series. "WIRLW" stands for "What I've read last week" (and maybe watched) and will be a loose collection of things I've read(/watched) in the last week (which you've might have already guessed). This won't be just another collection of links but I will also provide some notes for each link.
+This is the first post of hopefully a long term series. "WIRLW" stands for "what I read last week" (and maybe watched) and will be a loose collection of things I've read(/watched) in the last week (which you've might have already guessed). This won't be just another collection of links but I will also provide some notes for each link.
 
 - [Elderblog Sutra: 13](https://www.ribbonfarm.com/2022/04/28/elderblog-sutra-13/), published 2022-04-28  
 This article is little bit older but [Venkatesh Rao](https://twitter.com/vgr) philosophizes about what it would mean to the blogging ecosystem if Elon Musk is buying Twitter. 
 - [Thread by @iximiuz](https://threadreaderapp.com/thread/1563851156417298434.html), published 2022-08-28  
-Pretty interesting read, seeing many myths about Containers (not the transport ones) being debunked. Key takeways are:
+Pretty interesting read, seeing many myths about Containers (not the transport ones) being debunked. Key takeaways are:
     - Containers need not have a full Operating System inside them
-    - it's possible to run a Container without an image but you propably shouldn't
+    - it's possible to run a Container without an image but you probably shouldn't
     - you need Containers to build images
     - Containers are not just a Linux OS but instead a standardized execution environments
     - You can create a bootable Linux from an image. Even though it's possible you shouldn't do it except for your own entertainment.
