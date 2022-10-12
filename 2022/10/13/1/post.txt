@@ -1,0 +1,15 @@
+---
+title: "WIRLW - CW41 | what I read last week"
+language: en
+date: "2022-10-06T21:30:00Z"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+tags: ["reading", "thoughts"]
+categories: ["reading", "thoughts"]
+card: true
+---
+
+- [There is no “software supply chain” — iliana.fyi](https://iliana.fyi/blog/software-supply-chain/)
+- [Is Florida Becoming a Failed State? | The Nation](https://www.thenation.com/article/society/florida-hurricane-ian/)
