@@ -12,4 +12,5 @@ card: true
 ---
 
 - [There is no “software supply chain” — iliana.fyi](https://iliana.fyi/blog/software-supply-chain/)
-- [Is Florida Becoming a Failed State? | The Nation](https://www.thenation.com/article/society/florida-hurricane-ian/)
+- [Is Florida Becoming a Failed State? | The Nation](https://www.thenation.com/article/society/florida-hurricane-ian/)  
+This is not a political article per se. Basically it's around the challenges even more areas around will be facing in the upcoming years due to climate change. My guess is that more and more of these areas where no one should be living in the first place (because the land was simply not made for it respectively was only made for it by mankind) will see these devasting challenges in the near future.
