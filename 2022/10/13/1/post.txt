@@ -1,7 +1,7 @@
 ---
 title: "WIRLW - CW41 | what I read last week"
 language: en
-date: "2022-10-06T21:30:00Z"
+date: "2022-10-13T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
