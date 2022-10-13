@@ -5,12 +5,15 @@ date: "2022-10-06T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
-published: true
+published: false
 tags: ["reading", "thoughts"]
 categories: ["reading", "thoughts"]
 card: true
+disclaimer: yes
 ---
 
 - [There is no “software supply chain” — iliana.fyi](https://iliana.fyi/blog/software-supply-chain/)
 - [Is Florida Becoming a Failed State? | The Nation](https://www.thenation.com/article/society/florida-hurricane-ian/)  
 This is not a political article per se. Basically it's around the challenges even more areas around will be facing in the upcoming years due to climate change. My guess is that more and more of these areas where no one should be living in the first place (because the land was simply not made for it respectively was only made for it by mankind) will see these devasting challenges in the near future.
+- [Thread by @crdudeyoutube on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1571594616436330497.html)  
+I found this longer thread via this [tweet](https://twitter.com/ariadneconill/status/1571803106576576512) originally. The main argument is that we web wide single sign on (SSO) is a good thing because it removes friction when they want to interact with others but in an authenticated way. I do agree with this point. But I don't see something like Discord as the right approach for such a thing. Because then we will have another centralized service which has too much power in controlling the (web) identity for millions of people. I'd prefer something like IndieAuth. But at the moment the technical barrier for this is simply too high for the everyday user of the net.
