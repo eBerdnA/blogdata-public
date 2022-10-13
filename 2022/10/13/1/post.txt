@@ -1,0 +1,22 @@
+---
+title: "WIRLW - CW41 | what I read last week"
+language: en
+date: "2022-10-13T21:30:00Z"
+author: André Bering
+type: article
+content-type: markdown
+published: false
+tags: ["reading", "thoughts"]
+categories: ["reading", "thoughts"]
+card: true
+disclaimer: yes
+---
+
+- [Is Florida Becoming a Failed State? | The Nation](https://www.thenation.com/article/society/florida-hurricane-ian/)  
+This is not a political article per se. Basically it's around the challenges even more areas around will be facing in the upcoming years due to climate change. My guess is that more and more of these areas where no one should be living in the first place (because the land was simply not made for it respectively was only made for it by mankind) will see these devasting challenges in the near future.
+- [There is no “software supply chain” — iliana.fyi](https://iliana.fyi/blog/software-supply-chain/)
+I disagree with the statement made overall but not with specific parts of it. Even though I see the point in saying that in supply chain of goods normally money is exchanged for goods I still see using OSS as a flavour of supply chain. And I also do agree that companies/enterprises should not rely on OSS from a single maintainer. This single maintainer doesn't have any obligation to a company/enterprise in the first place. All to often a ["Standing on the Shoulders of Giants"](https://potiuk.com/the-evolution-of-open-source-standing-on-the-shoulders-of-giants-db22dcdbca04) is seen.
+- [Thread by @crdudeyoutube on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1571594616436330497.html)  
+I found this longer thread via this [tweet](https://twitter.com/ariadneconill/status/1571803106576576512) originally. The main argument is that we web wide single sign on (SSO) is a good thing because it removes friction when they want to interact with others but in an authenticated way. I do agree with this point. But I don't see something like Discord as the right approach for such a thing. Because then we will have another centralized service which has too much power in controlling the (web) identity for millions of people. I'd prefer something like [IndieAuth](https://indieweb.org/IndieAuth). But at the moment the technical barrier for this is simply too high for the everyday user of the net.
+- [Foresight Blog | 9 CI/CD Metrics You Should Be Monitoring](https://www.runforesight.com/blog/9-cicd-metrics-you-should-be-monitoring)  
+If you are looking for a high level entry on 9 very usable metrics for your CI/CD environment this one is a good starter. If you afterwards are interested going more into details I would recommend the [DORA 2022 Accelerate State of DevOps Report | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out)
