@@ -11,3 +11,8 @@ categories: ["reading", "thoughts"]
 card: true
 disclaimer: yes
 ---
+
+[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
+- [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)  
+Lorem
+- 
