@@ -15,4 +15,6 @@ disclaimer: yes
 [//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)  
 Lorem
-- 
+[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale - didn't know the concept of Antinet"
+- [Introducing the Antinet Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/)  
+Lorem
