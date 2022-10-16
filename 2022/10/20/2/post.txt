@@ -18,3 +18,5 @@ Lorem
 [//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale - didn't know the concept of Antinet"
 - [Introducing the Antinet Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/)  
 Lorem
+- ["Features" of the Antinet : antinet](https://www.reddit.com/r/antinet/comments/y1oqdj/features_of_the_antinet/)  
+This one is interesting addition to the previous item. Basically all the features listed are available for some note taking apps (e.g. Logseq, Obsidian). But it's still nice to be reminded that no fancy technology is necessary if one wants to create a Zettelkasten.
