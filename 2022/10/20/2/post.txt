@@ -5,11 +5,10 @@ date: "2022-10-20T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
-published: yes
+published: no
 tags: ["reading", "thoughts"]
 categories: ["reading", "thoughts"]
 card: true
-disclaimer: yes
 ---
 
 [//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
