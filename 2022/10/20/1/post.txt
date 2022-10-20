@@ -12,17 +12,22 @@ card: true
 disclaimer: yes
 ---
 
-[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
-- [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)  
-Lorem
-[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale - didn't know the concept of Antinet"
-- [Introducing the Antinet Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/)  
-Lorem
-- ["Features" of the Antinet : antinet](https://www.reddit.com/r/antinet/comments/y1oqdj/features_of_the_antinet/)  
-This one is interesting addition to the previous item. Basically all the features listed are available for some note taking apps (e.g. Logseq, Obsidian). But it's still nice to be reminded that no fancy technology is necessary if one wants to create a Zettelkasten.
 - ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022) - YouTube](https://www.youtube.com/watch?v=8Ab3ArE8W3s)  
 This talk was brought to my attention by the YouTube algorithm. It were 45 minutes of good entertainment and also made me thinking about some stuff we are doing in our industry nowadays.
-- [xahteiwi.eu – Writing Professionally (DevOpsDays Berlin 2022)](https://xahteiwi.eu/resources/presentations/devopsdays-berlin-2022/)  
-Lorem
+
 - ["The Secure Software Supply Chain" by Kelsey Hightower (Strange Loop 2022) - YouTube](https://www.youtube.com/watch?v=JC-xCXcyNXI)
 Great talk delivered by Kelsey Hightower on the importance of security in the software development lifecycle (SDLC). It has never been more important to shift security left in the SDLC. Even more he includes the different levels of [SLSA](https://slsa.dev/), [SBOM](https://www.ntia.gov/sbom), and how (little) tooling changes can improve the security of everyone's security in the SDLC.
+
+- [xahteiwi.eu – Writing Professionally (DevOpsDays Berlin 2022)](https://xahteiwi.eu/resources/presentations/devopsdays-berlin-2022/)  
+Proving how important writing professionally is by converting a talk into a excellent written post. This proves how important/relevant writing skills are.
+
+[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
+- [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)  
+During the course of this year I personally also realised how it helps to write things down. Writing things down helps to sort your thoughts and getting to a conclusion in the end.
+ 
+[//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale - didn't know the concept of Antinet"
+- [Introducing the Antinet Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/introduction-antinet-zettelkasten/)  
+Even though I personally don't use a Zettelkasten yet, I totally see how a Zettelkasten can contribute to producing results in the end.
+
+- ["Features" of the Antinet : antinet](https://www.reddit.com/r/antinet/comments/y1oqdj/features_of_the_antinet/)  
+This one is interesting addition to the previous item. Basically all the features listed are available for some note taking apps (e.g. Logseq, Obsidian). But it's still nice to be reminded that no fancy technology is necessary if one wants to create a Zettelkasten.
