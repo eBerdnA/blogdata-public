@@ -19,7 +19,7 @@ This talk was brought to my attention by the YouTube algorithm. It were 45 minut
 Great talk delivered by Kelsey Hightower on the importance of security in the software development lifecycle (SDLC). It has never been more important to shift security left in the SDLC. Even more he includes the different levels of [SLSA](https://slsa.dev/), [SBOM](https://www.ntia.gov/sbom), and how (little) tooling changes can improve the security of everyone's security in the SDLC.
 
 - [xahteiwi.eu – Writing Professionally (DevOpsDays Berlin 2022)](https://xahteiwi.eu/resources/presentations/devopsdays-berlin-2022/)  
-Proving how important writing professionally is by converting a talk into a excellent written post. This proves how important/relevant writing skills are.
+Proving how important writing professionally is by converting a talk into an excellent written post. This proves how important/relevant writing skills are.
 
 [//]: # "via >PKM Weekly Oct 16 2022 - Issue 040< by Curtis McHale"   
 - [Learning By Writing](https://www.cold-takes.com/learning-by-writing/)  
