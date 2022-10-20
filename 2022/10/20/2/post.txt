@@ -7,7 +7,7 @@ type: article
 content-type: markdown
 published: yes
 tags: ["reading", "thoughts"]
-categories: ["reading", "thoughts", "DevOps", ]
+categories: ["reading", "thoughts", "DevOps", "DevSecOps"]
 card: true
 disclaimer: yes
 ---
@@ -25,4 +25,4 @@ This talk was brought to my attention by the YouTube algorithm. It were 45 minut
 - [xahteiwi.eu – Writing Professionally (DevOpsDays Berlin 2022)](https://xahteiwi.eu/resources/presentations/devopsdays-berlin-2022/)  
 Lorem
 - ["The Secure Software Supply Chain" by Kelsey Hightower (Strange Loop 2022) - YouTube](https://www.youtube.com/watch?v=JC-xCXcyNXI)
-Great talk delivered by Kelsey Hightower on the importance of security in the software development lifecycle (SLDC). It has never been more important to shift security left in the SDLC. Even more he includes the different levels of [SLSA](https://slsa.dev/), [SBOM](https://www.ntia.gov/sbom), and how (little) tooling changes can improve the security of everyone's security in the SDLC.
+Great talk delivered by Kelsey Hightower on the importance of security in the software development lifecycle (SDLC). It has never been more important to shift security left in the SDLC. Even more he includes the different levels of [SLSA](https://slsa.dev/), [SBOM](https://www.ntia.gov/sbom), and how (little) tooling changes can improve the security of everyone's security in the SDLC.
