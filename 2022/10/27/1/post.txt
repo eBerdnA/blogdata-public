@@ -1,0 +1,30 @@
+---
+title: "WIRLW - CW43 | what I read last week"
+language: en
+date: "2022-10-27T21:30:00Z"
+author: André Bering
+type: article
+content-type: markdown
+published: yes
+tags: ["reading", "thoughts", "DORA", "DevOps", "DevSecOps"]
+categories: ["reading", "thoughts", "DORA", "DevOps", "DevSecOps"]
+card: true
+disclaimer: true
+---
+
+- [Folge 122 - DORA Metriken & Accelerate mit Felix Müller](https://software-architektur.tv/2022/06/10/folge122.html) (German content)  
+The content of this streamed recording is pretty good. They try to provide an overview what business can do to improve developer velocity. How these initiatives can be measured and what pitfalls to avoid.
+
+[//]: # "WayBack - https://web.archive.org/web/20221024210954/https://twitter.com/timolaak/status/1583661777145192448"
+- [Dad Bod on Twitter: "I dedicate this to all people who say "it sounds like a small task"." / Twitter](https://twitter.com/timolaak/status/1583661777145192448)  
+The diagram from the quote tweet is just an excellent example why a small change/little feature might not be a small change. I just ran into this situation on the weekend. Wanted to implement a small helper tool for myself but after a quick head start I ran in the exact same problem that the amount of things to implement became bigger and bigger. In the end I stepped back and found another solution for my specific requirement.
+
+- [SBOMs: An Overhyped Concept That Won't Secure Your Software Supply Chain](https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-)  
+This one is more or less a follow up to last week's [WIRLW](/2022/10/20/1/), especially Kelsey Hightower's talk. The point being made in this article is that it's nice that we have a starting point for SBOMs but there is still a lot of work todo before we have a mature solution. And probably this mature solution will not be SBOM but something for which no specification exists at all today.
+
+- [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)  
+This one is a controversial. The discussion about possible savings/spending more money when going to the cloud seems to be ongoing for ages. As is so often the case, it is the details that decide, for example, what kind of workload you want to handle. It's definitely worth reading the David Heinemeier Hansson article and to understand his argument as he's also pointing out even more arguments. Even ones which affect us as a society.
+
+- [Why Do They *Think* That? – Essays you didn’t want to read](https://essaysyoudidntwanttoread.home.blog/2022/10/09/why-do-they-think-that/)  
+⚠️ WARNING: This one is a long read (~23 min. according to Instapaper).  
+This essay tries to explain why (some) people are bothered by other people protecting themselves from Covid. The arguments are much more complex (and longer) then could be summarized here in a few words. Therefore, I really recommend reading this essay yourself if you are interested in this topic.
