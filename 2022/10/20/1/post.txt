@@ -5,7 +5,7 @@ date: "2022-10-20T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
-published: yes
+published: true
 tags: ["reading", "thoughts", "DevOps", "DevSecOps"]
 categories: ["reading", "thoughts", "DevOps", "DevSecOps"]
 card: true

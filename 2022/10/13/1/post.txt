@@ -5,7 +5,7 @@ date: "2022-10-13T21:30:00Z"
 author: André Bering
 type: article
 content-type: markdown
-published: yes
+published: true
 tags: ["reading", "thoughts"]
 categories: ["reading", "thoughts"]
 card: true
