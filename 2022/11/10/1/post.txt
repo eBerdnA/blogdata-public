@@ -9,7 +9,6 @@ published: true
 tags: ["reading", "thoughts", "meetings", "mindfulness", "music"]
 categories: ["reading", "thoughts", "meetings", "mindfulness", "music"]
 card: true
-disclaimer: no
 ---
 
 Because of going on vacation this will be last WIRLW for the next two weeks. A new issue of it will be published in CW48.
