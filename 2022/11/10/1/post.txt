@@ -1,0 +1,25 @@
+---
+title: "WIRLW - CW45 | what I read last week"
+language: en
+date: "2022-11-10T21:30:00Z"
+author: André Bering
+type: article
+content-type: markdown
+published: true
+tags: ["reading", "thoughts", "meetings", "mindfulness", "music"]
+categories: ["reading", "thoughts", "meetings", "mindfulness", "music"]
+card: true
+disclaimer: false
+---
+
+Because of going on vacation this will be last WIRLW for the next two weeks. A new issue of it will be published in CW48.
+
+- [On the Usefulness of Photography - by Simon Sarris](https://simonsarris.substack.com/p/on-the-usefulness-of-photography)  
+Making beautiful photos isn't just a question of technique. More important is the composition of the picture. And for this you have to pay attention to your surroundings. That's why it might be a good idea to take at least one picture every day because then somehow you might get more mindful (even though I really dislike this buzzword at the moment).
+
+[//]: # "found via https://news.ycombinator.com/item?id=33499646"
+- [Audio CD ripping - optical drive accuracy listing - Tech-Tutorials, Howtos and buying advice](https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/)  
+Pretty interesting to see how much effort is needed to create a "perfect rip" of your CDs.
+
+- [xahteiwi.eu – Getting out of Meeting Hell: What this is about](https://xahteiwi.eu/blog/2021/09/30/getting-out-of-meeting-hell/)
+Of course [YMMV](https://dictionary.cambridge.org/de/worterbuch/englisch/ymmv) but I think nowadays it's important to use your available time wisely and be clear about what might be time wasters. And I suppose meetings are something that come to mind first for most people. So this is the introduction to a series of 4 articles in total which might provide some food for thought regarding the necessity of meetings.
