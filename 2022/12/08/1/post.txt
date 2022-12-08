@@ -9,7 +9,6 @@ published: true
 tags: ["reading", "thoughts"]
 categories: ["reading", "thoughts"]
 card: true
-disclaimer: true
 ---
 
 For different reasons I struggled this week to use the desired amount of time for meaningful reading. That's why this week's WIRLW only contains two links.
