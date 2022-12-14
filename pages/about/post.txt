@@ -17,9 +17,10 @@ published: true
 			<div style="width:100%; display:table;">You can contact me in any of the following ways.</div>
 			<div>
 				<ul>
-					<li><a href=https://twitter.com/eBerdnA rel="me">Twitter</a></li>
-					<li><a href=https://www.linkedin.com/in/andrebering/ rel="me">LinkedIn</a></li>
-					<li><a href=https://github.com/eBerdnA rel="me">GitHub</a></li>
+					<li><a href="https://chaos.social/@eBerdnA">@eBerdnA@chaos.social</a></li>
+					<li><a href="https://www.linkedin.com/in/andrebering/" rel="me">LinkedIn</a></li>
+					<li><a href="https://github.com/eBerdnA" rel="me">GitHub</a></li>
+					<li><a href="https://twitter.com/eBerdnA" rel="me"><s>Twitter</s></a> - not preferred anymore</li>
 				</ul>
 			</div>
 		</div>
