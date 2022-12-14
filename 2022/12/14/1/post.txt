@@ -1,0 +1,11 @@
+---
+title: "Firefox PDF download"
+language: en
+date: '2022-12-14 11:00:00'
+type: note
+properties:
+    tags: ["firefox"]
+published: true
+...
+If you are using Firefox and are annoyed by PDFs being downloaded automatically then you need to adjust `browser.download.open_pdf_attachments_inline` to `true`.  Just enter `about:config` in the address bar and toggle the setting.
+found via [A comment by shscs911](https://jlelse.blog/comment/227) on 
