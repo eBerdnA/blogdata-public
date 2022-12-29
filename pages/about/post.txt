@@ -23,6 +23,8 @@ published: true
 					<li><a href="https://twitter.com/eBerdnA" rel="me"><s>Twitter</s></a> - not preferred anymore</li>
 				</ul>
 			</div>
+			<div>If you like something you've seen/read on my homepage you can always <a href="https://ko-fi.com/Z8Z7HE9SN" target="_blank"><img style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="36" border="0"></a>
+			</div>
 		</div>
 		<div class="about-pic">
 			<img src=/img/profilepic.png />
