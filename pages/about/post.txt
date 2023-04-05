@@ -11,8 +11,8 @@ published: true
 <div style=width:100%;display:table>
 	<div style=display:table-row>
 		<div style=display:table-cell;vertical-align:top>
-			<div>Hi,<br>my name is André Bering. I'm a software developer/Azure solution architect with more than 15 years professional experience.</div>
-			<div>Currently I'm employed as a Customer Success Architect at GitHub. All views expressed on my site are my own unless they are marked otherwise..</div>
+			<div>André Bering is a seasoned IT professional with over 20 years of experience spanning operations, software development, and consulting. Recently, he has shifted his focus to the DevOps and DevSecOps domains, with a personal interest in developer productivity and metrics, utilizing his extensive background to optimize processes and drive innovation across the industry.</div>
+			<div>Currently he's employed as a Customer Success Architect at GitHub. All views expressed on this site are his own unless they are marked otherwise.</div>
 			<div>&nbsp;</div>
 			<div style="width:100%; display:table;">You can contact me in any of the following ways.</div>
 			<div>
