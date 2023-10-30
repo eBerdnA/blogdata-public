@@ -12,7 +12,7 @@ published: true
 	<div style=display:table-row>
 		<div style=display:table-cell;vertical-align:top>
 			<div>André Bering is a seasoned IT professional with over 20 years of experience spanning operations, software development, and consulting. Recently, he has shifted his focus to the DevOps and DevSecOps domains, with a personal interest in developer productivity and metrics, utilizing his extensive background to optimize processes and drive innovation across the industry.</div>
-			<div>Currently he's employed as a Customer Success Architect at GitHub. All views expressed on this site are his own unless they are marked otherwise.</div>
+			<div>Currently he's employed as a Customer Success Engineer at JetBrains. All views expressed on this site are his own unless they are marked otherwise.</div>
 			<div>&nbsp;</div>
 			<div style="width:100%; display:table;">You can contact me in any of the following ways.</div>
 			<div>
