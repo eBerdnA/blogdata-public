@@ -32,8 +32,7 @@ jobs:
                 export FULL_PATH="$TARGET_DIRECTORY/post.txt"
                 git config user.name 'Publish Bot'
                 git config user.email 'publish-bot@github.com'
-                
-                export CURRENT_DATE=$(TZ=UTC date -v +1H +"%Y-%m-%d %T")
+                export CURRENT_DATE=$(TZ=UTC date -d "+1 hour" +"%Y-%m-%d %T")
                 POST_BODY=$(sed "s/date: '???'/date: '$CURRENT_DATE'/" <<< $POST_BODY)
                 echo "$POST_BODY" >> $FULL_PATH
 
