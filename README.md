@@ -1,3 +1,16 @@
+# Creating a new post
+
+First checkout a new branch. Then create a new stub using of the following four commands. Each will use the corresponding template file from the `.templates` directory.
+
+    ```bash
+    ./prep-for-pub.sh new de-direct
+    ./prep-for-pub.sh new en-direct
+    ./prep-for-pub.sh new de-article
+    ./prep-for-pub.sh new en-article
+    ```
+
+After the post has been written it can be prepped for publication running the script `./prep-for-pub.sh` prep. Afterwards create a PR and merge the created post.
+
 # YAML Frontmatter
 
     ---

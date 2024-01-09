@@ -1,0 +1,10 @@
+---
+title: "???"
+language: de
+date: '???'
+type: article
+properties:
+    tags: ["???"]
+published: true
+...
+???
