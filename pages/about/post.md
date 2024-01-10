@@ -27,7 +27,7 @@ published: true
 			</div>
 		</div>
 		<div class="about-pic">
-			<img src=/img/profilepic.png />
+			<img src="/img/profilepic.png" />
 		</div>
 	</div>
 </div>
