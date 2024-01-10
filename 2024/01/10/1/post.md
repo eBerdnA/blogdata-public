@@ -2,7 +2,7 @@
 title: "Is this a good book for me, now?"
 language: en
 directlink: https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now
-wayback: [???](https://web.archive.org/web/20231231004328/https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
+wayback: https://web.archive.org/web/20231231004328/https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now
 date: '2024-01-10 13:46:26'
 type: note
 properties:
