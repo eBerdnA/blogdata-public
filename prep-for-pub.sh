@@ -34,9 +34,14 @@ function rename_for_pub() {
     echo "Removed existing directory"
 
     #replace date in post
-    CURRENT_DATE=$(TZ=UTC date -d "+1 hour" +"%Y-%m-%d %T")
-    echo "publish date: $CURRENT_DATE"
-    sed -i "s/date: '???'/date: '$CURRENT_DATE'/" $new_directory/post.md
+    if [ "$(uname)" == "Darwin" ]; then
+        CURRENT_DATE=$(TZ=UTC gdate -d "+1 hour" +"%Y-%m-%d %T")
+        echo "publish date: $CURRENT_DATE"
+        sed -i '' -e "s/date: '???'/date: '$CURRENT_DATE'/" "$new_directory/post.md"
+    elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
+        CURRENT_DATE=$(TZ=UTC date -d "+1 hour" +"%Y-%m-%d %T")
+        sed -i "s/date: '???'/date: '$CURRENT_DATE'/" "$new_directory/post.md"
+    fi
 }
 
 new_stub_directory="yyyy/mm/dd/1"
