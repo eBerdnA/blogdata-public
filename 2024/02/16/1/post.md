@@ -13,6 +13,8 @@ published: true
 
 In an era where technology continually reshapes how we interact with software, the debate between On-Premises (On-Prem) and Software as a Service (SaaS) models remains more relevant than ever. Avdi Grimm's article on software ownership ([On “owning” software - avdi.codes](https://avdi.codes/on-owning-software/)) that I read some days ago provides a compelling perspective on this topic. However, it's crucial to explore the other side of the coin. In this post, we'll dive into the core arguments presented by Grimm and offer a different viewpoint, shaped by firsthand experiences in the software industry.
 
+<!-- more -->
+
 ## Challenging the Conventional Wisdom
 
 Avdi Grimm's article presents a viewpoint that's becoming increasingly popular in the software world: the apparent superiority of the SaaS model over traditional On-Prem solutions. According to Grimm, SaaS offers more flexibility, easier maintenance, and a better alignment with modern business needs. However, this perspective, while valid in certain contexts, doesn't fully encapsulate the diverse needs and scenarios of the software industry.
