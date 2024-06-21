@@ -2,7 +2,7 @@
 title: "I Will Fucking Piledrive You If You Mention AI Again"
 language: en
 directlink: https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/
-wayback: [https://archive.ph/RO3kX](https://web.archive.org/web/20240619122559/https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
+wayback: https://web.archive.org/web/20240619122559/https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/
 date: '2024-06-20 12:00:00'
 type: note
 properties:
