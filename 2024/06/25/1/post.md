@@ -1,7 +1,7 @@
 ---
 title: Getting YouTube audio in your Podcast app of choice
 language: en
-date: '2024-02-25 14:00:00'
+date: '2024-06-25 14:00:00'
 type: article
 properties:
     tags: ["rss", "podcast", "youtube"]
