@@ -1,7 +1,7 @@
 ---
 title: "RSS: The forgotten protocol that still matters​​​​​​​​​​​​​​​​"
 language: en
-directlink: https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B)
+directlink: https://joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B
 wayback: http://web.archive.org/web/20240624070450/https://www.joanwestenberg.com/rss-the-forgotten-protocol-that-still-matters%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B
 date: '2024-06-24 08:05:00'
 type: note
