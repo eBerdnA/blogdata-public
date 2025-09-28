@@ -19,6 +19,8 @@ This page offers different feeds for different purposes.
 | [/articles-feed/en](/articles-feed/en) | All English articles |
 | &nbsp; | &nbsp; |
 | &nbsp; | &nbsp; |
-| [/notes-feed](/notes-feed) | All notes no matter which language they are written in
-| [/notes-feed/de](/notes-feed/de) | All German notes
-| [/notes-feed/en](/notes-feed/en) | All English notes
+| [/notes-feed](/notes-feed) | All notes no matter which language they are written in |
+| [/notes-feed/de](/notes-feed/de) | All German notes | 
+| [/notes-feed/en](/notes-feed/en) | All English notes | 
+| &nbsp; | &nbsp; | |
+| [/links-feed](/links-feed) | All links |
