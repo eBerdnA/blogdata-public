@@ -4,6 +4,8 @@ date: 2025-07-26 18:47:49
 language: en
 type: link
 published: true
+properties:
+    tags: ["attention"]
 original_url: https://curtismchale.ca/2025/07/26/what-are-you-optimizing-life-for/
 archive_url: https://web.archive.org/web/20250726164910/https://curtismchale.ca/2025/07/26/what-are-you-optimizing-life-for/
 ---
