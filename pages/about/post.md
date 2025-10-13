@@ -22,7 +22,7 @@ Over the last 20+ years I have worked in various roles in IT. Starting with syst
 
 These days, I’m deeply interested in understanding why people do what they do and uncovering their underlying motivations. I believe it’s crucial to start with the “why” rather than jumping straight to the “how.”
 
-At the footer of every page, you’ll find various ways to reach me—feel free to share your questions, feedback, or suggestions about the site’s content. You can even just create a [pull request to contribute](https://github.com/eBerdnA/wordshavemeaning) to this page.
+At the footer of every page, you’ll find various ways to reach me—feel free to share your questions, feedback, or suggestions about the site’s content. You can even just create a [pull request to contribute](https://github.com/eBerdnA/blogdata-public/) to this page.
 
 I’d also greatly appreciate it if you let me know when something I’ve written has been helpful to you or others!
 
