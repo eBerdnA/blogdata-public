@@ -5,7 +5,7 @@ published: true
 language: en
 properties:
   tags: ["ai", "energy"]
-date: 2025-10-15 15:27:31
+date: 2025-10-25 15:27:31
 original_url: https://spinmantv.me/2025/10/24/how-are-we-going-to-power-all-this-ai-stuff-2/
 archive_url: https://web.archive.org/web/20251025153030/https://spinmantv.me/2025/10/24/how-are-we-going-to-power-all-this-ai-stuff-2/
 ---
