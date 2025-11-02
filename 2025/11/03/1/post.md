@@ -8,7 +8,7 @@ properties:
 published: true
 ---
 
-Manchmal stolpere ich über etwas, das auf den ersten Blick nichts mit meiner Arbeit zu tun hat – und genau deshalb bleibt es hängen. Vor einiger Zeit war das ein [Artikel über Vince Lombardi](https://www.packers.com/news/vince-lombardi-one-play-can-make-or-break-an-nfl-season-19249576), die Trainerlegende des amerikanischen Football. Er beschrieb, wie **jeder einzelne Spielzug zählt**, weil ein Team in einem Spiel nur eine begrenzte Zahl davon hat. Jeder kann über Sieg oder Niederlage entscheiden.
+Manchmal stolpere ich über etwas, das auf den ersten Blick nichts mit meiner Arbeit zu tun hat. Aber genau deshalb bleibt es manchmal hängen. Vor einiger Zeit war das ein [Artikel über Vince Lombardi](https://www.packers.com/news/vince-lombardi-one-play-can-make-or-break-an-nfl-season-19249576), die Trainerlegende des amerikanischen Football. Er beschrieb, wie **jeder einzelne Spielzug zählt**, weil ein Team in einem Spiel nur eine begrenzte Zahl davon hat. Jeder kann über Sieg oder Niederlage entscheiden.
 
 Auch wenn ich selbst nie Football gespielt habe, fand ich diese Analogie sofort treffend, besonders für Customer Success.
 

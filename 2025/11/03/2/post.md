@@ -10,7 +10,7 @@ published: true
 
 ## Every Play Counts – What Customer Success Can Learn from Football  
 
-Every now and then, I stumble upon something that seems unrelated to my work, and that’s exactly why it sticks. Some time ago, I came across [an article about Vince Lombardi](https://www.packers.com/news/vince-lombardi-one-play-can-make-or-break-an-nfl-season-19249576), the legendary American football coach. He described how **every single play counts**, because a team only gets so many in a game. Each one can decide between victory and defeat.  
+Every now and then, I stumble upon something that seems unrelated to my work, and that’s exactly why it sometimes sticks. Some time ago, I came across [an article about Vince Lombardi](https://www.packers.com/news/vince-lombardi-one-play-can-make-or-break-an-nfl-season-19249576), the legendary American football coach. He described how **every single play counts**, because a team only gets so many in a game. Each one can decide between victory and defeat.  
 
 Even though I’ve never played football myself, I found that analogy instantly fitting, especially for **Customer Success**.  
 
