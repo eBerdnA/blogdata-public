@@ -1,0 +1,13 @@
+* Links
+** How high are OpenAI’s compute costs?
+:PROPERTIES:
+:ID:       95B823F6-02D9-4F49-A43B-4F309B222A4E
+:Title: How high are OpenAI’s compute costs? Possibly a lot higher than we thought
+:Date: 2025-11-13 07:50:25
+:Created: [2025-11-13 Thu 07:50]
+:Type: link
+:Language: de
+:Published: true
+:Tags: AI
+:Original_url: https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5?shareType=nongift
+:Archive_url: https://web.archive.org/web/20251113080147/https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5?shareType=nongift
