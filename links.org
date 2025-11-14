@@ -6,9 +6,22 @@
 :Date: 2025-11-13 07:50:25
 :Created: [2025-11-13 Thu 07:50]
 :Type: link
-:Language: de
+:Language: en
 :Published: true
 :Tags: AI
 :Original_url: https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5?shareType=nongift
 :Archive_url: https://web.archive.org/web/20251113080147/https://www.ft.com/content/fce77ba4-6231-4920-9e99-693a6c38e7d5?shareType=nongift
+:END:
+** Writing is thinking
+:PROPERTIES:
+:ID:       80DB79FA-E4F8-4144-AE0D-770CAC585865
+:Title: Writing is thinking
+:Date: 2025-11-14 09:43:00
+:Created: [2025-11-14 Fri 09:43:00]
+:Type: link
+:Language: en
+:Published: true
+:Tags: AI
+:Tags+: thinking
+:Original_url: https://www.nature.com/articles/s44222-025-00323-4
 :END:
