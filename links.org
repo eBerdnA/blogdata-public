@@ -25,3 +25,19 @@
 :Tags+: thinking
 :Original_url: https://www.nature.com/articles/s44222-025-00323-4
 :END:
+** Crossroads
+:PROPERTIES:
+:ID:       C3156613-50CE-4897-9E39-A05E5D1B1112
+:Title: The Crossroads
+:Date: 2025-11-17 21:01:00
+:Created: [2025-11-17 Thu 21:01]
+:Type: link
+:Language: en
+:Published: true
+:Tags: Coaching
+:Tags+: Life
+:Tags+: Career
+:Original_url: https://www.printmag.com/creative-voices/the-crossroads/
+:Archive_url: https://web.archive.org/web/20251117204811/https://www.printmag.com/creative-voices/the-crossroads/
+:END:
+found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 279 | Scott Boms]]
