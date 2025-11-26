@@ -41,3 +41,15 @@
 :Archive_url: https://web.archive.org/web/20251117204811/https://www.printmag.com/creative-voices/the-crossroads/
 :END:
 found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 279 | Scott Boms]]
+** org-mode - Karl Voit
+:PROPERTIES:
+:ID:       C850EA19-D37E-4AB6-A00F-D5C7C73CAA97
+:Title: Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text
+:Date: 2025-11-26 23:02:00
+:Created: 2025-11-26 23:02:00
+:Type: link
+:Language: en
+:Published: true
+:Tags: emacs
+:Original_url: https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+:END:
