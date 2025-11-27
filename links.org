@@ -60,7 +60,7 @@ found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 2
 :Date: 2025-11-27 20:02:00
 :Created: 2025-11-27 20:02:00
 :Type: Link
-:Language:
+:Language: en
 :Published: true
 :Tags: security
 :Original_url: https://www.hacklore.org/letter
