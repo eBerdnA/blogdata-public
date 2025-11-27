@@ -53,3 +53,16 @@ found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 2
 :Tags: emacs
 :Original_url: https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
 :END:
+** stop hacklore
+:PROPERTIES:
+:ID:       AF6730C6-A222-4C76-BEF4-0D7B02B87C3B
+:Title: The Letter — Stop Hacklore!
+:Date: 2025-11-27 20:02:00
+:Created: 2025-11-27 20:02:00
+:Type: Link
+:Language:
+:Published: true
+:Tags: security
+:Original_url: https://www.hacklore.org/letter
+:END:
+found via https://infosec.exchange/@rene_mobile/115622209552174750
