@@ -52,6 +52,7 @@ found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 2
 :Published: true
 :Tags: emacs
 :Original_url: https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+:Archive_url: https://web.archive.org/web/20251130103626/https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
 :END:
 ** stop hacklore
 :PROPERTIES:
@@ -64,5 +65,20 @@ found via [[https://scottboms.com/documenting/through-lines-279][Through Lines 2
 :Published: true
 :Tags: security
 :Original_url: https://www.hacklore.org/letter
+:Archive_url: https://web.archive.org/web/20251130103556/https://www.hacklore.org/letter
 :END:
 found via https://infosec.exchange/@rene_mobile/115622209552174750
+** space datacenter
+:PROPERTIES:
+:ID:       3F8C442C-8211-4F6E-9808-4973BC7FA009
+:Title: Datacenters in space are a terrible, horrible, no good idea.
+:Date: 2025-11-30 10:32
+:Created: 2025-11-30 10:32
+:Type: Link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/
+:Archive_url: https://web.archive.org/web/20251130100754/https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/
+:END:
+found via [[https://news.ycombinator.com/item?id=46087616][Datacenters in space aren't going to work | Hacker News]]
