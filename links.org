@@ -72,8 +72,8 @@ found via https://infosec.exchange/@rene_mobile/115622209552174750
 :PROPERTIES:
 :ID:       3F8C442C-8211-4F6E-9808-4973BC7FA009
 :Title: Datacenters in space are a terrible, horrible, no good idea.
-:Date: 2025-11-30 10:32
-:Created: 2025-11-30 10:32
+:Date: 2025-11-30 10:32:00
+:Created: 2025-11-30 10:32:00
 :Type: Link
 :Language: en
 :Published: true
