@@ -82,3 +82,17 @@ found via https://infosec.exchange/@rene_mobile/115622209552174750
 :Archive_url: https://web.archive.org/web/20251130100754/https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/
 :END:
 found via [[https://news.ycombinator.com/item?id=46087616][Datacenters in space aren't going to work | Hacker News]]
+** kids - smartphones
+:PROPERTIES:
+:ID:       62B8CDA0-79D1-4A0F-9E1F-07F63068C599
+:Title: Something Grim Is Happening to Kids Who Got Cell Phones Early
+:Date: 2025-12-04 20:01
+:Created: 2025-12-04 20:01
+:Type: link
+:Language: en
+:Published: true
+:Tags: smartphone
+:Original_url: [[https://futurism.com/health-medicine/grim-happenings-kids-smartphones]]
+:Archive_url: https://web.archive.org/web/20251204200429/https://futurism.com/health-medicine/grim-happenings-kids-smartphones
+:END:
+found via [[https://bsky.app/profile/rawx.bsky.social/post/3m72wjq2zlc2e][Post by @rawx.bsky.social — Bluesky]]
