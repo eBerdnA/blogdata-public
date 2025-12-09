@@ -96,3 +96,16 @@ found via [[https://news.ycombinator.com/item?id=46087616][Datacenters in space 
 :Archive_url: https://web.archive.org/web/20251204200429/https://futurism.com/health-medicine/grim-happenings-kids-smartphones
 :END:
 found via [[https://bsky.app/profile/rawx.bsky.social/post/3m72wjq2zlc2e][Post by @rawx.bsky.social — Bluesky]]
+** AI churn - 90 days tech stack
+:PROPERTIES:
+:ID:       45A93810-F530-4698-8C71-34BA8B64D4D7
+:Title: AI churn has IT rebuilding tech stacks every 90 days
+:Date: 2025-12-09 14:11:00
+:Created: 2025-12-09 14:11:00
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: [[https://www.cio.com/article/4101921/ai-churn-has-it-rebuilding-tech-stacks-every-90-days.html]]
+:Archive_url: https://web.archive.org/web/20251209141301/https://www.cio.com/article/4101921/ai-churn-has-it-rebuilding-tech-stacks-every-90-days.html
+:END:
