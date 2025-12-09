@@ -92,7 +92,7 @@ found via [[https://news.ycombinator.com/item?id=46087616][Datacenters in space 
 :Language: en
 :Published: true
 :Tags: smartphone
-:Original_url: [[https://futurism.com/health-medicine/grim-happenings-kids-smartphones]]
+:Original_url: https://futurism.com/health-medicine/grim-happenings-kids-smartphones
 :Archive_url: https://web.archive.org/web/20251204200429/https://futurism.com/health-medicine/grim-happenings-kids-smartphones
 :END:
 found via [[https://bsky.app/profile/rawx.bsky.social/post/3m72wjq2zlc2e][Post by @rawx.bsky.social — Bluesky]]
