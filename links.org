@@ -109,3 +109,17 @@ found via [[https://bsky.app/profile/rawx.bsky.social/post/3m72wjq2zlc2e][Post b
 :Original_url: https://www.cio.com/article/4101921/ai-churn-has-it-rebuilding-tech-stacks-every-90-days.html
 :Archive_url: https://web.archive.org/web/20251209141301/https://www.cio.com/article/4101921/ai-churn-has-it-rebuilding-tech-stacks-every-90-days.html
 :END:
+** The Future of Software Development is Software Developers
+:PROPERTIES:
+:ID:       D3DBDABC-EAC7-49F6-B819-358EFE9DF2FD
+:Title: The Future of Software Development is Software Developers
+:Date: 2025-12-31 09:36:38
+:Created: 2025-12-31 09:36:38
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/
+:Archive_url: https://web.archive.org/web/20251231094039/https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/
+:END:
+found via [[https://news.ycombinator.com/item?id=46424233][The future of software development is software developers | Hacker News]]
