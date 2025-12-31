@@ -123,3 +123,16 @@ found via [[https://bsky.app/profile/rawx.bsky.social/post/3m72wjq2zlc2e][Post b
 :Archive_url: https://web.archive.org/web/20251231094039/https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/
 :END:
 found via [[https://news.ycombinator.com/item?id=46424233][The future of software development is software developers | Hacker News]]
+** Groq investor sounds alarm on data centers
+:PROPERTIES:
+:ID:       7056DA5A-66E5-4E1B-9807-A13108132AA0
+:Title: Groq investor sounds alarm on data centers
+:Date: 2025-12-31 18:28:51
+:Created: 2025-12-31 18:28:51
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns
+:Archive_url: https://web.archive.org/web/20251231183254/https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns
+:END:
