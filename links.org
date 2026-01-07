@@ -136,3 +136,17 @@ found via [[https://news.ycombinator.com/item?id=46424233][The future of softwar
 :Original_url: https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns
 :Archive_url: https://web.archive.org/web/20251231183254/https://www.axios.com/2025/12/29/groq-alex-davis-data-center-concerns
 :END:
+** On Being Useful
+:PROPERTIES:
+:ID:       6E34D4F3-5AA2-408C-8957-3B0F5BD48B06
+:Title: On Being Useful
+:Date: 2026-01-07 10:21:35
+:Created: 2026-01-07 10:21:35
+:Type: link
+:Language: en
+:Published: true
+:Tags: life
+:Tags+: career
+:Original_url: https://berthub.eu/articles/posts/on-being-useful/
+:Archive_url: https://web.archive.org/web/20260107102332/https://berthub.eu/articles/posts/on-being-useful/
+:END:
