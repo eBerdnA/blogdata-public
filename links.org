@@ -160,7 +160,7 @@ found via [[https://news.ycombinator.com/item?id=46424233][The future of softwar
 :Language: en
 :Published: true
 :Tags: ai
-:Original_url: [[https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c]]
+:Original_url: https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c
 :Archive_url: https://web.archive.org/web/20260110175908/https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c%5D%5D
 :END:
 found via [[https://bsky.app/profile/rawx.bsky.social/post/3mc2xkn5fvc2l][Post by @rawx.bsky.social — Bluesky]]
