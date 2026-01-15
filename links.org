@@ -164,3 +164,17 @@ found via [[https://news.ycombinator.com/item?id=46424233][The future of softwar
 :Archive_url: https://web.archive.org/web/20260110175908/https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c%5D%5D
 :END:
 found via [[https://bsky.app/profile/rawx.bsky.social/post/3mc2xkn5fvc2l][Post by @rawx.bsky.social — Bluesky]]
+** Jeff Bezos said the quiet part out loud
+:PROPERTIES:
+:ID:       6EA12977-5EC7-4A91-9603-46AEFDA72E29
+:Title: Jeff Bezos said the quiet part out loud — hopes that you'll give up your PC to rent one from the cloud
+:Date: 2026-01-15 12:54:46
+:Created: 2026-01-15 12:54:46
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: cloud
+:Original_url: https://www.windowscentral.com/artificial-intelligence/jeff-bezos-says-the-quiet-part-out-loud-bezos-envisions-that-youll-give-up-your-pc-for-an-ai-cloud-version
+:Archive_url: https://web.archive.org/web/20260115125447/https://www.windowscentral.com/artificial-intelligence/jeff-bezos-says-the-quiet-part-out-loud-bezos-envisions-that-youll-give-up-your-pc-for-an-ai-cloud-version
+:END:
