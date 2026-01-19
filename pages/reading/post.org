@@ -9,12 +9,13 @@
 :END: 
 
 ** Finished/Cancelled books
-|      Start |        End | State       | Title                 |
-|------------+------------+-------------+-----------------------|
-| 2026-01-02 |            | In progress | [[/about/][Unterwegs zu Swann]]    |
-| 2026-01-03 | 2026-01-14 | Finished    | [[https://www.goodreads.com/book/show/123136728-orbital][Orbital]]               |
-| 2026-01-11 | 2026-01-12 | Finished    | [[https://www.goodreads.com/en/book/show/218531158-wenn-russland-gewinnt][Wenn Russland gewinnt]] |
-| 2025-12-30 | 2025-12-30 | Finished    | [[https://www.goodreads.com/book/show/657295.Die_M_use_Strategie_f_r_Manager][Die Mäuse Strategie]]   |
+|      Start |        End | State       | Title                  |
+|------------+------------+-------------+------------------------|
+| 2026-01-02 |            | In progress | [[https://www.goodreads.com/book/show/1414737.Unterwegs_zu_Swann][Unterwegs zu Swann]]     |
+| 2026-01-18 |            | In progress | [[https://www.goodreads.com/book/show/40404670-kapitalismus-verstehen---einf-hrung-in-die-politische-konomie-der-gegen][Kapitalismus verstehen]] |
+| 2026-01-03 | 2026-01-14 | Finished    | [[https://www.goodreads.com/book/show/123136728-orbital][Orbital]]                |
+| 2026-01-11 | 2026-01-12 | Finished    | [[https://www.goodreads.com/en/book/show/218531158-wenn-russland-gewinnt][Wenn Russland gewinnt]]  |
+| 2025-12-30 | 2025-12-30 | Finished    | [[https://www.goodreads.com/book/show/657295.Die_M_use_Strategie_f_r_Manager][Die Mäuse Strategie]]    |
 
 ** SUB - Stack of unread books
 | Title                                |
