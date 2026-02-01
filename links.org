@@ -192,4 +192,23 @@ found via [[https://bsky.app/profile/rawx.bsky.social/post/3mc2xkn5fvc2l][Post b
 :Archive_url: https://web.archive.org/web/20260121075326/https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
 :END:
 found via a colleague who pointed me at this
+** space data centers
+:PROPERTIES:
+:ID:       724C5B25-C4D8-4130-9EBB-8D755B6CA6A1
+:Title:    The Dumbest Thing I’ve Seen This Week
+:Created: 2026-02-01 12:06:57
+:Date: 2026-02-01 12:06:57
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://www.physicsmatt.com/blog/2025/12/11/the-dumbest-thing-ive-seen-this-week
+:Archive_url: https://web.archive.org/web/20260201110730/https://www.physicsmatt.com/blog/2025/12/11/the-dumbest-thing-ive-seen-this-week
+:END:
+found via https://fosstodon.org/@AkaSci/115991339874904427
 
+And the article is off to a great start ...
+
+#+BEGIN_QUOTE
+To be blunt, the entire stupid idea is a giant middle finger to multiple fundamentals of physics, and the fact that it is apparently being taken seriously by our tech lords, mainstream journalism, and political leaders is a damning indictment of not just the ridiculous amount of money chasing bad ideas in the tech/LLM/hype sector that has eaten the American economy, political power centers, and people who really should know better, but yet another demonstration of how people who built their economic empire on a claim of STEM-based rigor and quantitative genius either can’t do basic physics or know that no one out there who matters is going to call them on it.
+#+END_QUOTE
