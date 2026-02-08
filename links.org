@@ -212,3 +212,21 @@ And the article is off to a great start ...
 #+BEGIN_QUOTE
 To be blunt, the entire stupid idea is a giant middle finger to multiple fundamentals of physics, and the fact that it is apparently being taken seriously by our tech lords, mainstream journalism, and political leaders is a damning indictment of not just the ridiculous amount of money chasing bad ideas in the tech/LLM/hype sector that has eaten the American economy, political power centers, and people who really should know better, but yet another demonstration of how people who built their economic empire on a claim of STEM-based rigor and quantitative genius either can’t do basic physics or know that no one out there who matters is going to call them on it.
 #+END_QUOTE
+** AI starting point
+:PROPERTIES:
+:ID:       7E4CFFA7-654C-47B6-BEB1-52F43369C0EF
+:Title: AI Starting Points | Jorge Arango
+:Created: 2026-02-08 10:21:50
+:Date: 2026-02-08 10:21:50
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://jarango.com/2026/02/03/ai-starting-points/
+:Archive_url: https://web.archive.org/web/20260208092312/https://jarango.com/2026/02/03/ai-starting-points/
+:END:
+This article focuses primarily on UX aspects of work. However, I think the following idea applies to almost all IT-related roles.
+#+BEGIN_QUOTE
+As you learn about AI, ruthlessly consider the impact on your work. Look to replace yourself. I assure you, others are. Do it first.
+#+END_QUOTE
+From my point of view, it ultimately comes down to this: be the human in the loop, control what you need to control, and be very deliberate about which aspects of your work you choose to outsource to an LLM. Quality of work will be one of the bigger challenges for the better part of 2026.
