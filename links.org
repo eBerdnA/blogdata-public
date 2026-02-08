@@ -230,3 +230,17 @@ This article focuses primarily on UX aspects of work. However, I think the follo
 As you learn about AI, ruthlessly consider the impact on your work. Look to replace yourself. I assure you, others are. Do it first.
 #+END_QUOTE
 From my point of view, it ultimately comes down to this: be the human in the loop, control what you need to control, and be very deliberate about which aspects of your work you choose to outsource to an LLM. Quality of work will be one of the bigger challenges for the better part of 2026.
+** mastering emacs essentials
+:PROPERTIES:
+:ID:       D0B355A3-D048-4AE8-B754-211FFC260B4D
+:Title: Mastering Emacs: Essential Tips and Tricks for Efficiency – Emacsfr
+:Created: 2026-02-08 10:29:55
+:Date: 2026-02-08 10:29:55
+:Type: link
+:Language: en
+:Published: true
+:Tags: emacs
+:Original_url: https://emacsfr.org/2025/02/21/mastering-emacs-essential-tips-and-tricks-for-efficiency/
+:Arcvhive_url: https://web.archive.org/web/20260208093043/https://emacsfr.org/2025/02/21/mastering-emacs-essential-tips-and-tricks-for-efficiency/
+:END:
+found via [[https://sachachua.com/blog/2026/02/2026-02-02-emacs-news/][2026-02-02 Emacs news :: Sacha Chua]]
