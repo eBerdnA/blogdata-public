@@ -244,3 +244,16 @@ From my point of view, it ultimately comes down to this: be the human in the loo
 :Arcvhive_url: https://web.archive.org/web/20260208093043/https://emacsfr.org/2025/02/21/mastering-emacs-essential-tips-and-tricks-for-efficiency/
 :END:
 found via [[https://sachachua.com/blog/2026/02/2026-02-02-emacs-news/][2026-02-02 Emacs news :: Sacha Chua]]
+** AI Doesn’t Reduce Work—It Intensifies It
+:PROPERTIES:
+:ID:       1609EA8C-9E9F-4A8B-A216-72CD705F671A
+:Title: AI Doesn’t Reduce Work—It Intensifies It
+:Created: 2026-02-09 20:43:01
+:Date: 2026-02-09 20:43:01
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
+:END:
+found via [[https://simonwillison.net/2026/Feb/9/ai-intensifies-work/][AI Doesn’t Reduce Work—It Intensifies It]]
