@@ -8,6 +8,14 @@ properties:
     tags: []
 published: true
 ...
+
+You can contact me in any of the following ways.
+
+- [@eBerdnA@chaos.social](https://chaos.social/@eBerdnA)
+- [LinkedIn](https://www.linkedin.com/in/andrebering/)
+- [GitHub](https://github.com/eBerdnA)
+
+
 The goal of this site is to share content that I find personally interesting. Topics may include IT, philosophy, processes, design, and reading.
 Sometimes I have shorter thoughts I’d like to share, so I created a [/notes](/notes) section on this site. Longer articles will be published under [/articles](/articles), while interesting links I come across can be found in the [/links](/links) section.
 
@@ -41,9 +49,3 @@ For work-related inquiries, please contact me through my professional email addr
 This site is non-commercial and contains no sponsored content. If you come across an unmarked affiliate link, please let me know, as it would likely be an error—unless it’s intentionally included to support someone whose work I value or if it’s the only way to reference external content.
 
 All articles on this site are created independently and are neither sponsored, paid for, nor requested by my employer.
-
-You can contact me in any of the following ways.
-
-- [@eBerdnA@chaos.social](https://chaos.social/@eBerdnA)
-- [LinkedIn](https://www.linkedin.com/in/andrebering/)
-- [GitHub](https://github.com/eBerdnA)
