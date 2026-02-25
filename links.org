@@ -257,3 +257,37 @@ found via [[https://sachachua.com/blog/2026/02/2026-02-02-emacs-news/][2026-02-0
 :Original_url: https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
 :END:
 found via [[https://simonwillison.net/2026/Feb/9/ai-intensifies-work/][AI Doesn’t Reduce Work—It Intensifies It]]
+* AI, Addiction, Burnout, and the Time Value of Money
+:PROPERTIES:
+:ID:       CB468C94-99E7-4632-AE51-1005F686AAAD
+:Title: AI, Addiction, Burnout, and the Time Value of Money
+:Created: 2026-02-25 11:40:56
+:Date: 2026-02-25 11:40:56
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://securing.dev/posts/ai-and-the-time-value-of-money/
+:Archive_url: https://web.archive.org/web/20260225104341/https://securing.dev/posts/ai-and-the-time-value-of-money/
+:END:
+* Redefining the Software Engineering Profession for AI
+:PROPERTIES:
+:ID:       D7B2B3E0-5D16-4BA1-9A30-0F1C7471A339
+:Title: Redefining the Software Engineering Profession for AI
+:Created: 2026-02-25 11:44:57
+:Date: 2026-02-25 11:44:57
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://dl.acm.org/doi/10.1145/3779312
+:END:
+found via https://mas.to/@carnage4life/116129563636347636 and to quote Dare here:
+#+BEGIN_QUOTE
+...
+
+AI  coding tools increase senior engineer productivity while creating an “AI drag” for junior engineers who lack judgment or context to validate AI outputs.  
+
+Companies optimizing for the near-term output by reducing junior hiring, are undermining the future supply of experienced engineers. We likely need to move to apprenticeship like models in the future to give juniors experience.
+https://dl.acm.org/doi/10.1145/3779312
+#+END_QUOTE
