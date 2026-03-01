@@ -291,3 +291,16 @@ AI  coding tools increase senior engineer productivity while creating an “AI d
 Companies optimizing for the near-term output by reducing junior hiring, are undermining the future supply of experienced engineers. We likely need to move to apprenticeship like models in the future to give juniors experience.
 https://dl.acm.org/doi/10.1145/3779312
 #+END_QUOTE
+* What AI coding costs you
+:PROPERTIES:
+:ID:       80F33834-76EB-4711-A1F7-99A2BD6E3C43
+:Title: What AI coding costs you
+:Created: 2026-03-01 16:54:53
+:Date: 2026-03-01 16:54:53
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
+:Archive_url: https://web.archive.org/web/20260301155739/https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
+:END:
