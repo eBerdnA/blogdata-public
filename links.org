@@ -304,3 +304,22 @@ https://dl.acm.org/doi/10.1145/3779312
 :Original_url: https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
 :Archive_url: https://web.archive.org/web/20260301155739/https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
 :END:
+* IQ no matter
+:PROPERTIES:
+:ID:       68650731-7DA5-40B7-B524-5AEBF4390AED
+:Title: Why your IQ no longer matters in the era of AI - Big Think
+:Created: 2026-03-09 12:44:28
+:Date: 2026-03-09 12:44:28
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: intelligence
+:Original_url: https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/
+:Archive_url: https://web.archive.org/web/20260309114556/https://bigthink.com/business/why-your-iq-no-longer-matters-in-the-era-of-ai/
+:END:
+I don't fully agree with the following:
+#+BEGIN_QUOTE
+When intelligence itself becomes a commodity, optimizing for IQ is like training to be the fastest typist in an age of voice recognition.
+#+END_QUOTE
+Your AQ won't be much use if your IQ isn't at least at a certain level. That said, I do see value in the concept of an Agility Quotient (AQ). Though in the end, it might just be another term for resilience.
