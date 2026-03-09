@@ -257,7 +257,7 @@ found via [[https://sachachua.com/blog/2026/02/2026-02-02-emacs-news/][2026-02-0
 :Original_url: https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
 :END:
 found via [[https://simonwillison.net/2026/Feb/9/ai-intensifies-work/][AI Doesn’t Reduce Work—It Intensifies It]]
-* AI, Addiction, Burnout, and the Time Value of Money
+** AI, Addiction, Burnout, and the Time Value of Money
 :PROPERTIES:
 :ID:       CB468C94-99E7-4632-AE51-1005F686AAAD
 :Title: AI, Addiction, Burnout, and the Time Value of Money
@@ -270,7 +270,7 @@ found via [[https://simonwillison.net/2026/Feb/9/ai-intensifies-work/][AI Doesn�
 :Original_url: https://securing.dev/posts/ai-and-the-time-value-of-money/
 :Archive_url: https://web.archive.org/web/20260225104341/https://securing.dev/posts/ai-and-the-time-value-of-money/
 :END:
-* Redefining the Software Engineering Profession for AI
+** Redefining the Software Engineering Profession for AI
 :PROPERTIES:
 :ID:       D7B2B3E0-5D16-4BA1-9A30-0F1C7471A339
 :Title: Redefining the Software Engineering Profession for AI
@@ -291,7 +291,7 @@ AI  coding tools increase senior engineer productivity while creating an “AI d
 Companies optimizing for the near-term output by reducing junior hiring, are undermining the future supply of experienced engineers. We likely need to move to apprenticeship like models in the future to give juniors experience.
 https://dl.acm.org/doi/10.1145/3779312
 #+END_QUOTE
-* What AI coding costs you
+** What AI coding costs you
 :PROPERTIES:
 :ID:       80F33834-76EB-4711-A1F7-99A2BD6E3C43
 :Title: What AI coding costs you
@@ -304,10 +304,10 @@ https://dl.acm.org/doi/10.1145/3779312
 :Original_url: https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
 :Archive_url: https://web.archive.org/web/20260301155739/https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/
 :END:
-* IQ no matter
+** IQ no matter
 :PROPERTIES:
 :ID:       68650731-7DA5-40B7-B524-5AEBF4390AED
-:Title: Why your IQ no longer matters in the era of AI - Big Think
+:Title: Why your IQ no longer matters in the era of AI
 :Created: 2026-03-09 12:44:28
 :Date: 2026-03-09 12:44:28
 :Type: link
