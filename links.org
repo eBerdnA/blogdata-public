@@ -323,3 +323,17 @@ I don't fully agree with the following:
 When intelligence itself becomes a commodity, optimizing for IQ is like training to be the fastest typist in an age of voice recognition.
 #+END_QUOTE
 Your AQ won't be much use if your IQ isn't at least at a certain level. That said, I do see value in the concept of an Agility Quotient (AQ). Though in the end, it might just be another term for resilience.
+** AI Isn’t Lightening Workloads. It’s Making Them More Intense.
+:PROPERTIES:
+:ID:       B18E1AF9-A929-4AA9-93CC-95D14FC3D7E4
+:Title: AI Isn’t Lightening Workloads. It’s Making Them More Intense.
+:Created: 2026-03-11 21:13:17
+:Date: 2026-03-11 21:13:17
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c
+:Archive_url: https://archive.ph/mmPNa
+:END:
+
