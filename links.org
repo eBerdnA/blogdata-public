@@ -366,3 +366,18 @@ I've read this originally close to the original publication date. Anyhow, I just
 :Archive_url: https://archive.ph/stHvt
 :END:
 found via https://bsky.app/profile/aspberlin.bsky.social/post/3mgwg2ucx4k22
+** Why Movies Just Don't Feel "Real" Anymore
+:PROPERTIES:
+:ID:       5C992D52-C3B3-430E-A913-C52E8A1B5FF3
+:Title: Why Movies Just Don't Feel "Real" Anymore
+:Created: 2026-03-14 17:19:03
+:Date: 2026-03-14 17:19:03
+:Type: link
+:Language: en
+:Published: true
+:Tags: movies
+:Original_url: https://www.youtube.com/watch?v=tvwPKBXEOKE
+:END:
+In [[/2025/01/02/1/][Food for thought 2024]] I already mentioned [[https://www.nplusonemag.com/issue-49/essays/casual-viewing/][Casual Viewing | Issue 49 | n+1 | Will Tavlin]].
+
+I found this one via [[https://kottke.org/26/03/0048563-why-movies-just-dont-feel][Why Movies Just Don’t Feel “Real” Anymore. “A deep dive into...]]
