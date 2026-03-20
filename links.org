@@ -351,3 +351,17 @@ Your AQ won't be much use if your IQ isn't at least at a certain level. That sai
 :Archive_url: https://web.archive.org/web/20260312133952/https://www.hanselman.com/blog/changing-perspectives-on-your-job-will-you-renew-your-boss-for-another-season
 :END:
 I've read this originally close to the original publication date. Anyhow, I just felt this should in the list of my links.
+** Nobody Gets Promoted for Simplicity
+:PROPERTIES:
+:ID:       EAB706D2-9E2A-4077-88C7-DD825B8C708A
+:Title: Nobody Gets Promoted for Simplicity
+:Created: 2026-03-20 09:08:52
+:Date: 2026-03-20 09:08:52
+:Type: link
+:Language: en
+:Published: true
+:Tags: engineering
+:Original_url: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
+:Archive_url: https://web.archive.org/web/20260320080950/https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
+:END:
+found via [[https://kottke.org/26/03/0048579-nobody-gets-promoted-for-][Nobody Gets Promoted for Simplicity. “You can’t write a comp...]]
