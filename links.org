@@ -351,6 +351,36 @@ Your AQ won't be much use if your IQ isn't at least at a certain level. That sai
 :Archive_url: https://web.archive.org/web/20260312133952/https://www.hanselman.com/blog/changing-perspectives-on-your-job-will-you-renew-your-boss-for-another-season
 :END:
 I've read this originally close to the original publication date. Anyhow, I just felt this should in the list of my links.
+** Palantir CEO Makes Shocking Confession on Disrupting Democratic Power
+:PROPERTIES:
+:ID:       8CA66DBE-EDD8-49AD-9A96-F5FC2FDC761E
+:Title: Palantir CEO Makes Shocking Confession on Disrupting Democratic Power
+:Created: 2026-03-13 10:15:18
+:Date: 2026-03-13 10:15:18
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: society
+:Original_url: https://newrepublic.com/post/207693/palantir-ceo-karp-disrupting-democratic-power
+:Archive_url: https://archive.ph/stHvt
+:END:
+found via https://bsky.app/profile/aspberlin.bsky.social/post/3mgwg2ucx4k22
+** Why Movies Just Don't Feel "Real" Anymore
+:PROPERTIES:
+:ID:       5C992D52-C3B3-430E-A913-C52E8A1B5FF3
+:Title: Why Movies Just Don't Feel "Real" Anymore
+:Created: 2026-03-14 17:19:03
+:Date: 2026-03-14 17:19:03
+:Type: link
+:Language: en
+:Published: true
+:Tags: movies
+:Original_url: https://www.youtube.com/watch?v=tvwPKBXEOKE
+:END:
+In [[/2025/01/02/1/][Food for thought 2024]] I already mentioned [[https://www.nplusonemag.com/issue-49/essays/casual-viewing/][Casual Viewing | Issue 49 | n+1 | Will Tavlin]].
+
+I found this one via [[https://kottke.org/26/03/0048563-why-movies-just-dont-feel][Why Movies Just Don’t Feel “Real” Anymore. “A deep dive into...]]
 ** Nobody Gets Promoted for Simplicity
 :PROPERTIES:
 :ID:       EAB706D2-9E2A-4077-88C7-DD825B8C708A
