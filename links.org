@@ -395,3 +395,20 @@ I found this one via [[https://kottke.org/26/03/0048563-why-movies-just-dont-fee
 :Archive_url: https://web.archive.org/web/20260320080950/https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
 :END:
 found via [[https://kottke.org/26/03/0048579-nobody-gets-promoted-for-][Nobody Gets Promoted for Simplicity. “You can’t write a comp...]]
+** The Last Quiet Thing
+:PROPERTIES:
+:ID:       3A5A37EF-0783-4FA6-9F00-A5A65C9FB8B3
+:Title: The Last Quiet Thing
+:Created: 2026-03-22 22:03:13
+:Date: 2026-03-22 22:03:13
+:Type: link
+:Language: en
+:Published: true
+:Tags: life
+:Tags+: simplify
+:Original_url: https://www.terrygodier.com/the-last-quiet-thing
+:Archive_url: https://web.archive.org/web/20260322210430/https://www.terrygodier.com/the-last-quiet-thing
+:END:
+found via [[https://makoism.com/espresso-shots-3-22-26/][Espresso Shots 3-22-26]]
+
+Even though I'm aware of many of these things in isolation, it's quite eye opening to see all these things put together in such a nice storyline.
