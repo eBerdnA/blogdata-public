@@ -415,3 +415,18 @@ Even though I'm aware of many of these things in isolation, it's quite eye openi
 #+BEGIN_QUOTE
 What if the exhaustion everybody feels isn't a moral failure but the completely rational response to being made responsible for an ecosystem of objects that never stop asking?
 #+END_QUOTE
+** Thoughts on slowing the fuck down
+:PROPERTIES:
+:ID:       511E9A58-C358-4BA9-99D5-AFB2914CE19B
+:Title: Thoughts on slowing the fuck down
+:Created: 2026-03-26 10:01:03
+:Date: 2026-03-26 10:01:03
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: productivity
+:Tags+: engineering
+:Original_url: https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
+:Archive_url: https://web.archive.org/web/20260326090159/https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
+:END:
