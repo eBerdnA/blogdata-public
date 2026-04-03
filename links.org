@@ -445,3 +445,18 @@ What if the exhaustion everybody feels isn't a moral failure but the completely 
 :Archive_url: https://web.archive.org/web/20260403100549/https://mailchi.mp/aboard/zkd26k8jzm-10345011?e=903e56dc11
 :END:
 found via [[https://baty.net/notes/2026/04/paul-ford-on-the-ghost-effect/][Paul Ford on The Ghost Effect — baty.net]]
+** Why Swedish Schools Are Bringing Back Books
+:PROPERTIES:
+:ID:       E0151004-05DE-4629-9421-E136F2A50549
+:Title: Why Swedish Schools Are Bringing Back Books
+:Created: 2026-04-03 12:08:44
+:Date: 2026-04-03 12:08:44
+:Type: link
+:Language: en
+:Published: true
+:Tags: education
+:Tags+: digitalisation
+:Original_url: https://undark.org/2026/04/01/sweden-schools-books/
+:Archive_url: https://web.archive.org/web/20260403084119/https://undark.org/2026/04/01/sweden-schools-books/
+:END:
+found via [[https://news.ycombinator.com/item?id=47612601][Sweden goes back to basics, swapping screens for books in the classroom | Hacker News]]
