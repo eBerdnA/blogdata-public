@@ -430,3 +430,18 @@ What if the exhaustion everybody feels isn't a moral failure but the completely 
 :Original_url: https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
 :Archive_url: https://web.archive.org/web/20260326090159/https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
 :END:
+** The Ghost Effect
+:PROPERTIES:
+:ID:       816CF8D2-E15C-4906-9ADC-3EFE91D349AD
+:Title: The Ghost Effect
+:Created: 2026-04-03 12:04:45
+:Date: 2026-04-03 12:04:45
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: security
+:Original_url: https://mailchi.mp/aboard/zkd26k8jzm-10345011?e=903e56dc11
+:Archive_url: https://web.archive.org/web/20260403100549/https://mailchi.mp/aboard/zkd26k8jzm-10345011?e=903e56dc11
+:END:
+found via [[https://baty.net/notes/2026/04/paul-ford-on-the-ghost-effect/][Paul Ford on The Ghost Effect — baty.net]]
