@@ -460,3 +460,20 @@ found via [[https://baty.net/notes/2026/04/paul-ford-on-the-ghost-effect/][Paul 
 :Archive_url: https://web.archive.org/web/20260403084119/https://undark.org/2026/04/01/sweden-schools-books/
 :END:
 found via [[https://news.ycombinator.com/item?id=47612601][Sweden goes back to basics, swapping screens for books in the classroom | Hacker News]]
+** How we built a virtual filesystem for our Assistant
+:PROPERTIES:
+:ID:       8271541A-2C91-468E-98DC-2EEA6FE26F42
+:Title: How we built a virtual filesystem for our Assistant
+:Created: 2026-04-04 11:48:50
+:Date: 2026-04-04 11:48:50
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: rag
+:Tags+: search
+:Original_url: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+:Archive_url: https://web.archive.org/web/20260404094935/https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+:END:
+found via [[https://news.ycombinator.com/item?id=47618223][We replaced RAG with a virtual filesystem for our AI documentation assistant | Hacker News]]
+
