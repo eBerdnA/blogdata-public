@@ -20,3 +20,9 @@ brew install ffmpeg
 # Convert
 ffmpeg -i download.mp4 -q:a 0 -map a audio.mp3
 #+END_SRC
+
+*Update*: And I just realized via [[https://www.jeffgeerling.com/blog/2022/how-download-mp4-youtube-every-time/][How to download an MP4 from YouTube, every time - Jeff Geerling]] that it could be done even easier.
+
+#+BEGIN_SRC bash
+yt-dlp -f 234 --recode mp3 <youtube-url>
+#+END_SRC
