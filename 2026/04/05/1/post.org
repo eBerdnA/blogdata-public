@@ -9,14 +9,14 @@
 :Tags+: music
 :Published: true
 :END:
-Just in case someone needs it, and for my personal future reference.
+Just in case anyone needs it, and for my personal future reference.
 #+BEGIN_SRC bash
-  # install if needed: https://github.com/yt-dlp/yt-dlp
-  ./yt-dlp_macos -f 234 -o "download.%(ext)s" <youtube-url>
-  
-  # install if needed
-  brew install ffmpeg
+# install if needed: https://github.com/yt-dlp/yt-dlp
+./yt-dlp_macos -f 234 -o "download.%(ext)s" <youtube-url>
 
-  # Convert
-  ffmpeg -i download.mp4 -q:a 0 -map a audio.mp3
+# install if needed
+brew install ffmpeg
+
+# Convert
+ffmpeg -i download.mp4 -q:a 0 -map a audio.mp3
 #+END_SRC
