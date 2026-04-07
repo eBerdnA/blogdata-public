@@ -6,6 +6,7 @@
 :Type: page
 :Language: en
 :Published: true
+:Style_profile: reading-tables
 :END: 
 
 ** Finished/Cancelled books
