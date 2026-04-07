@@ -476,4 +476,17 @@ found via [[https://news.ycombinator.com/item?id=47612601][Sweden goes back to b
 :Archive_url: https://web.archive.org/web/20260404094935/https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 :END:
 found via [[https://news.ycombinator.com/item?id=47618223][We replaced RAG with a virtual filesystem for our AI documentation assistant | Hacker News]]
-
+** The resilience paradox: When pushing through makes things worse
+:PROPERTIES:
+:ID:       1DEDD44D-0491-438B-AF90-4AB3A9056357
+:Title: The resilience paradox: When pushing through makes things worse
+:Created: 2026-04-07 14:06:38
+:Date: 2026-04-07 14:06:38
+:Type: link
+:Language: en
+:Published: true
+:Tags: health
+:Original_url: https://bigthink.com/mind-behavior/the-resilience-paradox-when-pushing-through-makes-things-worse/
+:Archive_url: https://web.archive.org/web/20260407120725/https://bigthink.com/mind-behavior/the-resilience-paradox-when-pushing-through-makes-things-worse/
+:END:
+found via [[https://makoism.com/espresso-shots-4-5-26/][Espresso Shots 4-5-26]]
