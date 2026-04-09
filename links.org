@@ -490,3 +490,17 @@ found via [[https://news.ycombinator.com/item?id=47618223][We replaced RAG with 
 :Archive_url: https://web.archive.org/web/20260407120725/https://bigthink.com/mind-behavior/the-resilience-paradox-when-pushing-through-makes-things-worse/
 :END:
 found via [[https://makoism.com/espresso-shots-4-5-26/][Espresso Shots 4-5-26]]
+** Scientists invented a fake disease. AI told people it was real
+:PROPERTIES:
+:ID:       F27A5682-0BE1-4C58-B11E-7C54BE0C365B
+:Title: Scientists invented a fake disease. AI told people it was real
+:Created: 2026-04-09 09:56:32
+:Date: 2026-04-09 09:56:32
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: health
+:Original_url: [[https://www.nature.com/articles/d41586-026-01100-y]]
+:Archive_url: https://web.archive.org/web/20260409075722/https://www.nature.com/articles/d41586-026-01100-y
+:END:
