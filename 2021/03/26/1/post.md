@@ -6,7 +6,7 @@ wayback: https://web.archive.org/web/20210326074351/https://blog.rize.io/blog/ph
 language: en
 type: note
 properties:
-    tags: ["deep work", ""]
+    tags: ["deep work"]
 published: true
 ...
 
