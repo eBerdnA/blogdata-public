@@ -504,3 +504,18 @@ found via [[https://makoism.com/espresso-shots-4-5-26/][Espresso Shots 4-5-26]]
 :Original_url: [[https://www.nature.com/articles/d41586-026-01100-y]]
 :Archive_url: https://web.archive.org/web/20260409075722/https://www.nature.com/articles/d41586-026-01100-y
 :END:
+** MCP Is the Backdoor Your Zero-Trust Architecture Missed
+:PROPERTIES:
+:ID:       5BC20428-50E9-41E2-A622-2F95FB3913DD
+:Title: MCP Is the Backdoor Your Zero-Trust Architecture Missed
+:Created: 2026-04-18 10:55:36
+:Date: 2026-04-18 10:55:36
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: security
+:Original_url: https://brightbean.xyz/blog/mcp-backdoor-zero-trust-architecture-security/
+:Archive_url: https://web.archive.org/web/20260418085609/https://brightbean.xyz/blog/mcp-backdoor-zero-trust-architecture-security/
+:END:
+found via https://chaos.social/@nblr/116422113193372814
