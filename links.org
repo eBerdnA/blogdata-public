@@ -519,3 +519,16 @@ found via [[https://makoism.com/espresso-shots-4-5-26/][Espresso Shots 4-5-26]]
 :Archive_url: https://web.archive.org/web/20260418085609/https://brightbean.xyz/blog/mcp-backdoor-zero-trust-architecture-security/
 :END:
 found via https://chaos.social/@nblr/116422113193372814
+** Lucas Debargue - Alla Turca Variations
+:PROPERTIES:
+:ID:       C9C30D0D-6277-47F0-8E51-1EE007E35442
+:Title: Lucas Debargue - Alla Turca Variations
+:Created: 2026-04-19 14:09:31
+:Date: 2026-04-19 14:09:31
+:Type: link
+:Language: en
+:Published: true
+:Tags: music
+:Original_url: https://www.youtube.com/watch?v=bhEHRrsx_qE
+:END:
+found via [[https://www.honest-broker.com/p/blues-legend-robert-johnson-like][Blues Legend Robert Johnson Like You've Never Heard Him Before]]
