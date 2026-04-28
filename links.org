@@ -547,3 +547,16 @@ found via [[https://www.honest-broker.com/p/blues-legend-robert-johnson-like][Bl
 :Archive_url: https://web.archive.org/web/20260419173209/https://www.maaikebrinkhof.nl/ignore-the-humanities-at-your-own-peril/
 :END:
 found via https://mastodon.social/@rotnroll666/116430912166790123
+** Uber CTO Shows How Claude Code Can Blow Up AI Budgets
+:PROPERTIES:
+:ID:       65B1671F-362A-400D-A1E3-C36573592E11
+:Title: Uber CTO Shows How Claude Code Can Blow Up AI Budgets
+:Created: 2026-04-28 10:32:52
+:Date: 2026-04-28 10:32:52
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets
+:Archive_url: https://archive.is/P8LEc
+:END:
