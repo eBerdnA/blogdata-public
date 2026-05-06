@@ -560,3 +560,18 @@ found via https://mastodon.social/@rotnroll666/116430912166790123
 :Original_url: https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets
 :Archive_url: https://archive.is/P8LEc
 :END:
+** How Google Maps is shaping where we eat
+:PROPERTIES:
+:ID:       665EC243-93B0-4463-8483-555BC3AAEC2B
+:Title: How Google Maps is shaping where we eat – video
+:Created: 2026-05-06 09:19:20
+:Date: 2026-05-06 09:19:20
+:Type: link
+:Language: en
+:Published: true
+:Tags: google
+:Tags+: apple
+:Tags+: maps
+:Original_url: https://www.theguardian.com/world/video/2026/mar/19/how-google-maps-is-shaping-where-we-eat-video
+:END:
+My biggest challenge is that I personally also use Google Maps to find restaurants and food spots — especially when I'm on vacation or business trips. The alternatives, such as [[https://www.openstreetmap.org/][OpenStreetMap]], are basically fine, but my personal experience is that the discovery aspect doesn't really work well there. Another alternative, Apple Maps, is also not as good quality-wise, and on top of that has now [[https://www.macrumors.com/2026/05/05/ios-26-5-three-new-iphone-features/][announced]] that ads will be shown in Apple Maps starting with the next iOS version.
