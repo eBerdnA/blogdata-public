@@ -1,0 +1,15 @@
+* It was never about AI (we are not our tools)
+:PROPERTIES:
+:ID:       0DAA5627-48F4-45B2-92C6-D16677BCD56C
+:Title: It was never about AI (we are not our tools)
+:Created: 2026-05-11 21:22:53
+:Date: 2026-05-11 21:22:53
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: software development
+:Original_url: https://bigthink.com/the-long-game/it-was-never-about-ai-we-are-not-our-tools/
+:Archive_url: https://web.archive.org/web/20260511192334/https://bigthink.com/the-long-game/it-was-never-about-ai-we-are-not-our-tools/
+:END:
+found via [[https://makoism.com/espresso-shots-5-10-26/][Espresso Shots 5-10-26]]
