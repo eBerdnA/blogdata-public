@@ -1,0 +1,14 @@
+* If AI Writes Your Code, Why Use Python?
+:PROPERTIES:
+:ID:       E574CE09-1444-4A0D-AA5C-97384F1E1FDF
+:Title: If AI Writes Your Code, Why Use Python?
+:Created: 2026-05-12 08:33:45
+:Date: 2026-05-12 08:33:45
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: software development
+:Original_url: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
+:END:
+After reading this, maybe we'll see a comeback of Assembly ;)
