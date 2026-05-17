@@ -1,0 +1,15 @@
+* Why You Should Validate Before Building
+:PROPERTIES:
+:ID:       F50B2A4C-A211-44EC-985B-E5BC663484D9
+:Title: Why You Should Validate Before Building
+:Created: 2026-05-17 21:27:43
+:Date: 2026-05-17 21:27:43
+:Type: link
+:Language: en
+:Published: true
+:Tags: product management
+:Tags+: innovation
+:Original_url: https://leanspark.ai/blog/why-validation-before-building
+:Archive_url: https://web.archive.org/web/20260517192827/https://leanspark.ai/blog/why-validation-before-building
+:END:
+found via [[https://www.deimeke.net/dirk/blog/index.php?/archives/4491-Linkdump-192026.html][Linkdump 19/2026 | Dirks Logbuch]]
