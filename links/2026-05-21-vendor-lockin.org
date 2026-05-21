@@ -1,0 +1,14 @@
+* What If Lock-In Doesn’t Matter So Much Anymore?
+:PROPERTIES:
+:ID:       9B249293-0294-499E-9058-700618EF4817
+:Title: What If Lock-In Doesn’t Matter So Much Anymore?
+:Created: 2026-05-21 21:35:43
+:Date: 2026-05-21 21:35:43
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: software development
+:Original_url: https://kottke.org/26/05/what-if-lock-in-doesnt-matter-so-much-anymore
+:Archive_url: https://web.archive.org/web/20260521193658/https://kottke.org/26/05/what-if-lock-in-doesnt-matter-so-much-anymore
+:END:
