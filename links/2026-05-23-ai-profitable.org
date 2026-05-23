@@ -1,0 +1,13 @@
+* Is AI Profitable Yet?
+:PROPERTIES:
+:ID:       ADCE8F54-A74B-4A6B-9B65-2D5918CC1B8C
+:Title: Is AI Profitable Yet?
+:Created: 2026-05-23 17:08:12
+:Date: 2026-05-23 17:08:12
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://isaiprofitable.com/
+:END:
+found via [[https://news.ycombinator.com/item?id=48243863][Is AI Profitable Yet? | Hacker News]]
