@@ -1,0 +1,19 @@
+* Uber's COO says it's getting harder to justify the company's AI spend: 'That link is not there yet'
+:PROPERTIES:
+:ID:       FA01A41F-BD90-426F-BAFE-39E27E9F3C4C
+:Title: Uber's COO says it's getting harder to justify the company's AI spend: 'That link is not there yet'
+:Created: 2026-05-27 13:54:14
+:Date: 2026-05-27 13:54:14
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: governance
+:Tags: roi
+:Original_url: https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/
+:Arcvhie_url: https://web.archive.org/web/20260527115720/https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/
+:END:
+I posted some weeks earlier that Uber already burned all of their 2026 AI budget in April. This was shared by Uber's CTO. Now the COO is sharing concerns about their AI usage in general.
+#+begin_quote
+“If you’re not actually able to draw a direct line to how [many] useful features and functionality you’re shipping to your users, that trade becomes harder to justify,” Macdonald said.
+#+end_quote
