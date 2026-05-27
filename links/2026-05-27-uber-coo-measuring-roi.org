@@ -14,6 +14,6 @@
 :Arcvhie_url: https://web.archive.org/web/20260527115720/https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/
 :END:
 I posted some weeks earlier that Uber already burned all of their 2026 AI budget in April. This was shared by Uber's CTO. Now the COO is sharing concerns about their AI usage in general.
-#+begin_quote
+#+BEGIN_QUOTE
 “If you’re not actually able to draw a direct line to how [many] useful features and functionality you’re shipping to your users, that trade becomes harder to justify,” Macdonald said.
-#+end_quote
+#+END_QUOTE
