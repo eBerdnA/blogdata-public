@@ -1,0 +1,16 @@
+* AI Agents Forecast to Boost Tech Cash Flow as Usage Soars
+:PROPERTIES:
+:ID:       687F7313-6804-44A4-9A66-A27923B9BEA8
+:Title: AI Agents Forecast to Boost Tech Cash Flow as Usage Soars
+:Created: 2026-05-29 10:41:31
+:Date: 2026-05-29 10:41:31
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Original_url: https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars
+:Archive_url: https://web.archive.org/web/20260529084428/https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars
+:END:
+It's just crazy to see a projection like this, and at the same time, companies like Uber start realizing that they're [[/links/2026-05-27-uber-coo-measuring-roi/][burning thorugh their budget]] much faster than they anticipated during planning. On top of that, they still aren't sure on how to measure the ROI of this spending.
+And at the same time, back in the days Goldman Sachs also [[https://www.businessinsider.com/metaverse-investing-goldman-sachs-web3-crypto-blockchain-analysis-outlook-strategy-2022-1][predicted]] that the Metaverse would be the next big thing. And we all know how that [[https://www.businessinsider.com/meta-metaverse-dying-horizon-worlds-ai-2026-3][ended]].
+Draw whatever conclusion you like from this.
