@@ -1,0 +1,20 @@
+* Argument Collapse: LLMs Flatten Long-Form Public Debate
+:PROPERTIES:
+:ID:       8A83800B-786F-490C-B544-B985E699921F
+:Title: Argument Collapse: LLMs Flatten Long-Form Public Debate
+:Created: 2026-06-09 10:25:53
+:Date: 2026-06-09 10:25:53
+:Type: link
+:Language: en
+:Published: true
+:Tags: ai
+:Tags+: llm
+:Tags+: thinking
+:Original_url: https://arxiv.org/abs/2606.01736v3
+:END:
+found via [[https://bsky.app/profile/rawx.bsky.social/post/3mnsqseuhd22j][Post by @rawx.bsky.social — Bluesky]].
+It's also worth reading the whole thread at Bluesky. The last post in the thread is worth highlighting.
+#+begin_quote
+So, it's a bit like with using chatbots to cheat at exams: If you use AI to generate your essay/argument/paper wholesale, you suck and homogenize your stuff with mediocre crap. But using synthetic output as material to work with, enriching it with all kinds of sources should be fine.
+#+end_quote
+If the original thread becomes unavailable (for whatever reason) you can find the archived version [[https://web.archive.org/web/20260609082917/https://bsky.app/profile/rawx.bsky.social/post/3mnsqseuhd22j][here]].
