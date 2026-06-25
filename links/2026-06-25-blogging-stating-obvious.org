@@ -1,0 +1,15 @@
+* Blogging Can Just Be Stating The Obvious
+:PROPERTIES:
+:ID:       81541E15-ADBF-4D2A-A4AF-A0729C41F174
+:Title: Blogging Can Just Be Stating The Obvious
+:slug: /blogging-stating-obvious/
+:Created: 2026-06-25 09:57:26
+:Date: 2026-06-25 09:57:26
+:Type: link
+:Language: en
+:Published: true
+:Tags: 
+:Original_url: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
+:Archive_url: https://web.archive.org/web/20260624132930/https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious//
+:END:
+found via [[https://news.ycombinator.com/item?id=48666927][Blogging can just be stating the obvious | Hacker News]]
