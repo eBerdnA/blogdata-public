@@ -1,0 +1,21 @@
+* ASAP might not mean what you think it does
+:PROPERTIES:
+:ID:       E9ADC158-7A10-47EB-B341-8681A6C57065
+:Title: ASAP might not mean what you think it does
+:slug: /asap-meaning/
+:Created: 2026-06-25 13:32:38
+:Date: 2026-06-25 13:32:38
+:Type: article
+:Language: en
+:Published: true
+:Tags: language
+:END:
+
+Last week I heard this on a podcast, can't remember which one. Apparently, most people use ASAP with the wrong meaning in mind.
+
+#+begin_quote
+As soon as is possible; at one's earliest convenience; at the earliest possible time. 
+#+end_quote
+source: https://en.wiktionary.org/wiki/as_soon_as_possible
+
+It doesn't mean you need to drop everything the moment someone puts ASAP at the end of their message. It has a literal meaning: do it when you're next able to. **On your terms, not the sender's**.
