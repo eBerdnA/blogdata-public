@@ -16,6 +16,6 @@ Last week I heard this on a podcast, can't remember which one. Apparently, most 
 #+begin_quote
 As soon as is possible; at one's earliest convenience; at the earliest possible time. 
 #+end_quote
-source: https://en.wiktionary.org/wiki/as_soon_as_possible
+source: [[https://en.wiktionary.org/wiki/as_soon_as_possible][https://en.wiktionary.org/wiki/as_soon_as_possible]]
 
 It doesn't mean you need to drop everything the moment someone puts ASAP at the end of their message. It has a literal meaning: do it when you're next able to. **On your terms, not the sender's**.
