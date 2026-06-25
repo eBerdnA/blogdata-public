@@ -1,0 +1,14 @@
+* A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding
+:PROPERTIES:
+:ID:       18006DC0-0C6B-458F-BF8A-BE11D9FC2331
+:Title: A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding
+:Created: 2026-06-25 10:15:17
+:Date: 2026-06-25 10:15:17
+:Type: link
+:Language: en
+:Published: true
+:Tags: ssh
+:Original_url: https://labs.iximiuz.com/tutorials/ssh-tunnels
+:Archive_url: https://web.archive.org/web/20260625013406/https://labs.iximiuz.com/tutorials/ssh-tunnels
+:END:
+found via [[https://news.ycombinator.com/item?id=48606222][A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding | Hacker News]]

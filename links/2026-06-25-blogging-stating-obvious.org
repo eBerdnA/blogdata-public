@@ -8,7 +8,7 @@
 :Type: link
 :Language: en
 :Published: true
-:Tags: 
+:Tags:  blogging
 :Original_url: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
 :Archive_url: https://web.archive.org/web/20260624132930/https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious//
 :END:
