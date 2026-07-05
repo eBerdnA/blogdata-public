@@ -1,0 +1,14 @@
+* LLM Driven Development
+:PROPERTIES:
+:ID:       E6D18E3E-2527-49DA-A5E9-7C6022FB608F
+:Title: LLM Driven Development
+:Created: 2026-07-05 21:43:01
+:Date: 2026-07-05 21:43:01
+:Type: link
+:Language: de
+:Published: true
+:Tags: llm
+:Tags+: ai
+:Tags+: software development
+:Original_url: https://blog.koehntopp.info/2026/06/05/llm-driven-development/
+:END:
