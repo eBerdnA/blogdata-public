@@ -7,7 +7,7 @@ properties:
     tags: ["einzelhandel", "innenstadt", "service"]
 published: true
 ---
-"Es gehe darum, das Zentrum attraktiver zu gestalten, damit nicht noch mehr Kundschaft ins Internet abwandere." So stand es heute in meiner Lokalzeitung, als Begründung für ein weiteres Vorhaben zur Aufenthaltsqualität in der Innenstadt. Klingt vernünftig. Ist aber die falsche Antwort auf die falsche Frage. Und ein Satz, den man in dieser oder ähnlicher Form immer wieder liest, wenn irgendwo über schrumpfenden Einzelhandel berichtet wird.
+"Es gehe darum, das Zentrum attraktiver zu gestalten, damit nicht noch mehr Kundschaft ins Internet abwandere." So stand es heute in meiner Lokalzeitung, als Begründung für ein weiteres Vorhaben zur Steigerung der Aufenthaltsqualität in der Innenstadt. Klingt vernünftig. Ist aber die falsche Antwort auf die falsche Frage. Und ein Satz, den man in dieser oder ähnlicher Form immer wieder liest, wenn irgendwo über schrumpfenden Einzelhandel berichtet wird.
 
 Das Problem des lokalen Einzelhandels ist nicht die Fassade. Es ist die Kasse. Und alles, was danach kommt.
 
