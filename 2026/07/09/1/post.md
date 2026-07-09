@@ -9,7 +9,7 @@ published: true
 ---
 "Es gehe darum, das Zentrum attraktiver zu gestalten, damit nicht noch mehr Kundschaft ins Internet abwandere." So stand es heute in meiner Lokalzeitung, als Begründung für ein weiteres Vorhaben zur Aufenthaltsqualität in der Innenstadt. Klingt vernünftig. Ist aber die falsche Antwort auf die falsche Frage. Und ein Satz, den man in dieser oder ähnlicher Form immer wieder liest, wenn irgendwo über schrumpfenden Einzelhandel berichtet wird.
 
-Das Problem des lokalen Einzelhandels ist nicht die Fassade. Es ist die Kasse – und alles, was danach kommt.
+Das Problem des lokalen Einzelhandels ist nicht die Fassade. Es ist die Kasse. Und alles, was danach kommt.
 
 Natürlich gibt es Kundschaft, für die Ambiente zählt. Ein Bummel durch eine hübsche Altstadt hat seinen Wert, keine Frage. Aber Ambiente verkauft keine Waschmaschine, und ein neu gepflasterter Marktplatz repariert keinen kaputten Toaster. Wer abwandert, tut das selten wegen der Straßenmöblierung – sondern weil der Service online schlicht besser ist.
 
