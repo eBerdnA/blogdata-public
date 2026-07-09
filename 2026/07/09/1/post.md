@@ -23,7 +23,7 @@ Drei Beispiele, die jeder kennt, der schon mal versucht hat, lokal statt online 
 
 Wer diese drei Punkte lösen würde, hätte einen echten Hebel gegen die Internetkonkurrenz. Wer stattdessen Blumenkübel aufstellt, kuriert Symptome statt Ursache.
 
-Ein Einwand liegt nahe: Viele dieser Probleme liegen gar nicht beim einzelnen Händler, sondern in der Beziehung zwischen Hersteller und Handel. Große Plattformen wie Amazon haben gegenüber Herstellern schlicht mehr Verhandlungsmacht als der Laden um die Ecke. Das stimmt – und es zeigt, dass die eigentliche Schieflage strukturell ist, nicht kosmetisch. Umso mehr Grund, die Fördermittel dort einzusetzen, wo sie etwas bewirken, statt in Pflastersteinen zu versickern.
+Ein Einwand liegt nahe: Viele dieser Probleme liegen gar nicht beim einzelnen Händler, sondern in der Beziehung zwischen Hersteller und Handel. Große Plattformen wie Amazon haben gegenüber Herstellern schlicht mehr Verhandlungsmacht als der Laden um die Ecke. Das stimmt und es zeigt, dass die eigentliche Schieflage strukturell ist, nicht kosmetisch. Umso mehr Grund, die Fördermittel dort einzusetzen, wo sie etwas bewirken, statt in Pflastersteinen zu versickern.
 
 Und ja: Für guten Service bin ich bereit, mehr zu zahlen. Bei einem Elektrogroßgerät zahle ich gerne einen Aufpreis, wenn Beratung und Service stimmen. Was ich nicht verstehe, ist eine Preisdifferenz von über 100 Prozent zum Online-Preis, plus Aufpreis für Lieferung und Montage obendrauf. Wer glaubt, dass Kunden das nicht nachrechnen, unterschätzt sie.
 
