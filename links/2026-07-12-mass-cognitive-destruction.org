@@ -1,0 +1,16 @@
+* AI as a weapon of mass cognitive destruction
+:PROPERTIES:
+:ID:       D4304AB8-AE4B-490F-8B79-A8B1DCBB0940
+:Title: AI as a weapon of mass cognitive destruction
+:Created: 2026-07-12 13:05:32
+:Date: 2026-07-12 13:05:32
+:Type: link
+:Language: en
+:Published: true
+:Tags: 
+:Original_url: https://taoofmac.com/space/blog/2026/07/08/2130
+:Archive_url: https://web.archive.org/web/20260712110736/https://taoofmac.com/space/blog/2026/07/08/2130
+:END:
+#+begin_quote
+Blaise Pascal once quipped “I would have written a shorter letter, but I did not have the time.” Being both factual and concise is the expensive option, not the lazy one. Halving a document means understanding it well enough to know what can be trimmed away. Getting a paragraph down to the pair of sentences that are really key takes judgement, a couple of revisions and, yes, time. And (this is what really annoys me) we still haven’t nailed the art of the concise slide presentation–instead, we’ve now weaponized it to… a nuclear degree.
+#+end_quote
