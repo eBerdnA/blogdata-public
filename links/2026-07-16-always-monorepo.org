@@ -1,0 +1,14 @@
+* Always Go With a Monorepo
+:PROPERTIES:
+:ID:       6E584E22-6824-422B-AC10-936BEE3C99DF
+:Title: Always Go With a Monorepo
+:Created: 2026-07-16 17:10:06
+:Date: 2026-07-16 17:10:06
+:Type: link
+:Language: en
+:Published: true
+:Tags: sdlc
+:Tags+: vcs
+:Original_url: https://kore-nordmann.de/blog/always_go_with_a_monorepo.html
+:Archive_url: https://web.archive.org/web/20260716151101/https://kore-nordmann.de/blog/always_go_with_a_monorepo.html
+:END:
