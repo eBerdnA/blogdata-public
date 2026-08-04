@@ -1,0 +1,14 @@
+* cjpais/Handy
+:PROPERTIES:
+:ID:       20260804T094436.416432
+:Title: cjpais/Handy
+:Created: 2026-08-04 09:45:23
+:Date: 2026-08-04 09:45:23
+:Type: link
+:Language: en
+:Published: true
+:Tags: tool
+:Tags+: whisper
+:Tags+: speech-to-text
+:Original_url: https://github.com/cjpais/handy
+:END:
