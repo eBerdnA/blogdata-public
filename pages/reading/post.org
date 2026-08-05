@@ -22,6 +22,7 @@
 | 2025-12-30 | 2025-12-30 | Finished    | [[https://www.goodreads.com/book/show/657295.Die_M_use_Strategie_f_r_Manager][Die Mäuse Strategie]]                                                |
 | 2026-05-13 | 2026-07-16 | Finished    | [[https://www.goodreads.com/book/show/59775184-der-meister-und-margarita][Der Meister und Margarita]]                                          |
 | 2026-07-18 | 2026-07-29 | Finished    | [[https://www.goodreads.com/book/show/211721806-dungeon-crawler-carl][Dungeon Crawler Carl]]                                               |
+| 2026-07-29 |            | In progress | [[https://www.goodreads.com/book/show/253870447-carl-s-doomsday-scenario][Carl's Doomsday Scenario]]                                      |
 
 ** SUB - Stack of unread books
 | Title                                |
