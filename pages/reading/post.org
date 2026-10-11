@@ -24,6 +24,7 @@
 | 2026-07-18 | 2026-07-29 | Finished    | [[https://www.goodreads.com/book/show/211721806-dungeon-crawler-carl][Dungeon Crawler Carl]]                                               |
 | 2026-07-29 | 2026-09-06 | Finished    | [[https://www.goodreads.com/book/show/253870447-carl-s-doomsday-scenario][Carl's Doomsday Scenario]]                                      |
 | 2026-09-08 | 2026-10-11 | Finished    | [[https://www.goodreads.com/book/show/1476354.Der_lange_Abschied][Der lange Abschied]] |
+| 2026-10-11 |            | In progress | [[https://www.goodreads.com/book/show/211721809][The Dungeon Anarchist's Cookbook]] |
 
 
 ** SUB - Stack of unread books
